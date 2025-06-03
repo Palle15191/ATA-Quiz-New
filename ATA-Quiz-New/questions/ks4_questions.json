@@ -1,545 +1,387 @@
 [
   {
-    "question": "Unter „Reflexion‑ON‑action“ versteht man …",
+    "question": "Das SMART-Ziel 'R' steht für …",
     "options": [
-      "das unmittelbare Nachdenken während einer Handlung",
-      "das vorausschauende Planen vor einer Handlung",
-      "das rückblickende Nachdenken nach Abschluss einer Handlung",
-      "eine spontane Improvisation ohne Reflexion"
+      "realistisch",
+      "reflektiert",
+      "resultierend",
+      "reduzierbar"
     ],
-    "answer": 2
+    "answer": 0,
+    "ref_detail": "8.3 – SMART-Zielsetzung"
   },
   {
-    "question": "Das Akronym SMART für Zielsetzung bedeutet NICHT …",
+    "question": "Die Burn‑out‑Triade nach Maslach umfasst emotionale Erschöpfung, Depersonalisation und ____.",
     "options": [
-      "Spezifisch",
-      "Messbar",
-      "Attraktiv",
-      "Realistisch",
-      "Traditionell"
+      "reduzierte persönliche Leistungsfähigkeit",
+      "Hyperaktivität",
+      "soziale Distanz",
+      "Perfektionismus"
     ],
-    "answer": 4
+    "answer": 0,
+    "ref_detail": "44.2 – Burn-out Symptome"
   },
   {
-    "question": "Welche drei Hauptkomponenten beschreiben die Burn‑out‑Triade nach Maslach?",
-    "options": [
-      "Emotionale Erschöpfung, Depersonalisation, reduzierte persönliche Leistungsfähigkeit",
-      "Stress, Schlaflosigkeit, Depression",
-      "Kopfschmerz, Müdigkeit, Frustration",
-      "Überstunden, Konflikte, Monotonie"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "„Analysieren“ befindet sich in Blooms überarbeiteter Taxonomie auf der Stufe …",
-    "options": [
-      "Erinnern",
-      "Verstehen",
-      "Anwenden",
-      "Analysieren",
-      "Bewerten"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Eine evidenzbasierte Praxis (EBP) kombiniert klinische Expertise, best available evidence und …",
-    "options": [
-      "Patient*innen‑Präferenzen",
-      "Budgetrestriktionen",
-      "Marketingziele",
-      "rechtliche Vorschriften"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Technik gilt NICHT als Stressbewältigungsstrategie der kognitiven Ebene?",
-    "options": [
-      "Positive Selbstinstruktion",
-      "Progressive Muskelrelaxation",
-      "Kognitive Umstrukturierung",
-      "Reframing"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "„Selbstwirksamkeit“ nach Bandura beschreibt …",
+    "question": "Selbstwirksamkeit nach Bandura beschreibt …",
     "options": [
       "die Überzeugung, eigene Handlungen erfolgreich ausführen zu können",
-      "die Anzahl erledigter Aufgaben pro Tag",
-      "den wahrgenommenen Stresslevel",
-      "die Fremdwahrnehmung der Kolleg*innen"
+      "den Glauben an fremde Hilfe",
+      "die physiologische Stressreaktion",
+      "die Fremdbeurteilung der Leistung"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "8.4 – Selbstwirksamkeit"
   },
   {
-    "question": "Ein Portfolio in der beruflichen Weiterbildung dient in erster Linie …",
+    "question": "Im 70‑20‑10‑Lernmodell beziehen sich 20 % des Lernens auf …",
     "options": [
-      "als Sammlung belegter Lern‑ und Entwicklungsnachweise",
-      "zur Lohnabrechnung",
-      "zur Urlaubsplanung",
-      "als Ersatz für Dienstpläne"
+      "soziales Lernen/Feedback",
+      "formale Schulungen",
+      "Erfahrungslernen",
+      "E‑Learning"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "8.3 – 70‑20‑10-Modell"
   },
   {
-    "question": "Welcher Lerntyp nach VARK bevorzugt grafische Darstellungen?",
+    "question": "Welche Phase kommt in Gibbs' Reflexionszyklus direkt nach 'Gefühle' (Feelings)?",
     "options": [
-      "Visuell",
-      "Auditiv",
-      "Lesen/Schreiben",
-      "Kinästhetisch"
+      "Evaluation",
+      "Analyse",
+      "Beschreibung",
+      "Schlussfolgerung"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "44.3 – Gibbs Reflective Cycle"
   },
   {
-    "question": "Resilienzförderung beinhaltet NICHT …",
+    "question": "Portfolio Zweck",
     "options": [
-      "soziale Netzwerke aufbauen",
-      "Selbstfürsorge",
-      "Perfektionismus maximieren",
-      "Problemlösekompetenz stärken"
+      "Nachweis kontinuierlicher Entwicklung",
+      "Gehaltsabrechnung",
+      "Visitenplanung",
+      "Urlaubsverwaltung"
     ],
-    "answer": 2
+    "answer": 0,
+    "ref_detail": "8.4 – Portfolio"
   },
   {
-    "question": "„Shadowing“ in der Personalentwicklung bedeutet …",
+    "question": "Evidenzbasierte Praxis kombiniert Evidenz, Expertise und …",
     "options": [
-      "einen erfahrenen Kollegen bei der Arbeit beobachten",
-      "Überstunden in der Nacht leisten",
-      "Arbeiten im Schatten der Hierarchie",
-      "Dienstreisen ins Ausland"
+      "Patientenpräferenzen",
+      "Klinikbudget",
+      "Marketing",
+      "Zufall"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "34.4 – EBP"
   },
   {
-    "question": "Eine Supervision unterscheidet sich von einer Fallbesprechung primär durch …",
+    "question": "Mindfulness-Komponente NICHT …",
     "options": [
-      "die Einbindung einer externen, geschulten Leitungsperson",
-      "das Fehlen von Feedback",
-      "die reine Dokumentationsfunktion",
-      "den Fokus auf medizinische Kodierung"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Continuous Professional Development (CPD) erfordert nach gängiger Definition …",
-    "options": [
-      "planvolles, lebenslanges Lernen und Dokumentieren",
-      "einmalige Zertifizierung nach der Ausbildung",
-      "nur Pflichtfortbildungen des Arbeitgebers",
-      "ausschließliche Teilnahme an Kongressen"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Aussage zu Mind‑Mapping ist korrekt?",
-    "options": [
-      "Es fördert assoziatives Denken durch visuelle Vernetzung",
-      "Es besteht aus linearen Stichpunktlisten",
-      "Es verhindert Kreativität",
-      "Es nutzt ausschließlich Text ohne Bilder"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Zur Priorisierung von Aufgaben dient die Eisenhower‑Matrix mit den Dimensionen …",
-    "options": [
-      "Dringlichkeit & Wichtigkeit",
-      "Zeit & Kosten",
-      "Komplexität & Risiko",
-      "Kompetenz & Interesse"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Komponente zählt NICHT zum Konzept der Achtsamkeit (Mindfulness)?",
-    "options": [
+      "Hyperfokussierung",
       "Gegenwärtigkeit",
       "Urteilsfreiheit",
-      "Hyperfokussierung",
       "Akzeptanz"
     ],
-    "answer": 2
+    "answer": 0,
+    "ref_detail": "44.1 – Achtsamkeit"
   },
   {
-    "question": "Das 70‑20‑10‑Modell der Lernquellen besagt, dass 70 % des Lernens …",
+    "question": "Pomodoro-Technik Arbeitsintervall",
     "options": [
-      "durch Erfahrungslernen am Arbeitsplatz erfolgt",
-      "durch formale Schulungen erfolgt",
-      "durch Social Media erfolgt",
-      "durch Selbststudium erfolgt"
+      "25 min Arbeit/5 min Pause",
+      "45/15",
+      "60/10",
+      "90/20"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "45.3 – Zeitmanagement"
   },
   {
-    "question": "Ein Peer‑Review im klinischen Kontext dient …",
+    "question": "ALPEN-Methode 'N' bedeutet …",
     "options": [
-      "der kollegialen Qualitätsüberprüfung fachlicher Arbeit",
-      "primär der Gehaltsabrechnung",
-      "dem Urlaubsplan",
-      "der Materialbeschaffung"
+      "Nachkontrolle",
+      "Notizen",
+      "Nachweis",
+      "Neutralität"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "45.2 – ALPEN"
   },
   {
-    "question": "Mentoring unterscheidet sich von Coaching dadurch, dass Mentoring …",
+    "question": "Kaizen steht für …",
     "options": [
-      "eine langfristige, karriereorientierte Beziehung darstellt",
-      "zielgerichtet, kurzfristig und aufgabenbezogen ist",
-      "ausschließlich extern durchgeführt wird",
-      "keine Beziehungskomponente enthält"
+      "kontinuierliche Verbesserung",
+      "einmalige Innovation",
+      "Stillstand",
+      "Kontrolle"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.2 – KVP"
   },
   {
-    "question": "Time‑Management nach der Pomodoro‑Technik sieht Arbeitsintervalle von …",
+    "question": "ABCDE-Selbstreflexion 'D' …",
     "options": [
-      "25 Minuten Arbeit, 5 Minuten Pause",
-      "45 Minuten Arbeit, 15 Minuten Pause",
-      "60 Minuten Arbeit, 10 Minuten Pause",
-      "90 Minuten Arbeit, 20 Minuten Pause"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Eine systematische Literaturrecherche beginnt NICHT mit …",
-    "options": [
-      "einer klaren Fragestellung (PICO)",
-      "Zufallswahl der Datenbanken",
-      "Definieren von Ein‑/Ausschlusskriterien",
-      "Festlegung von Suchbegriffen"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Intrinsic Motivation wird am stärksten gefördert durch …",
-    "options": [
-      "Autonomie, Kompetenz und soziale Eingebundenheit",
-      "materielle Belohnung",
-      "Strafandrohungen",
-      "Mangelnde Transparenz"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Im Qualitätszyklus nach Deming steht der Buchstabe 'D' für …",
-    "options": [
-      "Do (Umsetzen)",
-      "Design",
-      "Develop",
-      "Deliver"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Das Konzept der Salutogenese nach Antonovsky fokussiert auf …",
-    "options": [
-      "Gesundheitsentstehung und Kohärenzgefühl",
-      "Krankheitsursachen",
-      "Pathologische Prozesse",
-      "Pharmakologische Interventionen"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Ethical Decision‑Making Modelle beinhalten Üblicherweise NICHT …",
-    "options": [
-      "Identifikation des Problems",
-      "Analyse von Alternativen",
-      "Vermeidung jeglicher Dokumentation",
-      "Evaluation der Entscheidung"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Welche Maßeinheit beschreibt das Arbeitsengagement im Utrecht Work Engagement Scale (UWES)?",
-    "options": [
-      "Vigor, Dedication, Absorption",
-      "Herzfrequenz",
-      "Arbeitsstunden",
-      "Urlaubstage"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Selbstgesteuertes Lernen umfasst NICHT …",
-    "options": [
-      "Zielsetzung",
-      "Selbstmonitoring",
-      "Fremdbestimmung",
-      "Selbstevaluation"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Die Datenschutz‑Grundverordnung (DSGVO) fordert bei personenbezogenen Gesundheitsdaten …",
-    "options": [
-      "Privacy by Design und by Default",
-      "öffentliche Veröffentlichung",
-      "unverschlüsselte Ablage",
-      "unbefristete Speicherung ohne Zweckbindung"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Aussage beschreibt am besten das Konzept 'Work‑Life‑Integration'?",
-    "options": [
-      "flexibles Ineinandergreifen von Berufs‑ und Privatleben",
-      "strikte Trennung von Arbeit und Freizeit",
-      "Dauerhafte Erreichbarkeit im Job",
-      "Ausschließlich Homeoffice"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Eine Balanced Scorecard in der Gesundheitsorganisation dient …",
-    "options": [
-      "zur ganzheitlichen Leistungs‑ und Strategie‑Messung",
-      "nur der Gewinnermittlung",
-      "der reinen Patientendokumentation",
-      "ausschließlich klinischen Studien"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Kollegiale Beratung (Balint‑ähnlich) erfolgt typischerweise in …",
-    "options": [
-      "strukturiertem, vertraulichem Rahmen ohne hierarchische Unterschiede",
-      "offener Großveranstaltung",
-      "Einzelgespräch mit Vorgesetzten",
-      "ungeplanten Pausengesprächen"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Farbstufe im 'Stress‑Ampel‑Modell' signalisiert akute Handlungsnotwendigkeit?",
-    "options": [
-      "Rot",
-      "Gelb",
-      "Grün",
-      "Blau"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Die 'ABCDE'‑Regel in der Selbstreflexion steht HIER NICHT für …",
-    "options": [
-      "Activating event",
-      "Beliefs",
-      "Consequences",
       "Disputation",
-      "Elevation"
+      "Definition",
+      "Distribution",
+      "Drive"
     ],
-    "answer": 4
+    "answer": 0,
+    "ref_detail": "44.3 – ABCDE"
   },
   {
-    "question": "Bei der SWOT‑Analyse stehen die 'O' für …",
+    "question": "Johari-Fenster 'blinder Fleck' …",
     "options": [
-      "Opportunities",
-      "Obligations",
-      "Operations",
-      "Objectives"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Methode ist KEIN Bestandteil des Selbst‑ und Zeitmanagements?",
-    "options": [
-      "ALPEN‑Methode",
-      "Pareto‑Prinzip",
-      "ABC‑Analyse",
-      "Hawthorne‑Effekt"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Ein E‑Portfolio unterscheidet sich vom klassischen Ordner primär durch …",
-    "options": [
-      "digitale, multimediale Inhalte und Online‑Zugriff",
-      "größere Papiermengen",
-      "fehlende Suchfunktionen",
-      "mangelnde Aktualisierbarkeit"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Technik wird im Brief‑Balkon‑Modell (Nönnig) NICHT beschrieben?",
-    "options": [
-      "Selbstinvolvierung",
-      "Metakommunikation",
-      "Emotionalisierung",
-      "Dominanz"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Die 'Digital Competence Framework for Citizens' (DigComp) umfasst NICHT den Bereich …",
-    "options": [
-      "Informations‑ und Datenkompetenz",
-      "Kommunikation und Zusammenarbeit",
-      "Inhalts­erstellung",
-      "Rechtliche Kodierung von Arzneimitteln"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Welche Aussage beschreibt das Konzept 'Learning Agility' am besten?",
-    "options": [
-      "Fähigkeit, aus Erfahrungen schnell zu lernen und sich anzupassen",
-      "Zufälliges Lernen ohne Ziel",
-      "Vermeidung neuer Erfahrungen",
-      "Linearer Karriereplan ohne Abweichung"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Im Johari‑Fenster ist der 'blinde Fleck' …",
-    "options": [
-      "anderen bekannt, mir selbst unbekannt",
+      "anderen bekannt, mir unbekannt",
       "mir bekannt, anderen unbekannt",
       "beiden bekannt",
       "beiden unbekannt"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "44.4 – Johari"
   },
   {
-    "question": "In der GROW‑Coaching‑Methode steht 'R' für …",
+    "question": "World Café Methode Ziel",
     "options": [
-      "Reality (Ist‑Situation)",
+      "kreativer Gruppendialog",
+      "Einzelarbeit",
+      "Frontunterricht",
+      "Prüfung"
+    ],
+    "answer": 0,
+    "ref_detail": "52.4 – Moderationsmethoden"
+  },
+  {
+    "question": "Eisenhower-Matrix Achsen",
+    "options": [
+      "Dringlichkeit/Wichtigkeit",
+      "Kosten/Nutzen",
+      "Kompetenz/Interesse",
+      "Zeit/Risiko"
+    ],
+    "answer": 0,
+    "ref_detail": "45.2 – Priorisierung"
+  },
+  {
+    "question": "Salutogenese fokussiert auf …",
+    "options": [
+      "Gesundheitsentstehung",
+      "Krankheitsursache",
+      "Pharmakotherapie",
+      "Pathogenese"
+    ],
+    "answer": 0,
+    "ref_detail": "34.1 – Salutogenese"
+  },
+  {
+    "question": "GROW-Coaching 'R' steht für …",
+    "options": [
+      "Reality",
       "Reward",
       "Retention",
-      "Redundancy"
+      "Risk"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "26.3 – Coaching"
   },
   {
-    "question": "Welcher Lernstil nach Kolb bevorzugt konkrete Erfahrung und reflektierende Beobachtung?",
+    "question": "5-Why-Analyse Zweck",
     "options": [
-      "Diverger",
-      "Assimilator",
-      "Converger",
-      "Accommodator"
+      "Ursachenfindung",
+      "Budgetierung",
+      "Marketing",
+      "Leistungsbewertung"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.2 – RCA"
   },
   {
-    "question": "Eine Angemessenheit im Umgang mit Fehlern wird durch welches Kulturbild am besten beschreiben?",
+    "question": "PDCA-Zyklus 'C' …",
     "options": [
-      "Just Culture",
-      "Blame Culture",
-      "No‑Blame‑Culture ohne Verantwortung",
-      "Fear Culture"
+      "Check",
+      "Copy",
+      "Create",
+      "Charge"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.2 – KVP"
   },
   {
-    "question": "Welche Methode der Qualitätsverbesserung nutzt den 'Kaizen'‑Gedanken der kontinuierlichen Verbesserung?",
+    "question": "Resilienzfaktor NICHT …",
     "options": [
-      "PDCA‑Zyklus",
-      "Silo‑Management",
-      "Command‑Control",
-      "Cost Shifting"
+      "Perfektionismus",
+      "Selbstwirksamkeit",
+      "Netzwerke",
+      "Problemlösefähigkeit"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "44.2 – Resilienz"
   },
   {
-    "question": "Das *5‑Why*‑Tool dient der …",
+    "question": "Balanced Scorecard Perspektive NICHT …",
     "options": [
-      "Ursachenanalyse durch wiederholtes Nachfragen",
-      "Zieldefinition",
-      "Zeitmessung",
-      "Budgetplanung"
+      "Ökologie",
+      "Finanzen",
+      "Prozesse",
+      "Kunden"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.4 – BSC"
   },
   {
-    "question": "In der Transaktionsanalyse bezeichnet 'Erwachsenen‑Ich' …",
+    "question": "Time-Management Pareto-Prinzip Verhältnis",
     "options": [
-      "sachlich‑rationale Ebene der Kommunikation",
-      "kritisch‑elterliche Ebene",
-      "rebellisch‑kindliche Ebene",
-      "frei‑kindliche Ebene"
+      "80/20",
+      "70/30",
+      "60/40",
+      "90/10"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "45.2 – Pareto"
   },
   {
-    "question": "Welche Komponente gehört NICHT zum Konzept der Salutogenese von Antonovsky?",
+    "question": "Learning Agility bedeutet …",
     "options": [
-      "Verstehbarkeit",
-      "Handhabbarkeit",
-      "Bedeutsamkeit",
-      "Unbestimmtheit"
+      "schnelles Lernen und Anpassen",
+      "Vermeidung neuer Erfahrung",
+      "linearer Karriereplan",
+      "Keine Abweichung"
     ],
-    "answer": 3
+    "answer": 0,
+    "ref_detail": "8.4 – Learning Agility"
   },
   {
-    "question": "Beim aktiven Zuhören ist welches Verhalten hinderlich?",
+    "question": "5S-Methode Bestandteil NICHT …",
     "options": [
-      "Vorwegnehmen der Antwort",
-      "Augenkontakt",
-      "Offene Fragen stellen",
-      "Paraphrasieren"
+      "Subventionieren",
+      "Sortieren",
+      "Säubern",
+      "Standardisieren"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.2 – Lean"
   },
   {
-    "question": "Die ‚Fishbone‘‑(Ishikawa)‑Analyse ordnet Ursachen NICHT in die Kategorie …",
+    "question": "WHO-Checklist SIGN-IN Zeitpunkt",
     "options": [
-      "Menschen",
-      "Maschine",
-      "Management",
-      "Metabolismus"
+      "vor Anästhesieeinleitung",
+      "vor Schnitt",
+      "nach OP",
+      "im Aufwachraum"
     ],
-    "answer": 3
+    "answer": 0,
+    "ref_detail": "24.1 – SIGN-IN"
   },
   {
-    "question": "Eine 'SMART‑Goal' Formulierung enthält idealerweise einen Zeitrahmen. Welcher Teil des Akronyms drückt dies aus?",
+    "question": "ABC-Analyse Kategorie A Anteil",
     "options": [
-      "T – Terminiert",
-      "S – Spezifisch",
-      "M – Messbar",
-      "A – Akzeptiert"
+      "ca. 80 % Wert",
+      "20 % Menge",
+      "5 % Wert",
+      "50 % Menge"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "45.2 – ABC"
   },
   {
-    "question": "Die Methode \"World Café\" unterstützt …",
+    "question": "Self-Directed Learning enthält NICHT …",
     "options": [
-      "kreativen, offenen Austausch in kleineren Gesprächsgruppen",
-      "klassischen Frontalunterricht",
-      "hierarchische Diskussion",
-      "Einzelarbeiten ohne Interaktion"
+      "Fremdbestimmung",
+      "Zielsetzung",
+      "Selbstmonitoring",
+      "Selbstevaluation"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "8.3 – Selbstgesteuertes Lernen"
   },
   {
-    "question": "Ein ‚Gap‑Analysis‘ in der Weiterbildung dient dazu, …",
+    "question": "DSGVO fordert Privacy by …",
     "options": [
-      "Differenz zwischen IST‑ und SOLL‑Kompetenzen aufzudecken",
-      "Lücken im Dienstplan zu füllen",
-      "Preisunterschiede zu ermitteln",
-      "Netzwerk‑Bandbreite zu messen"
+      "Design & Default",
+      "Choice",
+      "Contract",
+      "Cookie"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "62.2 – DSGVO"
   },
   {
-    "question": "Welche Art von Feedback gilt als am wenigsten hilfreich?",
+    "question": "Kaizen Ereigniskarte 'Muda' bedeutet …",
     "options": [
-      "Allgemeines Lob ohne Beispiele",
-      "Konstruktiv, spezifisch und zeitnah",
-      "Balanced (Stärken und Verbesserungen)",
-      "Selbstreflektiertes Feed‑forward"
+      "Verschwendung",
+      "Variation",
+      "Überlastung",
+      "Ungleichheit"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.2 – Lean"
   },
   {
-    "question": "Ein ‚Reflective Journal‘ dient der …",
+    "question": "VARK-Lerntyp visuell bevorzugt …",
     "options": [
-      "fortlaufenden Selbstreflexion von Erlebnissen und Lernfortschritten",
-      "Zeiterfassung",
-      "Kassenbuchführung",
-      "Inventarliste"
+      "Grafiken",
+      "Vorträge",
+      "Handeln",
+      "Texte"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "8.3 – Lerntypen"
+  },
+  {
+    "question": "Buch 'Atomic Habits' empfiehlt …",
+    "options": [
+      "kleine Veränderungen",
+      "radikale Brüche",
+      "kein Tracking",
+      "monatliche Ziele"
+    ],
+    "answer": 0,
+    "ref_detail": "44.5 – Habits"
+  },
+  {
+    "question": "ISO 9001 Abschnitt 9 behandelt …",
+    "options": [
+      "Evaluation",
+      "Risikomanagement",
+      "Führung",
+      "Support"
+    ],
+    "answer": 0,
+    "ref_detail": "41.3 – QM"
+  },
+  {
+    "question": "Just Culture Balanciert …",
+    "options": [
+      "Lernen und Verantwortung",
+      "Belohnung und Strafe",
+      "Profit und Risiko",
+      "Technik und Mensch"
+    ],
+    "answer": 0,
+    "ref_detail": "26.4 – Just Culture"
+  },
+  {
+    "question": "ABC-Stressampel rot bedeutet …",
+    "options": [
+      "Akuter Handlungsbedarf",
+      "leichter Stress",
+      "Entspannung",
+      "keine Gefahr"
+    ],
+    "answer": 0,
+    "ref_detail": "44.2 – Stressampel"
+  },
+  {
+    "question": "Mind-Map Vorteil …",
+    "options": [
+      "assoziatives Denken",
+      "lineare Stichpunkte",
+      "Kreativität hemmen",
+      "Nur Text"
+    ],
+    "answer": 0,
+    "ref_detail": "8.3 – Mind Mapping"
   }
 ]
