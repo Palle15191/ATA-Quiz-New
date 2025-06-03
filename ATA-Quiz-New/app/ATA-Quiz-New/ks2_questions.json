@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Welche Analgesiestufe (nach WHO) wird typischerweise ZUERST bei postoperativen Schmerzen verordnet?",
+    "options": [
+      "Paracetamol/NSAID (Stufe I)",
+      "Schwache Opioide (Stufe II)",
+      "Starke Opioide (Stufe III)",
+      "Adjuvantien wie Antikonvulsiva"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein Patient erhält präoperativ 2 g Cefazolin i.v. Als ATA stellen Sie sicher, dass die Gabe …",
+    "options": [
+      "spätestens 60 Minuten vor Schnittende erfolgt",
+      "spätestens 60 Minuten vor Schnittbeginn erfolgt",
+      "erst während des Hautschnitts erfolgt",
+      "nach Abschluss der Wundnaht erfolgt"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bei intrahospitalen Patiententransporten ist die HAUPTAUFGABE der ATA …",
+    "options": [
+      "das Führen der Patientenakte",
+      "die lückenlose Überwachung der Vitalparameter",
+      "die Dokumentation der Pflegemaßnahmen",
+      "die Auswertung von Laborparametern"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Welches der folgenden Medikamente wird NICHT primär zur PONV‑Prophylaxe eingesetzt?",
+    "options": [
+      "Dexamethason",
+      "Ondansetron",
+      "Droperidol",
+      "Metamizol"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Was ist der empfohlene Ziel‑SpO₂‑Bereich bei einem erwachsenen, respiratorisch stabilen Patienten im Aufwachraum?",
+    "options": [
+      "90‑92 %",
+      "92‑96 %",
+      "96‑100 %",
+      "> 100 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tranexamsäure wird perioperativ verabreicht, um …",
+    "options": [
+      "postoperative Schmerzen zu lindern",
+      "Übelkeit zu reduzieren",
+      "Blutverlust durch Fibrinolyse‑Hemmung zu verringern",
+      "den Blutdruck anzuheben"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Eine RASS‑Skala von −4 bedeutet …",
+    "options": [
+      "tiefe Sedierung, keine Reaktion auf Stimme, aber Bewegung auf Berührung",
+      "aufgeregt/gewalttätig",
+      "wach und ruhig",
+      "leichte Sedierung mit Blickkontakt >10 s"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Postoperative Hyperglykämie (>180 mg/dl) sollte BEVORZUGT behandelt werden mit …",
+    "options": [
+      "intravenösem kurzwirksamen Insulin",
+      "oraler Metformin‑Gabe",
+      "langwirksamem Insulin s.c.",
+      "keiner Intervention"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Option beschreibt eine sichere Zentralvenenkatheter‑Lagekontrolle?",
+    "options": [
+      "Auskultation auf gurgelnde Geräusche",
+      "Blutgasanalyse des Aspirats",
+      "Röntgen‑Thorax in zwei Ebenen",
+      "Palpation der Jugularvene"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Welcher MAC‑Wert (Minimum Alveolar Concentration) steht ungefähr für Sevofluran bei einem 40‑jährigen Erwachsenen?",
+    "options": [
+      "0,2 Vol‑%",
+      "1,8 Vol‑%",
+      "3,0 Vol‑%",
+      "5,2 Vol‑%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Welches Analgetikum ist für eine PCA‑Pumpe am häufigsten gewählt?",
+    "options": [
+      "Morphin",
+      "Ketamin",
+      "Paracetamol",
+      "Ibuprofen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die 5‑R‑Regel beinhaltet NICHT …",
+    "options": [
+      "richtiger Patient",
+      "richtige Geschwindigkeit",
+      "richtiger Wirkstoff",
+      "richtige Applikationsart"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Während einer Bronchoskopie in Sedoanalgesie ist welche Sauerstoff‑Applikationsform STANDARD?",
+    "options": [
+      "High‑Flow‑Nasal‑Cannula (HFNC)",
+      "Nicht‑rebreather‑Maske",
+      "Nasale Low‑Flow‑Kanüle",
+      "Keine zusätzliche O₂‑Gabe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Ein erhöhter PaCO₂‑Wert im arteriellen Blutgas weist primär auf …",
+    "options": [
+      "Hyperventilation",
+      "Hypoventilation",
+      "metabolische Azidose",
+      "respiratorische Alkalose"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Welche Lagerung ist für einen Spinalanästhesie‑Punktionsversuch am besten geeignet?",
+    "options": [
+      "Sims‑Position",
+      "Sitzend, über Tisch vorgebeugt",
+      "Schrägkopf‑Lagerung",
+      "Trendelenburg"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ketorolac gehört zu welcher Analgetikagruppe?",
+    "options": [
+      "Nicht‑opioide NSAR",
+      "Schwache Opioide",
+      "Lokalanästhetika",
+      "Antikonvulsiva"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Was ist die EMPFOHLENE maximale Dauer eines Tourniquets am Oberarm?",
+    "options": [
+      "30 Minuten",
+      "60 Minuten",
+      "90 Minuten",
+      "120 Minuten"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Für welches Monitoring ist das BIS‑System vorgesehen?",
+    "options": [
+      "Tiefe der Neuromuskulären Blockade",
+      "Anästhesie‑Tiefenmessung EEG‑basiert",
+      "Blutdruck‑Kontrolle beatmeter Patienten",
+      "Körpertemperaturmessung"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Was gilt als Standard‑Kontraindikation für Succinylcholin?",
+    "options": [
+      "Kurze Eingriffe <5 Min",
+      "Pseudocholinesterasemangel",
+      "Schwangere im 1. Trimester",
+      "Adipositas Grad I"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Eine TxA2‑Hemmung im Thrombozytenaggregations‑Hemmer ASS hält nach Einnahme ca. …",
+    "options": [
+      "6 Stunden",
+      "24 Stunden",
+      "72 Stunden",
+      "7‑10 Tage"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Ein INR‑Wert von 1,5 vor großen abdominalen OPs ist …",
+    "options": [
+      "unproblematisch",
+      "Grenzwertig, Vitamin K erwägen",
+      "absolut kontraindiziert",
+      "irrelevant für die Anästhesie"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Das Medikation‑Safety‑Bundle umfasst KEINE der folgenden Maßnahmen:",
+    "options": [
+      "Barcode‑Scannen",
+      "Farbkodierte Spritzenetiketten",
+      "Freihändiges Aufziehen von Medikamenten ohne Etikett",
+      "Doppelkontrolle bei High‑Alert Drugs"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Eine Apfel‑Score ≥ 3 bedeutet …",
+    "options": [
+      "hohes PONV‑Risiko",
+      "schwere COPD",
+      "hohes Blutungsrisiko",
+      "Immunsuppression"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei elektiver OP muss die Einnahme von NOACs (z. B. Rivaroxaban) üblicherweise …",
+    "options": [
+      "24 h vorher pausiert werden",
+      "sofort abgesetzt werden",
+      "gar nicht pausiert werden",
+      "durch Bridging mit Warfarin ersetzt werden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Was ist ein typischer Trigger für eine Opioid‑induzierte Hyperalgesie?",
+    "options": [
+      "Langzeitgabe von Remifentanil",
+      "Paracetamol‑Infusionen",
+      "Regionalanästhesie",
+      "Lidocain‑Infusion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die häufigste Ursache postoperativer Delirien ist …",
+    "options": [
+      "Hypokapnie",
+      "Hypoxie und metabolische Störung",
+      "Lokalanästhetika‑Intoxikation",
+      "Hypothermie allein"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Welche Maßnahme ist Bestandteil eines Standard‑Fast‑Track‑Protokolls?",
+    "options": [
+      "Frühe Extubation im OP",
+      "Späte Mobilisation >24 h",
+      "Verzicht auf Antiemetika",
+      "Langsame Aufdosierung von Opiaten"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Lokalanästhetikum‑Systemtoxizität (LAST) wird INITIAL behandelt mit …",
+    "options": [
+      "Intralipid‑Bolus 1,5 ml/kg",
+      "Naloxon 0,4 mg",
+      "Atemanreize",
+      "Dantrolen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein lückenloser Temperatur‑Record während OP und Aufwachraum ist wichtig, um …",
+    "options": [
+      "Software‑Lizenzvorgaben zu erfüllen",
+      "eine dokumentierte Wärmekette nachzuweisen",
+      "Patientendaten­schutz zu umgehen",
+      "Narkosegasverbrauch zu steigern"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Die maximal empfohlene Dosis Bupivacain 0,5 % ohne Adrenalin beträgt …",
+    "options": [
+      "2 mg/kg",
+      "3 mg/kg",
+      "4 mg/kg",
+      "5 mg/kg"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Welches Blutprodukt wird primär bei isolierter Thrombozytopenie mit <50 G/l gegeben?",
+    "options": [
+      "Erythrozytenkonzentrat",
+      "Fresh Frozen Plasma",
+      "Thrombozytenkonzentrat",
+      "Fibrinogen‑Konzentrat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Die Schmerzintensität wird postoperativ nach NUMERISCHER Rating‑Skala (NRS) erfasst von …",
+    "options": [
+      "0 ‑ 10",
+      "1 ‑ 5",
+      "0 ‑ 100",
+      "0 ‑ 3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Strategie reduziert das Risiko einer post‑duralen Punktionskopfschmerzen (PDPH) am besten?",
+    "options": [
+      "dünne Pencil‑Point‑Kanüle verwenden",
+      "dicke Quincke‑Kanüle",
+      "Flache Liegezeit 24 h",
+      "hyperbare Lokalanästhetika"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Midazolam hat eine Wirkdauer von ungefähr …",
+    "options": [
+      "10‑20 Minuten",
+      "1‑2 Stunden",
+      "4‑6 Stunden",
+      "24 Stunden"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Die gängigste Stelle für einen intraossären Zugang beim Erwachsenen ist …",
+    "options": [
+      "proximaler Tibiaschaft",
+      "Sternum",
+      "Calcaneus",
+      "distaler Radius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein C‑Trauma‑Screen im CT erfordert welche Mindest‑Kreatinin‑Clearance für Kontrastmittelgabe?",
+    "options": [
+      "> 30 ml/min",
+      "> 60 ml/min",
+      "> 90 ml/min",
+      "> 120 ml/min"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die 4‑2‑1‑Regel in der intraoperativen Flüssigkeits­therapie bezieht sich auf …",
+    "options": [
+      "ml/kg/h ‑ Erhaltungsbedarf",
+      "Stunden ‑ Elektrolytzufuhr",
+      "Opioid‑Titration",
+      "Transfusions‑Trigger"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Capnographie liefert PRIMÄR Informationen über …",
+    "options": [
+      "Ventilation und Perfusion",
+      "Blutdruck",
+      "O₂‑Sättigung",
+      "Herzfrequenz"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein Basendefizit von −6 mmol/l im BGA deutet auf …",
+    "options": [
+      "metabolische Azidose",
+      "metabolische Alkalose",
+      "respiratorische Azidose",
+      "keine Störung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Perioperativer Beta‑Blocker sollte bei Patienten mit bekanntem kardiovaskulären Risiko …",
+    "options": [
+      "abgesetzt werden",
+      "fortgeführt werden",
+      "verdoppelt werden",
+      "durch ACE‑Hemmer ersetzt werden"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Die häufigste Ursache perioperativer Hypokaliämie ist …",
+    "options": [
+      "Diuretika‑Therapie",
+      "Blutverlust",
+      "Opioidgabe",
+      "Hyperventilation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein EKG zeigt ST‑Hebungen in II, III, aVF. Dies weist auf eine …",
+    "options": [
+      "inferiore Ischämie",
+      "anteriore Ischämie",
+      "laterale Ischämie",
+      "keine Ischämie"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche der folgenden Aussagen zur Pulsoxymetrie ist RICHTIG?",
+    "options": [
+      "Misst den PaO₂ direkt",
+      "Kann durch Nagellack verfälscht werden",
+      "Ist unempfindlich gegenüber Vasokonstriktion",
+      "Funktioniert unabhängig von Puls"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Der gängige Trigger zum Start einer Massivtransfusion ist ein erwarteter Blutverlust > …",
+    "options": [
+      "25 % Blutvolumen innerhalb 3 h",
+      "50 % Blutvolumen in 24 h",
+      "1000 ml Gesamt",
+      "5 % Blutvolumen in 15 min"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welches Medikament dient als Antidot für Benzodiazepine?",
+    "options": [
+      "Flumazenil",
+      "Naloxon",
+      "Protamin",
+      "Vitamin K"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine Kontraindikation für die arterielle Blutgasanalyse aus der A. radialis ist …",
+    "options": [
+      "Positive Allen‑Test",
+      "negative Allen‑Test",
+      "Blutdruck >140 mmHg",
+      "Diabetes mellitus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In der Ziel‑gerichteten Volumentherapie (GDT) wird HÄUFIG als Surrogat‑Parameter verwendet:",
+    "options": [
+      "SVV/PPV (Schlagvolumen‑Variabilität / Pulsdruck‑Variabilität)",
+      "Körpertemperatur",
+      "FiO₂",
+      "Glukose‑Spiegel"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Dosierung Fentanyl i.v. (Bolus) ist üblich zur Narkoseeinleitung beim Erwachsenen (µg/kg)?",
+    "options": [
+      "1‑2 µg/kg",
+      "10‑20 µg/kg",
+      "0,1‑0,2 µg/kg",
+      "5‑7 µg/kg"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Postoperatives Shivering wird am häufigsten behandelt mit:",
+    "options": [
+      "Meperidin (Pethidin)",
+      "Ibuprofen",
+      "Magnesiumsulfat",
+      "Ketorolac"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Dexmedetomidin wirkt primär an welchen Rezeptoren?",
+    "options": [
+      "Alpha‑2‑Adrenerge Rezeptoren",
+      "Beta‑1‑Adrenerge Rezeptoren",
+      "GABA‑Rezeptoren",
+      "NMDA‑Rezeptoren"
+    ],
+    "answer": 0
+  }
+]
