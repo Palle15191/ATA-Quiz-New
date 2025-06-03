@@ -1,502 +1,552 @@
 [
   {
-    "question": "Die ERSTE Maßnahme bei Verdacht auf Maligne Hyperthermie ist …",
+    "question": "Welches Medikament ist bei Maligner Hyperthermie lebensrettend und muss sofort gegeben werden?",
     "options": [
-      "Sofortige Gabe von Dantrolen",
-      "Erhöhung des Narkosegasflusses",
-      "Kühlung mit Eispackungen",
-      "Abwarten und Beobachten"
+      "Dantrolen",
+      "Amiodaron",
+      "Magnesiumsulfat",
+      "Propofol"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.1 – Maligne Hyperthermie Notfallmedikation"
   },
   {
-    "question": "Im RACE-Schema für Brandereignisse steht das 'A' für …",
+    "question": "Im START-Triage-System bedeutet die Farbe SCHWARZ …",
     "options": [
-      "Alarmieren",
-      "Ausgang suchen",
-      "Absperren",
-      "Abdecken"
+      "Verstorben oder Überlebenswahrscheinlichkeit null",
+      "Sofortbehandlung",
+      "Verzögerte Behandlung",
+      "Leichte Verletzungen"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.4 – START Triage Farbkodierung"
   },
   {
-    "question": "Bei anerkanntem anaphylaktischem Schock wird als Erstmedikation verabreicht …",
+    "question": "Bei anaphylaktischem Schock lautet die intramuskuläre Adrenalindosis für Erwachsene …",
     "options": [
-      "Adrenalin i.m.",
-      "Hydrocortison i.v.",
-      "Ringer-Laktat bolus",
-      "Dimetinden i.v."
+      "0,5 mg",
+      "0,1 mg",
+      "1,0 mg",
+      "0,05 mg"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Anaphylaxie Algorithmus"
   },
   {
-    "question": "Ein sogenanntes 'Cannot intubate – cannot oxygenate' Szenario erfordert als nächsten Schritt …",
+    "question": "Das Akronym RACE (Feueralarm) steht für Rescue, Alarm, Confine und …",
     "options": [
-      "Front-of-Neck-Access (Koniotomie)",
-      "Larynxmaske",
-      "Maskenbeatmung",
-      "Fiberoptische Intubation"
+      "Extinguish/Evacuate",
+      "Evaluate",
+      "Exit",
+      "Escape"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Brandmanagement RACE"
   },
   {
-    "question": "Welche Farbe kennzeichnet in der START-Triage einen Patienten mit unmittelbar lebensbedrohlichen Verletzungen?",
+    "question": "Im CICO-Notfall ist die empfohlene Front-of-Neck-Technik laut Leitlinie …",
     "options": [
-      "Rot",
-      "Gelb",
-      "Grün",
-      "Schwarz"
+      "Scalpel-Bougie-Tubus",
+      "Nadelkoniotomie",
+      "Tracheotomie chirurgisch",
+      "Fiberoptische Maskenintubation"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "36.2 – Atemwegsalgorithmus CICO"
   },
   {
-    "question": "Bei kardiogenem Schock soll der MAP-Zielwert initial mindestens … betragen.",
+    "question": "Welcher PEEP-Wert wird initial bei schwerem ARDS nach ARDSnet häufig empfohlen?",
     "options": [
-      "65 mmHg",
-      "45 mmHg",
-      "90 mmHg",
-      "120 mmHg"
+      "10 cmH₂O",
+      "0 cmH₂O",
+      "18 cmH₂O",
+      "5 cmH₂O"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "38.2 – ARDSnet Beatmungsstrategie"
   },
   {
-    "question": "Die reversible Ursache 'Toxins' in der Hs & Ts der Reanimation kann BEHANDELT werden mit …",
+    "question": "Das Hs & Ts-Mnemonic der Reanimation benennt HYPOXIE als erste reversible Ursache. Welche weitere Ursache gehört NICHT dazu?",
     "options": [
-      "Antidot",
-      "Magnesium",
-      "Hypothermie",
-      "Amiodaron"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Ein Notruf nach dem PACE-Modell wird eskaliert, wenn …",
-    "options": [
-      "keine Reaktion auf vorausgegangene Bitten",
-      "erster Hinweis verstanden wird",
-      "Situation ungefährlich ist",
-      "Chef anwesend ist"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Head-tilt chin-lift ist kontraindiziert bei Verdacht auf …",
-    "options": [
-      "C‑Spine-Injury",
       "Hypoglykämie",
-      "Asthmaanfall",
-      "Hyperkaliämie"
+      "Toxine",
+      "Tension Pneumothorax",
+      "Thrombose (koronar/pulmonal)"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – ACLS Reversible Ursachen"
   },
   {
-    "question": "Die maximale Stromstärke bei Defibrillation eines Erwachsenen im biphasischen Modus beträgt üblicherweise …",
+    "question": "Nach ROSC sollte die SpO₂-Zielspanne gemäß Leitlinie bei Erwachsenen liegen zwischen …",
     "options": [
-      "200 Joule",
-      "50 Joule",
-      "120 Joule",
-      "360 Joule"
+      "94 – 98 %",
+      "100 %",
+      "80 – 85 %",
+      "90 – 92 %"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Post‑ROSC Therapie"
   },
   {
-    "question": "Bei Septischem Schock sollte die erste Antibiotikadosis binnen … gegeben sein.",
+    "question": "Bei Verdacht auf Cyanidintoxikation ist das Antidot der Wahl …",
     "options": [
-      "1 Stunde",
-      "3 Stunden",
-      "6 Stunden",
-      "12 Stunden"
+      "Hydroxocobalamin",
+      "Flumazenil",
+      "Protamin",
+      "Lidocain"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Antidot‑Übersicht"
   },
   {
-    "question": "Nach Eintauch-Verletzungen droht als erstes …",
+    "question": "Die empfohlene initiale Dosis Amiodaron bei persistierendem Kammerflimmern nach drittem Schock beträgt …",
     "options": [
-      "Hypothermie",
-      "CO2-Narkose",
-      "Hypoxie",
-      "Volumenüberladung"
+      "300 mg i.v.",
+      "150 mg i.v.",
+      "450 mg i.v.",
+      "900 mg i.v."
     ],
-    "answer": 2
+    "answer": 0,
+    "ref_detail": "50.2 – ALS Medikamentendosierung"
   },
   {
-    "question": "Bei hyperkaliämisch bedingten Rhythmusstörungen ist als Sofortmaßnahme indiziert:",
+    "question": "Welche Stromstärke (Joule) wird bei der biphasischen Defibrillation ERST angewandt?",
     "options": [
-      "Calciumglukonat i.v.",
-      "Sodium Bikarbonat",
-      "Furosemid",
-      "Magnesiumsulfat"
+      "200 J",
+      "100 J",
+      "150 J",
+      "360 J"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Defibrillation"
   },
   {
-    "question": "Ein Intraossärer Zugang sollte spätestens nach … durch einen venösen ersetzt werden.",
+    "question": "Welche initiale Volumenersatzstrategie wird im Sepsisbundle empfohlen?",
     "options": [
-      "24 Stunden",
-      "1 Stunde",
-      "4 Stunden",
-      "12 Stunden"
+      "30 ml/kg Kristalloid",
+      "5 ml/kg Kolloid",
+      "250 ml Ringer",
+      "Albumin 20 % 100 ml"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.5 – Sepsis Bundle"
   },
   {
-    "question": "Die EVALI-Technik (Evaluate, Locate, Access, Transport, Treat) ist Teil des …",
+    "question": "Calciumglukonat wird bei Hyperkaliämie verabreicht, um …",
     "options": [
-      "Mass-Casualty-Managements",
-      "Schockindex",
-      "MH-Protokolls",
-      "Glasgow-Outcome-Scores"
+      "die kardiale Membranstabilität wiederherzustellen",
+      "Kalium auszuscheiden",
+      "Diurese zu fördern",
+      "Glukose zu senken"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "48.2 – Elektrolytstörungen"
   },
   {
-    "question": "Das 'Stop the Bleed' Konzept fokussiert auf …",
+    "question": "Der maximale Tourniquet-Oberarmdruck sollte nicht überschreiten …",
     "options": [
-      "Blutungskontrolle durch Tourniquet/Hemostase",
-      "Respiratorisches Management",
-      "Frakturstabilisierung",
-      "Analgesie"
+      "250 mmHg",
+      "180 mmHg",
+      "120 mmHg",
+      "300 mmHg"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "29.2 – Blutsperre"
   },
   {
-    "question": "Bei Stromunfall ist die PRIORITÄT bevor man den Patienten berührt …",
+    "question": "Eine Intraossäre Nadel tibial wird platziert …",
+    "options": [
+      "2 Fingerbreit unterhalb der Tuberositas tibiae medial",
+      "im distalen Femur",
+      "lateral Fibulaköpfchen",
+      "Calcaneus"
+    ],
+    "answer": 0,
+    "ref_detail": "46.3 – IO Zugang"
+  },
+  {
+    "question": "Bei energiebezogenem Trauma ist die Reihenfolge des „XABCDE“-Schemas: X ___ dann Airway.",
+    "options": [
+      "Exsanguination kontrollieren",
+      "E=Exposure",
+      "Breathing",
+      "Disability"
+    ],
+    "answer": 0,
+    "ref_detail": "50.3 – Trauma-Algorithmus"
+  },
+  {
+    "question": "Tranexamsäure ist am wirksamsten, wenn sie innerhalb von ___ nach Trauma gegeben wird.",
+    "options": [
+      "1 h",
+      "3 h",
+      "6 h",
+      "12 h"
+    ],
+    "answer": 0,
+    "ref_detail": "41.4 – Tranexamsäure"
+  },
+  {
+    "question": "Magnesiumsulfat 2 g i.v. ist Mittel der Wahl bei …",
+    "options": [
+      "Torsade de Pointes",
+      "VT mit Puls",
+      "Hypertonie",
+      "Hypokalzämie"
+    ],
+    "answer": 0,
+    "ref_detail": "50.2 – Rhythmusmanagement"
+  },
+  {
+    "question": "Ein NEWS2 von 5 erfordert gemäß Eskalation …",
+    "options": [
+      "engmaschige Überwachung und Arztbenachrichtigung",
+      "keine Maßnahme",
+      "Notruf 112",
+      "Entlassung"
+    ],
+    "answer": 0,
+    "ref_detail": "42.2 – NEWS2"
+  },
+  {
+    "question": "Die Laktatkontrolle soll bei Sepsis alle … Stunden wiederholt werden.",
+    "options": [
+      "3",
+      "6",
+      "12",
+      "24"
+    ],
+    "answer": 0,
+    "ref_detail": "41.5 – Sepsis"
+  },
+  {
+    "question": "Tension Pneumothorax wird akut behandelt durch …",
+    "options": [
+      "Nadeldekompression 2. ICR medioclav.",
+      "Thoraxdrainage 5. ICR",
+      "CPAP-Maske",
+      "PEEP-Erhöhung"
+    ],
+    "answer": 0,
+    "ref_detail": "50.2 – Hs & Ts"
+  },
+  {
+    "question": "Glasgow Coma Scale ≤ 8 erfordert …",
+    "options": [
+      "Intubation zur Sicherung der Luftwege",
+      "Morphingabe",
+      "Kühltherapie",
+      "Vasopressoren"
+    ],
+    "answer": 0,
+    "ref_detail": "50.3 – Trauma"
+  },
+  {
+    "question": "Narkosegas-Ausleitung im MH-Fall: Verdächtiges Gas durch ___ ersetzen.",
+    "options": [
+      "100 % O₂ 10 l/min",
+      "50 % Luft",
+      "N₂O",
+      "Heliox"
+    ],
+    "answer": 0,
+    "ref_detail": "50.1 – MH-Protokoll"
+  },
+  {
+    "question": "Hypothermie Grad II Temperaturspanne …",
+    "options": [
+      "28 – 32 °C",
+      "32 – 35 °C",
+      "< 28 °C",
+      "> 35 °C"
+    ],
+    "answer": 0,
+    "ref_detail": "45.2 – Hypothermie"
+  },
+  {
+    "question": "Ein IO-Zugang darf maximal ____ Stunden belassen werden.",
+    "options": [
+      "24",
+      "48",
+      "6",
+      "72"
+    ],
+    "answer": 0,
+    "ref_detail": "46.3 – IO Zugang"
+  },
+  {
+    "question": "Welche Maßnahme gehört NICHT zum 'Stop the Bleed'-Grundsatz?",
+    "options": [
+      "Analgetika geben",
+      "Tourniquet",
+      "Direkter Druck",
+      "Hämostyptikum"
+    ],
+    "answer": 0,
+    "ref_detail": "50.4 – Blutungskontrolle"
+  },
+  {
+    "question": "Bei Stromunfall ist vor Patientenkontakt zuerst …",
     "options": [
       "Stromkreis unterbrechen",
-      "Puls fühlen",
-      "Notruf wählen",
-      "Wunde kühlen"
+      "Puls prüfen",
+      "Defibrillieren",
+      "CPR beginnen"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Electrical Injury"
   },
   {
-    "question": "Ein Epinephrin-Infusionsstart bei Reanimation PEA erfolgt üblicherweise in einer Dosierung von …",
+    "question": "Fibrinogen sollte bei Massivtransfusion > ___ g/L liegen.",
     "options": [
-      "0.05–0.1 µg/kg/min",
-      "1 mg/kg/min",
-      "0.5 µg/kg/min",
-      "10 µg/kg/min"
+      "1,5",
+      "2,5",
+      "1,0",
+      "0,5"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.4 – Gerinnung"
   },
   {
-    "question": "Die 'Pit Crew' Reanimation beschreibt …",
+    "question": "Bei Hyperventilations-Syndrom entsteht primär …",
     "options": [
-      "Klare Rollenverteilung mit minimalen Unterbrechungen",
-      "Solo-Reanimation",
-      "Tierische Metapher",
-      "Nur ärztliche Durchführung"
+      "respiratorische Alkalose",
+      "Hyperkaliämie",
+      "metabolische Azidose",
+      "Hyperkapnie"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "38.3 – BGA"
   },
   {
-    "question": "Welche Raumluftklasse ist im OP vorgeschrieben, um Rauchgas bei Laserchirurgie abzuführen?",
+    "question": "Die Kompressionstiefe bei Erwachsenen-BLS beträgt …",
     "options": [
-      "Raumluftklasse 1a mit Laminarflow",
-      "Klasse 2b",
-      "Keine spezielle Klasse",
-      "Reinraum Klasse ISO 3"
+      "5 – 6 cm",
+      "3 – 4 cm",
+      "> 6 cm",
+      "< 4 cm"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – BLS"
   },
   {
-    "question": "(21) Ventrikuläre Tachykardie ohne Puls – was ist richtig?",
+    "question": "Naloxon initial i.v. bei Apnoe nach Opioidüberhang: …",
     "options": [
-      "Unverzüglich Defibrillation",
-      "Amiodaron erst nach 30min",
-      "Nur Sauerstoffgabe",
-      "Atropin"
+      "0,4 mg",
+      "4 mg",
+      "0,04 mg",
+      "2 mg"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Opioid-Notfall"
   },
   {
-    "question": "(22) FAST-Ultraschall bei Trauma – was ist richtig?",
+    "question": "Tidalvolumen gemäß Lung-Protective Ventilation: ___ ml/kg",
     "options": [
-      "prüft freie Flüssigkeit in 4 Arealen",
-      "misst Hirndruck",
-      "kontrolliert CTG",
-      "schätzt Herzleistung"
+      "6 ml/kg",
+      "10 ml/kg",
+      "12 ml/kg",
+      "4 ml/kg"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "38.2 – Beatmung"
   },
   {
-    "question": "(23) Schockindex >0.9 – was ist richtig?",
+    "question": "Der Critical Incident Reporting Pflicht meldet das Ereignis anonym an …",
     "options": [
-      "Hinweis auf Kreislaufdekompensation",
-      "Normalwert",
-      "irrelevant",
-      "Hypertonie"
+      "CIRS interner Server",
+      "Gesundheitsamt",
+      "BG Klinikum",
+      "BfArM"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "26.4 – CIRS"
   },
   {
-    "question": "(24) Hyperventilationssyndrom – was ist richtig?",
+    "question": "Adrenalin i.m. Kinder 15 kg: ___ mg",
     "options": [
-      "führt zu respiratorischer Alkalose",
-      "führt zu CO2-Anstieg",
-      "keine Symptome",
-      "Hypokaliämie"
+      "0,15",
+      "0,3",
+      "0,5",
+      "1,0"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Anaphylaxie Pädiatrie"
   },
   {
-    "question": "(25) Kinder-CPR-Kompressionsrate – was ist richtig?",
+    "question": "Post-ROSC Temperaturziel laut TTM: ___ – 36 °C",
     "options": [
-      "100-120/min",
-      "60-80/min",
-      "150/min",
-      "90/min"
+      "32",
+      "30",
+      "38",
+      "28"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – TTM"
   },
   {
-    "question": "(26) Position bei schwangerer Reanimation – was ist richtig?",
+    "question": "Lagerung schwangerer Patientin >20. SSW nach ROSC: ___ Lagerung",
     "options": [
-      "Linksseitenlagerung 15°",
-      "Rechtsseitenlagerung",
-      "Flach Rückenlage",
-      "Trendelenburg"
+      "Linksseitenlage 15°",
+      "Rechtsseitenlage",
+      "Trendelenburg",
+      "Flach Rücken"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Reanimation Schwangere"
   },
   {
-    "question": "(27) Druckinfusion RBC – was ist richtig?",
+    "question": "MH-Krise erstes Monitoringzeichen …",
     "options": [
-      "Erhöht Flussrate in Massivtransfusion",
-      "Verhindert Hämolyse",
-      "Verbessert Thrombozytenfunktion",
-      "Nicht erlaubt"
+      "etCO₂-Anstieg",
+      "Bradykardie",
+      "Hypothermie",
+      "Hypotonie"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.1 – MH Diagnose"
   },
   {
-    "question": "(28) ALS-Leitlinie Hypothermie – was ist richtig?",
+    "question": "Anweisung 'Call-Out' im CRM dient …",
     "options": [
-      "Defibrillation max 3 Versuche bis 30°C",
-      "Keine Medikamente",
-      "CPR unnötig",
-      "Sofortige Aufwärmung auf 40°C"
+      "alle informieren",
+      "heimlich Bescheid geben",
+      "Stille sicherstellen",
+      "Checklisten ersetzen"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "46.2 – CRM"
   },
   {
-    "question": "(29) Pulmonale Embolie akutes Management – was ist richtig?",
+    "question": "PEA nach Hs&Ts: 'Hypovolemie' wird behandelt mit …",
     "options": [
-      "Fibrinolyse oder Thrombektomie",
-      "Kalziumgabe",
-      "Betablocker",
-      "Naloxon"
+      "Volumenbolus",
+      "Amiodaron",
+      "Atropin",
+      "Hyperventilation"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – ACLS"
   },
   {
-    "question": "(30) Airway-Notfall Kinking Tubus – was ist richtig?",
+    "question": "Ein Fast-Track-Protokoll zielt auf …",
     "options": [
-      "Tubus wechseln",
-      "PEEP erhöhen",
-      "Atropin geben",
-      "Muskelrelaxans geben"
+      "schnelle Extubation + frühe Mobilisation",
+      "höhere Sedierung",
+      "Bluttransfusion",
+      "Hypothermie"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "47.4 – Fast Track"
   },
   {
-    "question": "(31) Ventrikuläre Tachykardie ohne Puls – was ist richtig?",
+    "question": "Hypertonic Saline 3 % Einsatz bei …",
     "options": [
-      "Unverzüglich Defibrillation",
-      "Amiodaron erst nach 30min",
-      "Nur Sauerstoffgabe",
-      "Atropin"
+      "intrakraniellem Druckanstieg",
+      "Hypokaliämie",
+      "Sepsis",
+      "VT"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.3 – Schädel-Hirn-Trauma"
   },
   {
-    "question": "(32) FAST-Ultraschall bei Trauma – was ist richtig?",
+    "question": "Glykopeptid-Allergie → alternatives Prophylaxe-Antibiotikum bei OP …",
     "options": [
-      "prüft freie Flüssigkeit in 4 Arealen",
-      "misst Hirndruck",
-      "kontrolliert CTG",
-      "schätzt Herzleistung"
+      "Clindamycin",
+      "Vancomycin",
+      "Cefazolin",
+      "Gentamicin"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "10.4 – Antibiotikaprophylaxe"
   },
   {
-    "question": "(33) Schockindex >0.9 – was ist richtig?",
+    "question": "Defibrillator-Pads müssen alle ___ Monate gewartet werden.",
     "options": [
-      "Hinweis auf Kreislaufdekompensation",
-      "Normalwert",
-      "irrelevant",
-      "Hypertonie"
+      "36",
+      "6",
+      "12",
+      "24"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – Defi Wartung"
   },
   {
-    "question": "(34) Hyperventilationssyndrom – was ist richtig?",
+    "question": "Glukose-Insulin-Kalium-Regime senkt Kalium durch …",
     "options": [
-      "führt zu respiratorischer Alkalose",
-      "führt zu CO2-Anstieg",
-      "keine Symptome",
-      "Hypokaliämie"
+      "Intrazellulären Shift",
+      "Renale Exkretion",
+      "Erbrechen",
+      "Dialyse"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "48.2 – Hyperkaliämie"
   },
   {
-    "question": "(35) Kinder-CPR-Kompressionsrate – was ist richtig?",
+    "question": "Sepsis: MAP-Zielwert initial … mmHg",
     "options": [
-      "100-120/min",
-      "60-80/min",
-      "150/min",
-      "90/min"
+      "≥ 65",
+      "≥ 55",
+      "≥ 75",
+      "≥ 90"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.5 – Sepsis"
   },
   {
-    "question": "(36) Position bei schwangerer Reanimation – was ist richtig?",
+    "question": "MTP-Trigger: ≥ ___ EK in 60 min",
     "options": [
-      "Linksseitenlagerung 15°",
-      "Rechtsseitenlagerung",
-      "Flach Rückenlage",
-      "Trendelenburg"
+      "4",
+      "2",
+      "6",
+      "10"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "41.4 – Massivtransfusion"
   },
   {
-    "question": "(37) Druckinfusion RBC – was ist richtig?",
+    "question": "eFAST ergänzt FAST um Untersuchung des …",
     "options": [
-      "Erhöht Flussrate in Massivtransfusion",
-      "Verhindert Hämolyse",
-      "Verbessert Thrombozytenfunktion",
-      "Nicht erlaubt"
+      "Thorax",
+      "Cerebrum",
+      "Extremitäten",
+      "Wirbelsäule"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.3 – eFAST"
   },
   {
-    "question": "(38) ALS-Leitlinie Hypothermie – was ist richtig?",
+    "question": "Bicarbonat-Therapie in schwerer Azidose, pH-Grenze …",
     "options": [
-      "Defibrillation max 3 Versuche bis 30°C",
-      "Keine Medikamente",
-      "CPR unnötig",
-      "Sofortige Aufwärmung auf 40°C"
+      "< 7,1",
+      "< 7,3",
+      "< 7,0",
+      "< 6,9"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "48.2 – Azidose"
   },
   {
-    "question": "(39) Pulmonale Embolie akutes Management – was ist richtig?",
+    "question": "Anschwellung Nacken nach Intubation weist zuerst auf …",
     "options": [
-      "Fibrinolyse oder Thrombektomie",
-      "Kalziumgabe",
-      "Betablocker",
-      "Naloxon"
+      "subkutanes Emphysem",
+      "Hypovolämie",
+      "Allergie",
+      "Hypernatriämie"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.3 – Atemwegsverletzung"
   },
   {
-    "question": "(40) Airway-Notfall Kinking Tubus – was ist richtig?",
+    "question": "Thoraxkompressions-Pause zum Schock maximal … s",
     "options": [
-      "Tubus wechseln",
-      "PEEP erhöhen",
-      "Atropin geben",
-      "Muskelrelaxans geben"
+      "< 5",
+      "< 10",
+      "< 15",
+      "< 20"
     ],
-    "answer": 0
-  },
-  {
-    "question": "(41) Ventrikuläre Tachykardie ohne Puls – was ist richtig?",
-    "options": [
-      "Unverzüglich Defibrillation",
-      "Amiodaron erst nach 30min",
-      "Nur Sauerstoffgabe",
-      "Atropin"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "(42) FAST-Ultraschall bei Trauma – was ist richtig?",
-    "options": [
-      "prüft freie Flüssigkeit in 4 Arealen",
-      "misst Hirndruck",
-      "kontrolliert CTG",
-      "schätzt Herzleistung"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "(43) Schockindex >0.9 – was ist richtig?",
-    "options": [
-      "Hinweis auf Kreislaufdekompensation",
-      "Normalwert",
-      "irrelevant",
-      "Hypertonie"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "(44) Hyperventilationssyndrom – was ist richtig?",
-    "options": [
-      "führt zu respiratorischer Alkalose",
-      "führt zu CO2-Anstieg",
-      "keine Symptome",
-      "Hypokaliämie"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "(45) Kinder-CPR-Kompressionsrate – was ist richtig?",
-    "options": [
-      "100-120/min",
-      "60-80/min",
-      "150/min",
-      "90/min"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "(46) Position bei schwangerer Reanimation – was ist richtig?",
-    "options": [
-      "Linksseitenlagerung 15°",
-      "Rechtsseitenlagerung",
-      "Flach Rückenlage",
-      "Trendelenburg"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "(47) Druckinfusion RBC – was ist richtig?",
-    "options": [
-      "Erhöht Flussrate in Massivtransfusion",
-      "Verhindert Hämolyse",
-      "Verbessert Thrombozytenfunktion",
-      "Nicht erlaubt"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "(48) ALS-Leitlinie Hypothermie – was ist richtig?",
-    "options": [
-      "Defibrillation max 3 Versuche bis 30°C",
-      "Keine Medikamente",
-      "CPR unnötig",
-      "Sofortige Aufwärmung auf 40°C"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "(49) Pulmonale Embolie akutes Management – was ist richtig?",
-    "options": [
-      "Fibrinolyse oder Thrombektomie",
-      "Kalziumgabe",
-      "Betablocker",
-      "Naloxon"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "(50) Airway-Notfall Kinking Tubus – was ist richtig?",
-    "options": [
-      "Tubus wechseln",
-      "PEEP erhöhen",
-      "Atropin geben",
-      "Muskelrelaxans geben"
-    ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.2 – ALS"
   }
 ]
