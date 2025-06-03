@@ -1,552 +1,552 @@
 [
   {
-    "question": "Welche Analgesiestufe (nach WHO) wird typischerweise ZUERST bei postoperativen Schmerzen verordnet?",
+    "question": "Welche Analgesiestufe (WHO) umfasst nicht‑opioide Basisanalgetika wie Paracetamol oder Ibuprofen?",
     "options": [
-      "Paracetamol/NSAID (Stufe I)",
-      "Schwache Opioide (Stufe II)",
-      "Starke Opioide (Stufe III)",
-      "Adjuvantien wie Antikonvulsiva"
+      "Stufe I",
+      "Stufe II",
+      "Stufe III",
+      "Stufe IV"
     ],
     "answer": 0,
     "ref_detail": "34.2 – WHO‑Schmerzstufenschema"
   },
   {
-    "question": "Ein Patient erhält präoperativ 2 g Cefazolin i.v. Als ATA stellen Sie sicher, dass die Gabe …",
+    "question": "Die präoperative Einmalgabe von Cefazolin sollte laut Leitlinie ____ Minuten vor Hautschnitt abgeschlossen sein.",
     "options": [
-      "spätestens 60 Minuten vor Schnittende erfolgt",
-      "spätestens 60 Minuten vor Schnittbeginn erfolgt",
-      "erst während des Hautschnitts erfolgt",
-      "nach Abschluss der Wundnaht erfolgt"
+      "30",
+      "60",
+      "90",
+      "120"
     ],
     "answer": 1,
-    "ref_detail": "10.4 – Antibiotika‑Prophylaxe"
+    "ref_detail": "10.4 – Antibiotikaprophylaxe Timing"
   },
   {
-    "question": "Bei intrahospitalen Patiententransporten ist die HAUPTAUFGABE der ATA …",
+    "question": "Welches Medikament ist erste Wahl in der PONV‑Prophylaxe bei hohem Risiko (Apfel‑Score ≥3)?",
     "options": [
-      "das Führen der Patientenakte",
-      "die lückenlose Überwachung der Vitalparameter",
-      "die Dokumentation der Pflegemaßnahmen",
-      "die Auswertung von Laborparametern"
-    ],
-    "answer": 1,
-    "ref_detail": "27.3 – Begleitmonitoring & Transportlogistik"
-  },
-  {
-    "question": "Welches der folgenden Medikamente wird NICHT primär zur PONV‑Prophylaxe eingesetzt?",
-    "options": [
-      "Dexamethason",
-      "Ondansetron",
-      "Droperidol",
-      "Metamizol"
-    ],
-    "answer": 3,
-    "ref_detail": "38.1 – PONV‑Prophylaxe‑Schema"
-  },
-  {
-    "question": "Was ist der empfohlene Ziel‑SpO₂‑Bereich bei einem erwachsenen, respiratorisch stabilen Patienten im Aufwachraum?",
-    "options": [
-      "90‑92 %",
-      "92‑96 %",
-      "96‑100 %",
-      "> 100 %"
-    ],
-    "answer": 1,
-    "ref_detail": "47.2 – Sauerstofftherapie im AWR"
-  },
-  {
-    "question": "Tranexamsäure wird perioperativ verabreicht, um …",
-    "options": [
-      "postoperative Schmerzen zu lindern",
-      "Übelkeit zu reduzieren",
-      "Blutverlust durch Fibrinolyse‑Hemmung zu verringern",
-      "den Blutdruck anzuheben"
-    ],
-    "answer": 2,
-    "ref_detail": "41.4 – Gerinnungsmanagement & Antifibrinolytika"
-  },
-  {
-    "question": "Eine RASS‑Skala von −4 bedeutet …",
-    "options": [
-      "tiefe Sedierung, keine Reaktion auf Stimme, aber Bewegung auf Berührung",
-      "aufgeregt/gewalttätig",
-      "wach und ruhig",
-      "leichte Sedierung mit Blickkontakt >10 s"
+      "Dexamethason 4 mg i.v.",
+      "Metamizol 1 g i.v.",
+      "Midazolam 1 mg i.v.",
+      "Furosemid 20 mg i.v."
     ],
     "answer": 0,
-    "ref_detail": "47.3 – Sedierungs‑Scores (RASS‑Tabelle)"
+    "ref_detail": "38.1 – PONV‑Prophylaxe Protokoll"
   },
   {
-    "question": "Postoperative Hyperglykämie (>180 mg/dl) sollte BEVORZUGT behandelt werden mit …",
+    "question": "Der MAC‑Wert von Sevofluran bei einem 40‑jährigen Patienten beträgt ca. ____ Vol‑%.",
     "options": [
-      "intravenösem kurzwirksamen Insulin",
-      "oraler Metformin‑Gabe",
-      "langwirksamem Insulin s.c.",
+      "0,7",
+      "1,8",
+      "3,2",
+      "5,1"
+    ],
+    "answer": 1,
+    "ref_detail": "36.1 – Inhalationsanästhetika Tabelle"
+  },
+  {
+    "question": "Welche Substanz dient als Antidot bei einer Benzodiazepin‑Überdosierung?",
+    "options": [
+      "Flumazenil",
+      "Naloxon",
+      "Protamin",
+      "Sugammadex"
+    ],
+    "answer": 0,
+    "ref_detail": "36.2 – Sedativa & Antidote"
+  },
+  {
+    "question": "Im Aufwachraum sollte ein SpO₂‑Zielbereich von ____ % eingehalten werden.",
+    "options": [
+      "92–96",
+      "88–90",
+      "96–100",
+      "80–85"
+    ],
+    "answer": 0,
+    "ref_detail": "47.2 – Sauerstofftherapie"
+  },
+  {
+    "question": "Tranexamsäure wirkt als Antifibrinolytikum durch Hemmung von ____.",
+    "options": [
+      "Plasminogen‑Bindung",
+      "Thromboxan‑Synthese",
+      "Vitamin‑K‑Epoxid‑Reduktase",
+      "Fibrin‑Polymerase"
+    ],
+    "answer": 0,
+    "ref_detail": "41.4 – Tranexamsäure Wirkmechanismus"
+  },
+  {
+    "question": "Ein RASS‑Score von +2 beschreibt einen Patienten, der ____ ist.",
+    "options": [
+      "kurz wach, Augenkontakt <10 s",
+      "desorientiert / laut",
+      "nicht erweckbar",
+      "aufgeregt / gewalttätig"
+    ],
+    "answer": 1,
+    "ref_detail": "47.3 – RASS‑Skala"
+  },
+  {
+    "question": "Postoperative Hyperglykämie > 180 mg/dl wird bevorzugt mit ____ behandelt.",
+    "options": [
+      "kurzwirksamem Insulin i.v.",
+      "Metformin p.o.",
+      "NPH‑Insulin s.c.",
       "keiner Intervention"
     ],
     "answer": 0,
-    "ref_detail": "48.2 – Stoffwechselstörungen: Hyperglykämie‑Algorithmus"
+    "ref_detail": "48.2 – Glukose‑Management"
   },
   {
-    "question": "Welche Option beschreibt eine sichere Zentralvenenkatheter‑Lagekontrolle?",
+    "question": "Eine sichere ZVK‑Lage wird primär durch ____ bestätigt.",
     "options": [
-      "Auskultation auf gurgelnde Geräusche",
-      "Blutgasanalyse des Aspirats",
-      "Röntgen‑Thorax in zwei Ebenen",
-      "Palpation der Jugularvene"
+      "Röntgen‑Thorax",
+      "Auskultation",
+      "EKG‑Ableitung",
+      "Ultraschall Abdomen"
     ],
-    "answer": 2,
-    "ref_detail": "15.5 – ZVK‑Einlage & Lagekontrolle"
+    "answer": 0,
+    "ref_detail": "15.5 – ZVK Kontrollverfahren"
   },
   {
-    "question": "Welcher MAC‑Wert (Minimum Alveolar Concentration) steht ungefähr für Sevofluran bei einem 40‑jährigen Erwachsenen?",
+    "question": "Welches Analgetikum wird am häufigsten in PCA‑Pumpen eingesetzt?",
     "options": [
-      "0,2 Vol‑%",
-      "1,8 Vol‑%",
-      "3,0 Vol‑%",
-      "5,2 Vol‑%"
+      "Morphin",
+      "Paracetamol",
+      "Ibuprofen",
+      "Ketorolac"
+    ],
+    "answer": 0,
+    "ref_detail": "47.3 – PCA‑Morphin Schema"
+  },
+  {
+    "question": "Die maximale Dauer einer Blutsperre (Tourniquet) am Oberarm beträgt laut Lehrbuch ____ Minuten.",
+    "options": [
+      "90",
+      "60",
+      "120",
+      "45"
+    ],
+    "answer": 0,
+    "ref_detail": "29.2 – Tourniquet‑Zeitbegrenzung"
+  },
+  {
+    "question": "BIS‑Werte zwischen 40 und 60 stehen für ____.",
+    "options": [
+      "adäquate Narkosetiefe",
+      "tiefe Hypnose <20",
+      "Wachzustand >80",
+      "unzureichende Analgesie"
+    ],
+    "answer": 0,
+    "ref_detail": "42.1 – BIS‑Zielbereich"
+  },
+  {
+    "question": "Succinylcholin ist kontraindiziert bei Patienten mit ____.",
+    "options": [
+      "Pseudocholinesterase‑Mangel",
+      "Asthma",
+      "BMI > 35",
+      "COPD Gold II"
+    ],
+    "answer": 0,
+    "ref_detail": "35.3 – Muskelrelaxanzien Kontraindikationen"
+  },
+  {
+    "question": "Eine TOF‑Quote von 0,9 bedeutet ____.",
+    "options": [
+      "ausreichende Erholung der neuromuskulären Funktion",
+      "tiefe Relaxierung",
+      "keine Blockade",
+      "Post‑tetane Potenzierung"
+    ],
+    "answer": 0,
+    "ref_detail": "35.4 – Neuromuskuläres Monitoring"
+  },
+  {
+    "question": "Remifentanil kann postoperativ ____ auslösen, wenn abrupt abgesetzt.",
+    "options": [
+      "Hyperalgesie",
+      "Hypothermie",
+      "Hyperkaliämie",
+      "Bradykardie"
+    ],
+    "answer": 0,
+    "ref_detail": "36.2 – Opioid‑induzierte Hyperalgesie"
+  },
+  {
+    "question": "Bei septischem Schock sollte die erste Antibiotikadosis innerhalb von ____ verabreicht werden.",
+    "options": [
+      "1 h",
+      "3 h",
+      "6 h",
+      "12 h"
+    ],
+    "answer": 0,
+    "ref_detail": "41.5 – Sepsis Bundle"
+  },
+  {
+    "question": "Lokalanästhetikum‑Systemtoxizität (LAST) wird initial mit ____ behandelt.",
+    "options": [
+      "Intralipid 20 % 1,5 ml/kg",
+      "Naloxon 0,4 mg",
+      "Magnesium 2 g",
+      "Dantrolen 2,5 mg/kg"
+    ],
+    "answer": 0,
+    "ref_detail": "35.5 – LAST‑Therapie"
+  },
+  {
+    "question": "Ketorolac gehört zur Gruppe der ____.",
+    "options": [
+      "nicht‑opioiden NSAR",
+      "schwachen Opioide",
+      "Lokalanästhetika",
+      "Benzodiazepine"
+    ],
+    "answer": 0,
+    "ref_detail": "34.3 – NSAID Übersicht"
+  },
+  {
+    "question": "Hyperkaliämie‑bedingte Rhythmusstörungen werden vorrangig mit ____ stabilisiert.",
+    "options": [
+      "Calciumglukonat i.v.",
+      "Furosemid",
+      "Amiodaron",
+      "Atropin"
+    ],
+    "answer": 0,
+    "ref_detail": "48.2 – Elektrolytstörungen"
+  },
+  {
+    "question": "Für Rapid Sequence Induction wird als Analgetikum bevorzugt ____ verwendet.",
+    "options": [
+      "Fentanyl 2 µg/kg",
+      "Piritramid 0,5 mg/kg",
+      "Ketorolac 30 mg",
+      "Ibuprofen 800 mg"
+    ],
+    "answer": 0,
+    "ref_detail": "36.2 – RSI Medikamentendosis"
+  },
+  {
+    "question": "Der Standard‑PEEP während kontrollierter Beatmung liegt bei ____ cmH₂O.",
+    "options": [
+      "5–8",
+      "0–2",
+      "10–12",
+      "15–20"
+    ],
+    "answer": 0,
+    "ref_detail": "38.2 – Beatmungseinstellungen"
+  },
+  {
+    "question": "Naloxon hat eine Wirkdauer von etwa ____ Minuten.",
+    "options": [
+      "30–60",
+      "90–120",
+      "5–10",
+      "240"
+    ],
+    "answer": 0,
+    "ref_detail": "36.2 – Opioid Antidote"
+  },
+  {
+    "question": "Die maximal empfohlene Dosis Bupivacain 0,5 % ohne Adrenalin beträgt ____ mg/kg.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
     ],
     "answer": 1,
-    "ref_detail": "36.1 – Inhalationsanästhetika: Pharmakodynamik"
+    "ref_detail": "35.5 – Lokalanästhetika Dosierungen"
   },
   {
-    "question": "(11) Frage zu PCA‑Pumpe Standardopioid: Was ist korrekt?",
+    "question": "Welche Blutproduktart wird bei isolierter Thrombozytopenie < 50 G/l gegeben?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Thrombozytenkonzentrat",
+      "FFP",
+      "Erythrozytenkonzentrat",
+      "Fibrinogen"
     ],
     "answer": 0,
-    "ref_detail": "47.3 – PCA‑Schema"
+    "ref_detail": "41.2 – Transfusionsindikation"
   },
   {
-    "question": "(12) Frage zu 5‑R‑Regel Ausschluss 'richtige Geschwindigkeit': Was ist korrekt?",
+    "question": "Spinalanästhesie wird meist in ____ Position durchgeführt.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "sitzender Flexion",
+      "Trendelenburg",
+      "Bauchlage",
+      "Supine"
     ],
     "answer": 0,
-    "ref_detail": "10.2 – Medikamentensicherheit"
+    "ref_detail": "40.1 – Spinal Punktion Technik"
   },
   {
-    "question": "(13) Frage zu Low‑Flow O₂ bei Sedoanalgesie: Was ist korrekt?",
+    "question": "Capnographie liefert primär Informationen über ____.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Ventilation",
+      "Herzfrequenz",
+      "Sauerstoffsättigung",
+      "Blutdruck"
     ],
     "answer": 0,
-    "ref_detail": "24.2 – Bronchoskopie & Atemwegsmanagement"
+    "ref_detail": "38.3 – Kapnographie Interpretation"
   },
   {
-    "question": "(14) Frage zu Hypoventilation PaCO₂‑Anstieg: Was ist korrekt?",
+    "question": "Bei Maligner Hyperthermie wird Dantrolen initial in einer Dosis von ____ mg/kg gegeben.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "2,5",
+      "1,0",
+      "5,0",
+      "0,5"
     ],
     "answer": 0,
-    "ref_detail": "34.4 – Blutgasinterpretation"
+    "ref_detail": "50.1 – MH Notfallprotokoll"
   },
   {
-    "question": "(15) Frage zu Spinalanästhesie Sitzposition: Was ist korrekt?",
+    "question": "Ein INR < 1,5 wird als Schwelle für ____ angesehen.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "ungehinderte OP‑Freigabe",
+      "FFP‑Gabe",
+      "Heparinbolus",
+      "no‑go für Regionalanästhesie"
     ],
     "answer": 0,
-    "ref_detail": "40.1 – Spinalanästhesie Technik"
+    "ref_detail": "41.2 – Gerinnungsmanagement"
   },
   {
-    "question": "(16) Frage zu Ketorolac Analgetikagruppe: Was ist korrekt?",
+    "question": "Die sichere Kochsalz‑Bolus‑Therapie bei Hypotension beträgt initial ____ ml/kg.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "10",
+      "20",
+      "30",
+      "5"
     ],
-    "answer": 0,
-    "ref_detail": "34.3 – Nicht‑opioide Analgetika"
+    "answer": 1,
+    "ref_detail": "48.2 – Volumentherapie"
   },
   {
-    "question": "(17) Frage zu Tourniquet Maximaldauer Oberarm: Was ist korrekt?",
+    "question": "Der Quick‑Test < 50 % ist ein Trigger für die Gabe von ____.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Fresh‑Frozen Plasma",
+      "Thrombozyten",
+      "Fibrinogen‑Konzentrat",
+      "Protamin"
     ],
     "answer": 0,
-    "ref_detail": "29.2 – Blutsperre & Tourniquet"
+    "ref_detail": "41.2 – Quick‑Wert Indikationen"
   },
   {
-    "question": "(18) Frage zu BIS‑Monitoring: Was ist korrekt?",
+    "question": "Dexmedetomidin verursacht häufig ____ als Nebenwirkung.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Bradykardie",
+      "Tachykardie",
+      "Hypertonie",
+      "Hyperglykämie"
     ],
     "answer": 0,
-    "ref_detail": "42.1 – Anaesthesie‑Tiefenmonitoring"
+    "ref_detail": "36.2 – Alpha‑2‑Agonisten Profil"
   },
   {
-    "question": "(19) Frage zu Succinylcholin Kontra‑Pseudocholinesterasemangel: Was ist korrekt?",
+    "question": "Hyperventilation führt typischerweise zu ____.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Hypokapnie",
+      "Hyperkapnie",
+      "Metabolischer Azidose",
+      "Hyperkaliämie"
     ],
     "answer": 0,
-    "ref_detail": "35.3 – Muskelrelaxanzien"
+    "ref_detail": "38.3 – BGA Interpretation"
   },
   {
-    "question": "(20) Frage zu ASS TxA2‑Hemmung Dauer: Was ist korrekt?",
+    "question": "Ein Basendefizit von −6 mmol/l zeigt eine ____ an.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "metabolische Azidose",
+      "metabolische Alkalose",
+      "resp. Azidose",
+      "normal"
     ],
     "answer": 0,
-    "ref_detail": "41.2 – Blutgerinnung & Thrombozyten"
+    "ref_detail": "48.2 – BGA Analyse"
   },
   {
-    "question": "(21) Frage zu PCA‑Pumpe Standardopioid: Was ist korrekt?",
+    "question": "Bei Rapid Response Team‑Aktivierung zählt ein NEWS2 von ____ als Schwellenwert.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "≥ 7",
+      "≥ 3",
+      "≥ 5",
+      "≥ 10"
     ],
     "answer": 0,
-    "ref_detail": "47.3 – PCA‑Schema"
+    "ref_detail": "42.2 – NEWS2 Schwelle"
   },
   {
-    "question": "(22) Frage zu 5‑R‑Regel Ausschluss 'richtige Geschwindigkeit': Was ist korrekt?",
+    "question": "Ein IO‑Zugang sollte maximal ____ h genutzt werden.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "24",
+      "6",
+      "12",
+      "48"
     ],
     "answer": 0,
-    "ref_detail": "10.2 – Medikamentensicherheit"
+    "ref_detail": "46.3 – Intraossärer Zugang"
   },
   {
-    "question": "(23) Frage zu Low‑Flow O₂ bei Sedoanalgesie: Was ist korrekt?",
+    "question": "Bei PEA‑Reanimation wird Adrenalin alle ____ Minuten verabreicht.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "3–5",
+      "1",
+      "10",
+      "8–10"
     ],
     "answer": 0,
-    "ref_detail": "24.2 – Bronchoskopie & Atemwegsmanagement"
+    "ref_detail": "50.2 – ALS Medikamentdosierung"
   },
   {
-    "question": "(24) Frage zu Hypoventilation PaCO₂‑Anstieg: Was ist korrekt?",
+    "question": "Eine Kalziumgabe stabilisiert das Myokard, indem sie die Schwelle für ____ anhebt.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Depolarisation",
+      "Repolarisation",
+      "Diurese",
+      "Glykogenolyse"
     ],
     "answer": 0,
-    "ref_detail": "34.4 – Blutgasinterpretation"
+    "ref_detail": "48.2 – Hyperkaliämie Therapie"
   },
   {
-    "question": "(25) Frage zu Spinalanästhesie Sitzposition: Was ist korrekt?",
+    "question": "Der Standard‑Boli bei Lipid‑Rescue beträgt ____ ml 20 %‑Emulsion pro kg KG.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1,5",
+      "0,5",
+      "3,0",
+      "4,5"
     ],
     "answer": 0,
-    "ref_detail": "40.1 – Spinalanästhesie Technik"
+    "ref_detail": "35.5 – Lipid Rescue Schema"
   },
   {
-    "question": "(26) Frage zu Ketorolac Analgetikagruppe: Was ist korrekt?",
+    "question": "Korrekte Lagerung für Epiduralanästhesie im Sitzen erfordert ____.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Katzenbuckel (lumbarer Flexion)",
+      "lordotische Streckung",
+      "Neutralposition",
+      "Trendelenburg"
     ],
     "answer": 0,
-    "ref_detail": "34.3 – Nicht‑opioide Analgetika"
+    "ref_detail": "40.2 – Epidural Punktion"
   },
   {
-    "question": "(27) Frage zu Tourniquet Maximaldauer Oberarm: Was ist korrekt?",
+    "question": "Fentanyl‑Bolus zur Narkoseeinleitung beim Erwachsenen liegt bei ____ µg/kg.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1–2",
+      "5–7",
+      "0,5",
+      "10"
     ],
     "answer": 0,
-    "ref_detail": "29.2 – Blutsperre & Tourniquet"
+    "ref_detail": "36.2 – Opioid Dosierung"
   },
   {
-    "question": "(28) Frage zu BIS‑Monitoring: Was ist korrekt?",
+    "question": "Ein Schnellinfundat‑Wärmer ist ab einer Infusionsmenge von ____ ml/h empfohlen.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "> 500",
+      "> 100",
+      "> 250",
+      "> 50"
     ],
     "answer": 0,
-    "ref_detail": "42.1 – Anaesthesie‑Tiefenmonitoring"
+    "ref_detail": "45.2 – Infusionswärmung"
   },
   {
-    "question": "(29) Frage zu Succinylcholin Kontra‑Pseudocholinesterasemangel: Was ist korrekt?",
+    "question": "Bei NOAC Dabigatran‑Blutung wird ____ als Antidot gegeben.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Idarucizumab",
+      "Andexanet alfa",
+      "Protamin",
+      "Vitamin K"
     ],
     "answer": 0,
-    "ref_detail": "35.3 – Muskelrelaxanzien"
+    "ref_detail": "41.2 – NOAC Antidote"
   },
   {
-    "question": "(30) Frage zu ASS TxA2‑Hemmung Dauer: Was ist korrekt?",
+    "question": "Quick‑Wert < 50 % plus massive Blutung erfordert ____‑Substitution.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "FFP",
+      "Thrombozyten",
+      "Tranexamsäure",
+      "Kalzium"
     ],
     "answer": 0,
-    "ref_detail": "41.2 – Blutgerinnung & Thrombozyten"
+    "ref_detail": "41.2 – Gerinnungsmanagement"
   },
   {
-    "question": "(31) Frage zu PCA‑Pumpe Standardopioid: Was ist korrekt?",
+    "question": "Bei schwerer metabolischer Azidose (pH < 7,1) kann ____ erwogen werden.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Natriumbikarbonat i.v.",
+      "Frusemid",
+      "Naloxon",
+      "Ketamin"
     ],
     "answer": 0,
-    "ref_detail": "47.3 – PCA‑Schema"
+    "ref_detail": "48.2 – Azidose Therapie"
   },
   {
-    "question": "(32) Frage zu 5‑R‑Regel Ausschluss 'richtige Geschwindigkeit': Was ist korrekt?",
+    "question": "Hypokapnie führt zu einer ____ des Hirndrucks.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Abnahme",
+      "Zunahme",
+      "keiner Veränderung",
+      "Explosion"
     ],
     "answer": 0,
-    "ref_detail": "10.2 – Medikamentensicherheit"
+    "ref_detail": "50.3 – Schädel‑Hirn‑Trauma Beatmung"
   },
   {
-    "question": "(33) Frage zu Low‑Flow O₂ bei Sedoanalgesie: Was ist korrekt?",
+    "question": "Plötzlicher PaCO₂‑Anstieg während der Narkose weist primär auf ____ hin.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Hypoventilation / Tubusproblem",
+      "Hyperventilation",
+      "Hypothermie",
+      "Hypoglykämie"
     ],
     "answer": 0,
-    "ref_detail": "24.2 – Bronchoskopie & Atemwegsmanagement"
+    "ref_detail": "38.3 – Kapno Monitoring Troubleshooting"
   },
   {
-    "question": "(34) Frage zu Hypoventilation PaCO₂‑Anstieg: Was ist korrekt?",
+    "question": "Midazolam hat eine Wirkdauer von ca. ____ Stunden.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1–2",
+      "3–4",
+      "0,5",
+      "6–8"
     ],
     "answer": 0,
-    "ref_detail": "34.4 – Blutgasinterpretation"
+    "ref_detail": "36.2 – Benzodiazepine Pharmakokinetik"
   },
   {
-    "question": "(35) Frage zu Spinalanästhesie Sitzposition: Was ist korrekt?",
+    "question": "Der Sauerstoffverbrauch bei FiO₂ 1,0 und 2 l/min Frischgas beträgt rund ____ l/h.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "120",
+      "30",
+      "240",
+      "60"
     ],
     "answer": 0,
-    "ref_detail": "40.1 – Spinalanästhesie Technik"
+    "ref_detail": "38.2 – Verbrauchskalkulation"
   },
   {
-    "question": "(36) Frage zu Ketorolac Analgetikagruppe: Was ist korrekt?",
+    "question": "Ein PEEP‑Titrationstest wird durchgeführt, um ____ zu optimieren.",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Oxygenierung und Compliance",
+      "Herzfrequenz",
+      "Blutdruck",
+      "Nierenperfusion"
     ],
     "answer": 0,
-    "ref_detail": "34.3 – Nicht‑opioide Analgetika"
-  },
-  {
-    "question": "(37) Frage zu Tourniquet Maximaldauer Oberarm: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "29.2 – Blutsperre & Tourniquet"
-  },
-  {
-    "question": "(38) Frage zu BIS‑Monitoring: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "42.1 – Anaesthesie‑Tiefenmonitoring"
-  },
-  {
-    "question": "(39) Frage zu Succinylcholin Kontra‑Pseudocholinesterasemangel: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "35.3 – Muskelrelaxanzien"
-  },
-  {
-    "question": "(40) Frage zu ASS TxA2‑Hemmung Dauer: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "41.2 – Blutgerinnung & Thrombozyten"
-  },
-  {
-    "question": "(41) Frage zu PCA‑Pumpe Standardopioid: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "47.3 – PCA‑Schema"
-  },
-  {
-    "question": "(42) Frage zu 5‑R‑Regel Ausschluss 'richtige Geschwindigkeit': Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "10.2 – Medikamentensicherheit"
-  },
-  {
-    "question": "(43) Frage zu Low‑Flow O₂ bei Sedoanalgesie: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "24.2 – Bronchoskopie & Atemwegsmanagement"
-  },
-  {
-    "question": "(44) Frage zu Hypoventilation PaCO₂‑Anstieg: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "34.4 – Blutgasinterpretation"
-  },
-  {
-    "question": "(45) Frage zu Spinalanästhesie Sitzposition: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "40.1 – Spinalanästhesie Technik"
-  },
-  {
-    "question": "(46) Frage zu Ketorolac Analgetikagruppe: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "34.3 – Nicht‑opioide Analgetika"
-  },
-  {
-    "question": "(47) Frage zu Tourniquet Maximaldauer Oberarm: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "29.2 – Blutsperre & Tourniquet"
-  },
-  {
-    "question": "(48) Frage zu BIS‑Monitoring: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "42.1 – Anaesthesie‑Tiefenmonitoring"
-  },
-  {
-    "question": "(49) Frage zu Succinylcholin Kontra‑Pseudocholinesterasemangel: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "35.3 – Muskelrelaxanzien"
-  },
-  {
-    "question": "(50) Frage zu ASS TxA2‑Hemmung Dauer: Was ist korrekt?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "41.2 – Blutgerinnung & Thrombozyten"
+    "ref_detail": "38.2 – PEEP‑Titration Vorgehen"
   }
 ]
