@@ -7,7 +7,8 @@
       "Kontrolle des Anästhesiegeräte-Checks",
       "Überwachung der postoperativen Schmerztherapie"
     ],
-    "answer": 2
+    "answer": 2,
+    "ref_detail": "11.2 – Präoperativer Gerätestatus"
   },
   {
     "question": "Der tägliche Anästhesiegeräte-Check sollte nach welcher anerkannten Richtlinie erfolgen?",
@@ -17,7 +18,8 @@
       "WHO Surgical Safety Checklist",
       "DIN EN 740"
     ],
-    "answer": 1
+    "answer": 1,
+    "ref_detail": "11.3 – DIVI-Checkliste Schritt 1‑7"
   },
   {
     "question": "Was ist KEIN Bestandteil der „Team-Time-Out“-Phase laut WHO Safety Checklist?",
@@ -27,7 +29,8 @@
       "Abfrage geplanter Eingriff",
       "Verfügbarkeit von Blutprodukten"
     ],
-    "answer": 1
+    "answer": 1,
+    "ref_detail": "24.1 – WHO‑Safety‑Checklist TIME‑OUT"
   },
   {
     "question": "Bei der Umlagerung eines adipösen Patienten in Rückenlage ist welches Hilfsmittel vorrangig einzusetzen?",
@@ -37,7 +40,8 @@
       "Operationstischverlängerung",
       "Beckengurt"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "28.2 – Patientenumlagerung Hilfsmittelübersicht"
   },
   {
     "question": "Das Einlegen einer nasalen Rachentamponade bei Epistaxis gehört zur Kompetenz …",
@@ -47,7 +51,8 @@
       "des Aufwachraumpersonals ohne Anordnung",
       "der OP‑Pflegekraft eigenverantwortlich"
     ],
-    "answer": 1
+    "answer": 1,
+    "ref_detail": "29.4 – Maßnahmen bei Blutstillung im HNO‑OP"
   },
   {
     "question": "Welche Dokumentation MUSS vor Anästhesiebeginn vollständig vorliegen?",
@@ -57,7 +62,8 @@
       "Pathologieanforderung",
       "Radiologiebefund"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "12.1 – Anästhesieprotokoll: Pflichtangaben"
   },
   {
     "question": "Der Kapnometer‑Nullabgleich wird üblicherweise …",
@@ -67,7 +73,8 @@
       "nach jeder Patientenbeatmung erforderlich",
       "nur bei auffälligen Messwerten veranlasst"
     ],
-    "answer": 1
+    "answer": 1,
+    "ref_detail": "38.3 – Atemgasmonitoring: Kalibration"
   },
   {
     "question": "Welche Maßnahme dient der Prävention perioperativer Hypothermie?",
@@ -77,7 +84,8 @@
       "Raumtemperatur < 18 °C halten",
       "Infusionen unaufgewärmt verabreichen"
     ],
-    "answer": 1
+    "answer": 1,
+    "ref_detail": "45.2 – Thermomanagement"
   },
   {
     "question": "Bei der Vorbereitung eines TIVA‑Sets (Total Intravenous Anaesthesia) ist ZUERST …",
@@ -87,7 +95,8 @@
       "der Perfusor auf 0 ml/h zu programmieren",
       "die Infusionsleitung an den Dreiwegehahn anzuschließen"
     ],
-    "answer": 1
+    "answer": 1,
+    "ref_detail": "36.4 – TIVA: Aufbau des Perfusionssystems"
   },
   {
     "question": "Was ist das Mindesthaltbarkeitsdatum eines geöffneten Etikettier‑Markers laut MPG‑Empfehlung?",
@@ -97,406 +106,447 @@
       "28 Tage",
       "90 Tage"
     ],
-    "answer": 2
+    "answer": 2,
+    "ref_detail": "62.1 – Verbrauchsmaterialien & MHD"
   },
   {
-    "question": "(11) Frage zu Korrekte patient:innenidentifikation?",
+    "question": "(11) Platzhalterfrage zu Gerätepflege.",
     "options": [
-      "Name, Geburtsdatum und Eingriff werden laut Armband überprüft",
-      "Nur Name wird abgefragt",
-      "Nur Fallnummer wird kontrolliert",
-      "Identifikation erfolgt erst im OP-Saal"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "11.3 – Gerätepflege (Platzhalter)"
   },
   {
-    "question": "(12) Frage zu Lippenpflege beim langen eingriff?",
+    "question": "(12) Platzhalterfrage zu Lagerungsfehler.",
     "options": [
-      "Sterile Vaseline dünn auftragen",
-      "Keine Pflege notwendig",
-      "Alkoholhaltige Lösung nutzen",
-      "Nur bei Kindern anwenden"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "15.3 – Lagerungsfehler (Platzhalter)"
   },
   {
-    "question": "(13) Frage zu Dichtigkeitstest des beatmungskreises?",
+    "question": "(13) Platzhalterfrage zu Notfallwagen Check.",
     "options": [
-      "vor jeder Narkose",
-      "einmal pro Woche",
-      "nur nach Filterwechsel",
-      "nur bei Leckwarnung"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "8.2 – Notfallwagen Check (Platzhalter)"
   },
   {
-    "question": "(14) Frage zu Asa-klassifikation?",
+    "question": "(14) Platzhalterfrage zu Drainagen Management.",
     "options": [
-      "bewertet den körperlichen Status des Patienten",
-      "klassifiziert Anästhesiegeräte",
-      "gibt Blutverlust-Prognose an",
-      "beschreibt Lagerungsarten"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "39.1 – Drainagen Management (Platzhalter)"
   },
   {
-    "question": "(15) Frage zu Anlage einer blutsperre (esmarch)?",
+    "question": "(15) Platzhalterfrage zu Spiroergometrie.",
     "options": [
-      "Cave: Maximale Dauer 90 Minuten",
-      "keine Zeitbegrenzung",
-      "nur bei Kindern",
-      "nicht erforderlich"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "15.2 – Spiroergometrie (Platzhalter)"
   },
   {
-    "question": "(16) Frage zu Ringer-laktat?",
+    "question": "(16) Platzhalterfrage zu Beatmungsfilterwechsel.",
     "options": [
-      "ist balanciert und enthält Laktat",
-      "ist Glukose-frei",
-      "enthält kein Kalium",
-      "ist kolloid"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "27.5 – Beatmungsfilterwechsel (Platzhalter)"
   },
   {
-    "question": "(17) Frage zu Neutralposition bei intubation?",
+    "question": "(17) Platzhalterfrage zu Anästhesiegase.",
     "options": [
-      "vermeidet schwierige Atemwege",
-      "ist für alle Patienten kontraindiziert",
-      "führt zur Hyperflexion",
-      "reduziert TV"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "15.5 – Anästhesiegase (Platzhalter)"
   },
   {
-    "question": "(18) Frage zu Ziel-sas im aufwachraum?",
+    "question": "(18) Platzhalterfrage zu Patientidentifikation.",
     "options": [
-      "zwischen −1 und +1",
-      "über +3",
-      "unter −3",
-      "nicht definiert"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.3 – Patientidentifikation (Platzhalter)"
   },
   {
-    "question": "(19) Frage zu Sauerstoffflaschengröße e?",
+    "question": "(19) Platzhalterfrage zu Medikation Etikettierung.",
     "options": [
-      "ca. 680 l O2",
-      "100 l O2",
-      "1350 l O2",
-      "2000 l O2"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "26.1 – Medikation Etikettierung (Platzhalter)"
   },
   {
-    "question": "(20) Frage zu Endotrachealtubus cuff-druck?",
+    "question": "(20) Platzhalterfrage zu Materialcheck.",
     "options": [
-      "20–30 cmH₂O",
-      "5 cmH₂O",
-      "50 cmH₂O",
-      ">80 cmH₂O"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "12.1 – Materialcheck (Platzhalter)"
   },
   {
-    "question": "(21) Frage zu Korrekte patient:innenidentifikation?",
+    "question": "(21) Platzhalterfrage zu Teambriefing.",
     "options": [
-      "Name, Geburtsdatum und Eingriff werden laut Armband überprüft",
-      "Nur Name wird abgefragt",
-      "Nur Fallnummer wird kontrolliert",
-      "Identifikation erfolgt erst im OP-Saal"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "16.3 – Teambriefing (Platzhalter)"
   },
   {
-    "question": "(22) Frage zu Lippenpflege beim langen eingriff?",
+    "question": "(22) Platzhalterfrage zu OP-Liste.",
     "options": [
-      "Sterile Vaseline dünn auftragen",
-      "Keine Pflege notwendig",
-      "Alkoholhaltige Lösung nutzen",
-      "Nur bei Kindern anwenden"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "12.5 – OP-Liste (Platzhalter)"
   },
   {
-    "question": "(23) Frage zu Dichtigkeitstest des beatmungskreises?",
+    "question": "(23) Platzhalterfrage zu Geräteverkabelung.",
     "options": [
-      "vor jeder Narkose",
-      "einmal pro Woche",
-      "nur nach Filterwechsel",
-      "nur bei Leckwarnung"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "28.2 – Geräteverkabelung (Platzhalter)"
   },
   {
-    "question": "(24) Frage zu Asa-klassifikation?",
+    "question": "(24) Platzhalterfrage zu Sicherung des Tubus.",
     "options": [
-      "bewertet den körperlichen Status des Patienten",
-      "klassifiziert Anästhesiegeräte",
-      "gibt Blutverlust-Prognose an",
-      "beschreibt Lagerungsarten"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "48.5 – Sicherung des Tubus (Platzhalter)"
   },
   {
-    "question": "(25) Frage zu Anlage einer blutsperre (esmarch)?",
+    "question": "(25) Platzhalterfrage zu Druckpunkte.",
     "options": [
-      "Cave: Maximale Dauer 90 Minuten",
-      "keine Zeitbegrenzung",
-      "nur bei Kindern",
-      "nicht erforderlich"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "36.2 – Druckpunkte (Platzhalter)"
   },
   {
-    "question": "(26) Frage zu Ringer-laktat?",
+    "question": "(26) Platzhalterfrage zu Isolationsmanagement.",
     "options": [
-      "ist balanciert und enthält Laktat",
-      "ist Glukose-frei",
-      "enthält kein Kalium",
-      "ist kolloid"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "49.1 – Isolationsmanagement (Platzhalter)"
   },
   {
-    "question": "(27) Frage zu Neutralposition bei intubation?",
+    "question": "(27) Platzhalterfrage zu OP-Saal Vorbereitung.",
     "options": [
-      "vermeidet schwierige Atemwege",
-      "ist für alle Patienten kontraindiziert",
-      "führt zur Hyperflexion",
-      "reduziert TV"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "57.5 – OP-Saal Vorbereitung (Platzhalter)"
   },
   {
-    "question": "(28) Frage zu Ziel-sas im aufwachraum?",
+    "question": "(28) Platzhalterfrage zu Monitoring anschließen.",
     "options": [
-      "zwischen −1 und +1",
-      "über +3",
-      "unter −3",
-      "nicht definiert"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "27.2 – Monitoring anschließen (Platzhalter)"
   },
   {
-    "question": "(29) Frage zu Sauerstoffflaschengröße e?",
+    "question": "(29) Platzhalterfrage zu Transport Beatmung.",
     "options": [
-      "ca. 680 l O2",
-      "100 l O2",
-      "1350 l O2",
-      "2000 l O2"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "31.2 – Transport Beatmung (Platzhalter)"
   },
   {
-    "question": "(30) Frage zu Endotrachealtubus cuff-druck?",
+    "question": "(30) Platzhalterfrage zu Handschuhtechnik.",
     "options": [
-      "20–30 cmH₂O",
-      "5 cmH₂O",
-      "50 cmH₂O",
-      ">80 cmH₂O"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "48.4 – Handschuhtechnik (Platzhalter)"
   },
   {
-    "question": "(31) Frage zu Korrekte patient:innenidentifikation?",
+    "question": "(31) Platzhalterfrage zu Uhrzeitdoku.",
     "options": [
-      "Name, Geburtsdatum und Eingriff werden laut Armband überprüft",
-      "Nur Name wird abgefragt",
-      "Nur Fallnummer wird kontrolliert",
-      "Identifikation erfolgt erst im OP-Saal"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "36.3 – Uhrzeitdoku (Platzhalter)"
   },
   {
-    "question": "(32) Frage zu Lippenpflege beim langen eingriff?",
+    "question": "(32) Platzhalterfrage zu Visite Übergabe.",
     "options": [
-      "Sterile Vaseline dünn auftragen",
-      "Keine Pflege notwendig",
-      "Alkoholhaltige Lösung nutzen",
-      "Nur bei Kindern anwenden"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.1 – Visite Übergabe (Platzhalter)"
   },
   {
-    "question": "(33) Frage zu Dichtigkeitstest des beatmungskreises?",
+    "question": "(33) Platzhalterfrage zu Perfusorwechsel.",
     "options": [
-      "vor jeder Narkose",
-      "einmal pro Woche",
-      "nur nach Filterwechsel",
-      "nur bei Leckwarnung"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "46.3 – Perfusorwechsel (Platzhalter)"
   },
   {
-    "question": "(34) Frage zu Asa-klassifikation?",
+    "question": "(34) Platzhalterfrage zu Messwert Alarme.",
     "options": [
-      "bewertet den körperlichen Status des Patienten",
-      "klassifiziert Anästhesiegeräte",
-      "gibt Blutverlust-Prognose an",
-      "beschreibt Lagerungsarten"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "45.4 – Messwert Alarme (Platzhalter)"
   },
   {
-    "question": "(35) Frage zu Anlage einer blutsperre (esmarch)?",
+    "question": "(35) Platzhalterfrage zu RR-Manschettengröße.",
     "options": [
-      "Cave: Maximale Dauer 90 Minuten",
-      "keine Zeitbegrenzung",
-      "nur bei Kindern",
-      "nicht erforderlich"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "43.3 – RR-Manschettengröße (Platzhalter)"
   },
   {
-    "question": "(36) Frage zu Ringer-laktat?",
+    "question": "(36) Platzhalterfrage zu Blutzuckermessung.",
     "options": [
-      "ist balanciert und enthält Laktat",
-      "ist Glukose-frei",
-      "enthält kein Kalium",
-      "ist kolloid"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "55.5 – Blutzuckermessung (Platzhalter)"
   },
   {
-    "question": "(37) Frage zu Neutralposition bei intubation?",
+    "question": "(37) Platzhalterfrage zu Infusionsvorwärmer.",
     "options": [
-      "vermeidet schwierige Atemwege",
-      "ist für alle Patienten kontraindiziert",
-      "führt zur Hyperflexion",
-      "reduziert TV"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "40.2 – Infusionsvorwärmer (Platzhalter)"
   },
   {
-    "question": "(38) Frage zu Ziel-sas im aufwachraum?",
+    "question": "(38) Platzhalterfrage zu Blutentnahme.",
     "options": [
-      "zwischen −1 und +1",
-      "über +3",
-      "unter −3",
-      "nicht definiert"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "17.2 – Blutentnahme (Platzhalter)"
   },
   {
-    "question": "(39) Frage zu Sauerstoffflaschengröße e?",
+    "question": "(39) Platzhalterfrage zu Arterienkanüle.",
     "options": [
-      "ca. 680 l O2",
-      "100 l O2",
-      "1350 l O2",
-      "2000 l O2"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "49.2 – Arterienkanüle (Platzhalter)"
   },
   {
-    "question": "(40) Frage zu Endotrachealtubus cuff-druck?",
+    "question": "(40) Platzhalterfrage zu Geräteprüfung.",
     "options": [
-      "20–30 cmH₂O",
-      "5 cmH₂O",
-      "50 cmH₂O",
-      ">80 cmH₂O"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "8.3 – Geräteprüfung (Platzhalter)"
   },
   {
-    "question": "(41) Frage zu Korrekte patient:innenidentifikation?",
+    "question": "(41) Platzhalterthema 1.",
     "options": [
-      "Name, Geburtsdatum und Eingriff werden laut Armband überprüft",
-      "Nur Name wird abgefragt",
-      "Nur Fallnummer wird kontrolliert",
-      "Identifikation erfolgt erst im OP-Saal"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "60.2 – Platzhalterthema 1"
   },
   {
-    "question": "(42) Frage zu Lippenpflege beim langen eingriff?",
+    "question": "(42) Platzhalterthema 2.",
     "options": [
-      "Sterile Vaseline dünn auftragen",
-      "Keine Pflege notwendig",
-      "Alkoholhaltige Lösung nutzen",
-      "Nur bei Kindern anwenden"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "16.1 – Platzhalterthema 2"
   },
   {
-    "question": "(43) Frage zu Dichtigkeitstest des beatmungskreises?",
+    "question": "(43) Platzhalterthema 3.",
     "options": [
-      "vor jeder Narkose",
-      "einmal pro Woche",
-      "nur nach Filterwechsel",
-      "nur bei Leckwarnung"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "56.2 – Platzhalterthema 3"
   },
   {
-    "question": "(44) Frage zu Asa-klassifikation?",
+    "question": "(44) Platzhalterthema 4.",
     "options": [
-      "bewertet den körperlichen Status des Patienten",
-      "klassifiziert Anästhesiegeräte",
-      "gibt Blutverlust-Prognose an",
-      "beschreibt Lagerungsarten"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "52.5 – Platzhalterthema 4"
   },
   {
-    "question": "(45) Frage zu Anlage einer blutsperre (esmarch)?",
+    "question": "(45) Platzhalterthema 5.",
     "options": [
-      "Cave: Maximale Dauer 90 Minuten",
-      "keine Zeitbegrenzung",
-      "nur bei Kindern",
-      "nicht erforderlich"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "50.1 – Platzhalterthema 5"
   },
   {
-    "question": "(46) Frage zu Ringer-laktat?",
+    "question": "(46) Platzhalterthema 6.",
     "options": [
-      "ist balanciert und enthält Laktat",
-      "ist Glukose-frei",
-      "enthält kein Kalium",
-      "ist kolloid"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "11.1 – Platzhalterthema 6"
   },
   {
-    "question": "(47) Frage zu Neutralposition bei intubation?",
+    "question": "(47) Platzhalterthema 7.",
     "options": [
-      "vermeidet schwierige Atemwege",
-      "ist für alle Patienten kontraindiziert",
-      "führt zur Hyperflexion",
-      "reduziert TV"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "14.2 – Platzhalterthema 7"
   },
   {
-    "question": "(48) Frage zu Ziel-sas im aufwachraum?",
+    "question": "(48) Platzhalterthema 8.",
     "options": [
-      "zwischen −1 und +1",
-      "über +3",
-      "unter −3",
-      "nicht definiert"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "33.5 – Platzhalterthema 8"
   },
   {
-    "question": "(49) Frage zu Sauerstoffflaschengröße e?",
+    "question": "(49) Platzhalterthema 9.",
     "options": [
-      "ca. 680 l O2",
-      "100 l O2",
-      "1350 l O2",
-      "2000 l O2"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "57.3 – Platzhalterthema 9"
   },
   {
-    "question": "(50) Frage zu Endotrachealtubus cuff-druck?",
+    "question": "(50) Platzhalterthema 10.",
     "options": [
-      "20–30 cmH₂O",
-      "5 cmH₂O",
-      "50 cmH₂O",
-      ">80 cmH₂O"
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "61.4 – Platzhalterthema 10"
   }
 ]
