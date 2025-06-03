@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Empathische Grundhaltung nach Carl Rogers umfasst NICHT …",
+    "options": [
+      "Wertschätzung",
+      "Kongruenz",
+      "Empathie",
+      "Sympathie erzwingen"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Was beschreibt die Teach‑Back‑Methode?",
+    "options": [
+      "Patient*innen wiederholen in eigenen Worten die erhaltenen Informationen",
+      "Pflegekräfte lesen ärztliche Anordnungen laut vor",
+      "Ärzt*innen wiederholen OP‑Ablauf für das Team",
+      "Angehörige erklären den Patient*innen die Medikation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welches Verhalten unterstützt AKTIVES Zuhören am wenigsten?",
+    "options": [
+      "Regelmäßiges Nicken",
+      "Paraphrasieren",
+      "Blickkontakt",
+      "Ständiges Unterbrechen"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Die erste Phase des SPIKES‑Protokolls zur Übermittlung schlechter Nachrichten lautet …",
+    "options": [
+      "Setting (Rahmen schaffen)",
+      "Perception (Wahrnehmung prüfen)",
+      "Invitation",
+      "Knowledge"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Haptischer Kanal der non‑verbalen Kommunikation ist …",
+    "options": [
+      "Berührung",
+      "Blick",
+      "Tonfall",
+      "Mimik"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Frageform minimiert Suggestion und fördert offene Antworten?",
+    "options": [
+      "Was haben Sie heute gegessen?",
+      "Sie haben keine Schmerzen, oder?",
+      "Tut es sehr weh?",
+      "Das tut doch nicht weh, oder?"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine Metakommunikation bedeutet …",
+    "options": [
+      "Über das Gespräch selbst sprechen",
+      "Medizinische Metadaten austauschen",
+      "E‑Mail‑Kommunikation",
+      "Kommunikation mit Metronom"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Umgang mit sprachlichen Barrieren ERFORDERT NICHT zwingend …",
+    "options": [
+      "Professionelle*r Dolmetscher*in",
+      "Einsatz von Familienmitglied‑Übersetzern",
+      "Einfache Sprache",
+      "Visualisierungshilfen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Die Kommunikation nach dem NURSE‑Modell beinhaltet NICHT …",
+    "options": [
+      "Name the emotion",
+      "Understand",
+      "Respect",
+      "Explain"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Welche Technik fördert Shared Decision Making?",
+    "options": [
+      "Option Grid",
+      "Randomisierte Entscheidung",
+      "Alleinige Arztentscheidung",
+      "Zufallsprinzip per Münzwurf"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der CALM‑Ansatz (Control, Acknowledge, Listen, Manage) hilft bei …",
+    "options": [
+      "Aggressiven Patient*innen",
+      "Blutdruckrégulation",
+      "Gerätefehlern",
+      "Medikamentenaufbewahrung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei hörbeeinträchtigten Patient*innen sollte man …",
+    "options": [
+      "Langsamer sprechen und Mundbild zeigen",
+      "Laut schreien",
+      "Von hinten ansprechen",
+      "Fachjargon verwenden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Was ist KEIN Beispiel für paraverbale Kommunikation?",
+    "options": [
+      "Sprechtempo",
+      "Stimmlage",
+      "Betonung",
+      "Inhalt der Worte"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Bei der Patientenaufklärung ist nach deutschem Recht notwendig …",
+    "options": [
+      "Verständliche Sprache ohne Fachchinesisch",
+      "Juristisches Latein",
+      "Nur schriftliche Broschüre",
+      "Komplettes Schweigen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine 'Ich‑Botschaft' bei Kritik enthält NICHT …",
+    "options": [
+      "Beschreibung des eigenen Gefühls",
+      "Bewertung der Person",
+      "Auslösendes Verhalten",
+      "Wunsch/Bitte"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Der MUM‑Effekt beschreibt die Tendenz, …",
+    "options": [
+      "Schlechte Nachrichten zu vermeiden",
+      "Gute Nachrichten zu übertreiben",
+      "Neutral zu bleiben",
+      "Gesprächspartner zu unterbrechen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Aussage unterstützt die Compliance am besten?",
+    "options": [
+      "Könnten Sie zeigen, wie Sie den Inhalator benutzen?",
+      "Vergessen Sie nicht, das Medikament zu nehmen.",
+      "Ich hoffe, Sie machen alles richtig.",
+      "Sie verstehen das schon."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In der Interkulturellen Kommunikation ist 'Power Distance' ein Begriff aus …",
+    "options": [
+      "Hofstede‑Modell",
+      "Maslow‑Pyramide",
+      "Rogers‑Theorie",
+      "Bloom‑Taxonomie"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welches Instrument misst patientenzentrierte Kommunikation?",
+    "options": [
+      "CARE Measure",
+      "BMI",
+      "Glasgow‑Coma‑Scale",
+      "Apfel‑Score"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der Begriff 'Health Literacy' bezeichnet …",
+    "options": [
+      "Gesundheitskompetenz der Patient*innen",
+      "Lese‑ und Schreibfähigkeit von Ärzt*innen",
+      "Zahl der Krankenhausbetten",
+      "Pharmakologische Datenbank"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Technik hilft, schwierige Emotionen anzusprechen?",
+    "options": [
+      "Empathische Spiegelung",
+      "Konfrontative Beschuldigung",
+      "Ignorieren",
+      "Themenwechsel"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die SAFE‑Communicate Regel bei Übergaben fordert u. a. …",
+    "options": [
+      "Synthese am Ende durch den Empfänger",
+      "Verzicht auf Rückfragen",
+      "Nur schriftliche Übergabe",
+      "Spontanes Erzählen ohne Struktur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein wichtiger Bestandteil der De‑Esklation bei aggressiven Patient*innen ist …",
+    "options": [
+      "Selbstkontrolle und ruhige Stimme",
+      "Laute Befehle",
+      "Körperlicher Zwang sofort",
+      "Ignorieren"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die Frage 'Was ist Ihnen heute besonders wichtig?' dient der …",
+    "options": [
+      "Erfassung von Patient*innen‑Prioritäten",
+      "Laborwertermittlung",
+      "Medikamentenanamnese",
+      "Diagnosekodierung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine hohe Frage‑Antwort‑Ratio (>3:1) von Fachpersonal zu Patient*in …",
+    "options": [
+      "reduziert die Patient*innenbeteiligung",
+      "steigert das Verständnis",
+      "ist optimal",
+      "verkürzt das Gespräch effektiv"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Nonverbales Signal für Zustimmung kann sein …",
+    "options": [
+      "Leichtes Nicken",
+      "Arme verschränken",
+      "Augenrollen",
+      "Abgewandter Blick"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der 'Eindruck erster 30 Sekunden' in der Patientenkommunikation wird bezeichnet als …",
+    "options": [
+      "Primacy Effect",
+      "Recency Effect",
+      "Halo Effect",
+      "Foot‑in‑Door"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine geschlossene Frage endet häufig mit …",
+    "options": [
+      "einer Auswahl 'Ja/Nein'",
+      "Warum …?",
+      "Was denken Sie …?",
+      "Wie …?"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welches Medium ist für sehbeeinträchtigte Patient*innen am besten geeignet?",
+    "options": [
+      "Audioaufnahme",
+      "Gedruckter Leitfaden 12‑pt",
+      "Piktogramme",
+      "PowerPoint‑Folie"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei Kindern fördert eine 'Tell‑Show‑Do' Strategie …",
+    "options": [
+      "Angstabbau",
+      "Informationsüberlastung",
+      "Vermeidung von Fragen",
+      "Ignorieren der Eltern"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der 'Dritte Raum' in der Kommunikationstheorie (Habermas) bezeichnet …",
+    "options": [
+      "Neutralen Austauschbereich",
+      "Privatsphäre",
+      "Öffentlichen Raum",
+      "Technikraum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welcher Satz entspricht einer validierenden Kommunikation?",
+    "options": [
+      "Ich kann verstehen, dass Sie besorgt sind.",
+      "Das ist doch kein Grund zur Sorge!",
+      "Sie übertreiben ein wenig.",
+      "Ich habe keine Zeit für Ihre Angst."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Häufiger Fehler bei Telemedizin‑Gesprächen ist …",
+    "options": [
+      "fehlender Blick in Kamera (Augenkontakt)",
+      "gute Beleuchtung",
+      "ruhige Umgebung",
+      "klarer Ton"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei aphasischen Patient*innen eignet sich am besten …",
+    "options": [
+      "Einfache Ja‑/Nein‑Fragen",
+      "Komplexe Satzstrukturen",
+      "Ironie",
+      "Fachbegriffe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine 'Positive Suggestion' in der präoperativen Kommunikation kann …",
+    "options": [
+      "Schmerzwahrnehmung reduzieren",
+      "Blutdruck erhöhen",
+      "Angst steigern",
+      "Nichts bewirken"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das 'L' in dem 'SOLER'‑Modell für nonverbales Zuhören bedeutet …",
+    "options": [
+      "Lean toward the speaker",
+      "Listen silently",
+      "Laugh",
+      "Leave"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der Gegenpart zur 'Ich‑Botschaft' ist in Konflikten …",
+    "options": [
+      "Du‑Botschaft",
+      "Wir‑Botschaft",
+      "Er‑Botschaft",
+      "Man‑Botschaft"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Farbe wirkt laut Farbpsychologie beruhigend im Patient*innen‑Gespräch?",
+    "options": [
+      "Blau‑Grün‑Töne",
+      "Signalrot",
+      "Schwarz",
+      "Neon‑Gelb"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der 'Leitmotto‑Wechsel' (Motivational Interviewing) bedeutet …",
+    "options": [
+      "Patient*in benennt selbst Grund für Veränderung",
+      "Therapeut überredet zur Änderung",
+      "Ultimatum stellen",
+      "Keine Ziele setzen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In der non‑verbalen Kommunikation gilt: Große persönliche Distanz (>120 cm) steht typischerweise für …",
+    "options": [
+      "Öffentliche Distanz",
+      "Intime Distanz",
+      "Persönliche Distanz",
+      "Soziale Distanz"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine Spiegeltechnik („Mirroring“) sollte …",
+    "options": [
+      "dezent und authentisch erfolgen",
+      "betont demonstrativ sein",
+      "übertrieben werden",
+      "unterlassen werden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Laut Four‑E‑Leitfaden bei Digital Health Literacy steht 'Engage' für …",
+    "options": [
+      "Einbeziehen der Nutzer*innen",
+      "Bewerten",
+      "Erzählen",
+      "Entfernen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine 'Transtheoretische Modell'‑Beratung adressiert Phasenwechsel von …",
+    "options": [
+      "Präkontemplation zu Kontemplation",
+      "Aktion zu Rückfall",
+      "Wartung zu Termination",
+      "Alle genannten"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Bei emotionaler Ansteckung ('emotional contagion') …",
+    "options": [
+      "übertragen sich Gefühle unbewusst",
+      "bleiben Gefühle isoliert",
+      "werden Gefühle ignoriert",
+      "entsteht keine Reaktion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "PACE‑Format für Patient Education steht für Present, Ask, Check und …",
+    "options": [
+      "Express",
+      "Explain",
+      "Evaluate",
+      "Elaborate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Ein 'Open‑Ended Prompt' beginnt typischerweise mit …",
+    "options": [
+      "Wie",
+      "Ist",
+      "Sind",
+      "Hat"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die 'Zwei‑Minuten‑Training' Technik für Angehörige zielt auf …",
+    "options": [
+      "schnelle Instruktion zu Pflegetätigkeiten",
+      "Pause des Personals",
+      "Diagnoseübermittlung",
+      "Zahlungsabwicklung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei 'Chunk and Check' wird Information …",
+    "options": [
+      "in kleinen Portionen gegeben und Verständnis geprüft",
+      "als Ganzes vorgelesen",
+      "komplett ignoriert",
+      "nur schriftlich übergeben"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine 'positive framing' Formulierung lautet …",
+    "options": [
+      "Sie haben eine 95 % Chance auf vollständige Genesung.",
+      "Sie haben 5 % Risiko zu sterben.",
+      "Es kann auch schiefgehen.",
+      "Keine Ahnung, ob es klappt."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die 'VIEF'‑Regel zur Kommunikation mit dementen Menschen beinhaltet NICHT …",
+    "options": [
+      "Vermeiden von Korrekturen",
+      "Ich‑Botschaften verwenden",
+      "Einfachheit",
+      "Fachsprache"
+    ],
+    "answer": 3
+  }
+]

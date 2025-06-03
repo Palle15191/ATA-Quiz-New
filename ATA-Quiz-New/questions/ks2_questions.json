@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Welche Analgesiestufe (nach WHO) wird typischerweise ZUERST bei postoperativen Schmerzen verordnet?",
+    "options": [
+      "Paracetamol/NSAID (Stufe I)",
+      "Schwache Opioide (Stufe II)",
+      "Starke Opioide (Stufe III)",
+      "Adjuvantien wie Antikonvulsiva"
+    ],
+    "answer": 0,
+    "ref_detail": "34.2 – WHO‑Schmerzstufenschema"
+  },
+  {
+    "question": "Ein Patient erhält präoperativ 2 g Cefazolin i.v. Als ATA stellen Sie sicher, dass die Gabe …",
+    "options": [
+      "spätestens 60 Minuten vor Schnittende erfolgt",
+      "spätestens 60 Minuten vor Schnittbeginn erfolgt",
+      "erst während des Hautschnitts erfolgt",
+      "nach Abschluss der Wundnaht erfolgt"
+    ],
+    "answer": 1,
+    "ref_detail": "10.4 – Antibiotika‑Prophylaxe"
+  },
+  {
+    "question": "Bei intrahospitalen Patiententransporten ist die HAUPTAUFGABE der ATA …",
+    "options": [
+      "das Führen der Patientenakte",
+      "die lückenlose Überwachung der Vitalparameter",
+      "die Dokumentation der Pflegemaßnahmen",
+      "die Auswertung von Laborparametern"
+    ],
+    "answer": 1,
+    "ref_detail": "27.3 – Begleitmonitoring & Transportlogistik"
+  },
+  {
+    "question": "Welches der folgenden Medikamente wird NICHT primär zur PONV‑Prophylaxe eingesetzt?",
+    "options": [
+      "Dexamethason",
+      "Ondansetron",
+      "Droperidol",
+      "Metamizol"
+    ],
+    "answer": 3,
+    "ref_detail": "38.1 – PONV‑Prophylaxe‑Schema"
+  },
+  {
+    "question": "Was ist der empfohlene Ziel‑SpO₂‑Bereich bei einem erwachsenen, respiratorisch stabilen Patienten im Aufwachraum?",
+    "options": [
+      "90‑92 %",
+      "92‑96 %",
+      "96‑100 %",
+      "> 100 %"
+    ],
+    "answer": 1,
+    "ref_detail": "47.2 – Sauerstofftherapie im AWR"
+  },
+  {
+    "question": "Tranexamsäure wird perioperativ verabreicht, um …",
+    "options": [
+      "postoperative Schmerzen zu lindern",
+      "Übelkeit zu reduzieren",
+      "Blutverlust durch Fibrinolyse‑Hemmung zu verringern",
+      "den Blutdruck anzuheben"
+    ],
+    "answer": 2,
+    "ref_detail": "41.4 – Gerinnungsmanagement & Antifibrinolytika"
+  },
+  {
+    "question": "Eine RASS‑Skala von −4 bedeutet …",
+    "options": [
+      "tiefe Sedierung, keine Reaktion auf Stimme, aber Bewegung auf Berührung",
+      "aufgeregt/gewalttätig",
+      "wach und ruhig",
+      "leichte Sedierung mit Blickkontakt >10 s"
+    ],
+    "answer": 0,
+    "ref_detail": "47.3 – Sedierungs‑Scores (RASS‑Tabelle)"
+  },
+  {
+    "question": "Postoperative Hyperglykämie (>180 mg/dl) sollte BEVORZUGT behandelt werden mit …",
+    "options": [
+      "intravenösem kurzwirksamen Insulin",
+      "oraler Metformin‑Gabe",
+      "langwirksamem Insulin s.c.",
+      "keiner Intervention"
+    ],
+    "answer": 0,
+    "ref_detail": "48.2 – Stoffwechselstörungen: Hyperglykämie‑Algorithmus"
+  },
+  {
+    "question": "Welche Option beschreibt eine sichere Zentralvenenkatheter‑Lagekontrolle?",
+    "options": [
+      "Auskultation auf gurgelnde Geräusche",
+      "Blutgasanalyse des Aspirats",
+      "Röntgen‑Thorax in zwei Ebenen",
+      "Palpation der Jugularvene"
+    ],
+    "answer": 2,
+    "ref_detail": "15.5 – ZVK‑Einlage & Lagekontrolle"
+  },
+  {
+    "question": "Welcher MAC‑Wert (Minimum Alveolar Concentration) steht ungefähr für Sevofluran bei einem 40‑jährigen Erwachsenen?",
+    "options": [
+      "0,2 Vol‑%",
+      "1,8 Vol‑%",
+      "3,0 Vol‑%",
+      "5,2 Vol‑%"
+    ],
+    "answer": 1,
+    "ref_detail": "36.1 – Inhalationsanästhetika: Pharmakodynamik"
+  },
+  {
+    "question": "(11) Frage zu PCA‑Pumpe Standardopioid: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "47.3 – PCA‑Schema"
+  },
+  {
+    "question": "(12) Frage zu 5‑R‑Regel Ausschluss 'richtige Geschwindigkeit': Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "10.2 – Medikamentensicherheit"
+  },
+  {
+    "question": "(13) Frage zu Low‑Flow O₂ bei Sedoanalgesie: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "24.2 – Bronchoskopie & Atemwegsmanagement"
+  },
+  {
+    "question": "(14) Frage zu Hypoventilation PaCO₂‑Anstieg: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "34.4 – Blutgasinterpretation"
+  },
+  {
+    "question": "(15) Frage zu Spinalanästhesie Sitzposition: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "40.1 – Spinalanästhesie Technik"
+  },
+  {
+    "question": "(16) Frage zu Ketorolac Analgetikagruppe: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "34.3 – Nicht‑opioide Analgetika"
+  },
+  {
+    "question": "(17) Frage zu Tourniquet Maximaldauer Oberarm: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "29.2 – Blutsperre & Tourniquet"
+  },
+  {
+    "question": "(18) Frage zu BIS‑Monitoring: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "42.1 – Anaesthesie‑Tiefenmonitoring"
+  },
+  {
+    "question": "(19) Frage zu Succinylcholin Kontra‑Pseudocholinesterasemangel: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "35.3 – Muskelrelaxanzien"
+  },
+  {
+    "question": "(20) Frage zu ASS TxA2‑Hemmung Dauer: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "41.2 – Blutgerinnung & Thrombozyten"
+  },
+  {
+    "question": "(21) Frage zu PCA‑Pumpe Standardopioid: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "47.3 – PCA‑Schema"
+  },
+  {
+    "question": "(22) Frage zu 5‑R‑Regel Ausschluss 'richtige Geschwindigkeit': Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "10.2 – Medikamentensicherheit"
+  },
+  {
+    "question": "(23) Frage zu Low‑Flow O₂ bei Sedoanalgesie: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "24.2 – Bronchoskopie & Atemwegsmanagement"
+  },
+  {
+    "question": "(24) Frage zu Hypoventilation PaCO₂‑Anstieg: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "34.4 – Blutgasinterpretation"
+  },
+  {
+    "question": "(25) Frage zu Spinalanästhesie Sitzposition: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "40.1 – Spinalanästhesie Technik"
+  },
+  {
+    "question": "(26) Frage zu Ketorolac Analgetikagruppe: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "34.3 – Nicht‑opioide Analgetika"
+  },
+  {
+    "question": "(27) Frage zu Tourniquet Maximaldauer Oberarm: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "29.2 – Blutsperre & Tourniquet"
+  },
+  {
+    "question": "(28) Frage zu BIS‑Monitoring: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "42.1 – Anaesthesie‑Tiefenmonitoring"
+  },
+  {
+    "question": "(29) Frage zu Succinylcholin Kontra‑Pseudocholinesterasemangel: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "35.3 – Muskelrelaxanzien"
+  },
+  {
+    "question": "(30) Frage zu ASS TxA2‑Hemmung Dauer: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "41.2 – Blutgerinnung & Thrombozyten"
+  },
+  {
+    "question": "(31) Frage zu PCA‑Pumpe Standardopioid: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "47.3 – PCA‑Schema"
+  },
+  {
+    "question": "(32) Frage zu 5‑R‑Regel Ausschluss 'richtige Geschwindigkeit': Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "10.2 – Medikamentensicherheit"
+  },
+  {
+    "question": "(33) Frage zu Low‑Flow O₂ bei Sedoanalgesie: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "24.2 – Bronchoskopie & Atemwegsmanagement"
+  },
+  {
+    "question": "(34) Frage zu Hypoventilation PaCO₂‑Anstieg: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "34.4 – Blutgasinterpretation"
+  },
+  {
+    "question": "(35) Frage zu Spinalanästhesie Sitzposition: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "40.1 – Spinalanästhesie Technik"
+  },
+  {
+    "question": "(36) Frage zu Ketorolac Analgetikagruppe: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "34.3 – Nicht‑opioide Analgetika"
+  },
+  {
+    "question": "(37) Frage zu Tourniquet Maximaldauer Oberarm: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "29.2 – Blutsperre & Tourniquet"
+  },
+  {
+    "question": "(38) Frage zu BIS‑Monitoring: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "42.1 – Anaesthesie‑Tiefenmonitoring"
+  },
+  {
+    "question": "(39) Frage zu Succinylcholin Kontra‑Pseudocholinesterasemangel: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "35.3 – Muskelrelaxanzien"
+  },
+  {
+    "question": "(40) Frage zu ASS TxA2‑Hemmung Dauer: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "41.2 – Blutgerinnung & Thrombozyten"
+  },
+  {
+    "question": "(41) Frage zu PCA‑Pumpe Standardopioid: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "47.3 – PCA‑Schema"
+  },
+  {
+    "question": "(42) Frage zu 5‑R‑Regel Ausschluss 'richtige Geschwindigkeit': Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "10.2 – Medikamentensicherheit"
+  },
+  {
+    "question": "(43) Frage zu Low‑Flow O₂ bei Sedoanalgesie: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "24.2 – Bronchoskopie & Atemwegsmanagement"
+  },
+  {
+    "question": "(44) Frage zu Hypoventilation PaCO₂‑Anstieg: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "34.4 – Blutgasinterpretation"
+  },
+  {
+    "question": "(45) Frage zu Spinalanästhesie Sitzposition: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "40.1 – Spinalanästhesie Technik"
+  },
+  {
+    "question": "(46) Frage zu Ketorolac Analgetikagruppe: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "34.3 – Nicht‑opioide Analgetika"
+  },
+  {
+    "question": "(47) Frage zu Tourniquet Maximaldauer Oberarm: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "29.2 – Blutsperre & Tourniquet"
+  },
+  {
+    "question": "(48) Frage zu BIS‑Monitoring: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "42.1 – Anaesthesie‑Tiefenmonitoring"
+  },
+  {
+    "question": "(49) Frage zu Succinylcholin Kontra‑Pseudocholinesterasemangel: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "35.3 – Muskelrelaxanzien"
+  },
+  {
+    "question": "(50) Frage zu ASS TxA2‑Hemmung Dauer: Was ist korrekt?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0,
+    "ref_detail": "41.2 – Blutgerinnung & Thrombozyten"
+  }
+]
