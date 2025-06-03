@@ -1,15 +1,9 @@
-# app/streamlit_app.py
 import json, random, streamlit as st
 from pathlib import Path
 
-##############################
-# 1)  Pfade & Katalog laden  #
-##############################
-QUEST_DIR = Path(__file__).resolve().parent.parent / "questions"
-KS_FILES  = sorted(QUEST_DIR.glob("ks*_questions.json"))   # → [Path('.../ks1_questions.json'), …]
-
-#   Mapping:  KS-Code  →  Pfad
-KS_PATHS = {p.stem.split("_")[0].upper(): p for p in KS_FILES}
+# ---------- Datenverzeichnisse ----------
+QUEST_DIR = Path(__file__).parent.parent / "questions"
+KS_PATHS  = {p.stem.split("_")[0].upper(): p for p in QUEST_DIR.glob("ks*_questions.json")}
 
 KS_LABELS = {
     "KS1": "KS1 – Berufsbezogene Aufgaben",
@@ -21,65 +15,59 @@ KS_LABELS = {
     "KS7": "KS7 – Krisen- & Katastrophenmanagement",
     "KS8": "KS8 – Hygiene & Sterilgut"
 }
-##############################
-# 2)  Session-State anlegen  #
-##############################
-if "current_ks"   not in st.session_state: st.session_state.current_ks   = None
-if "question_set" not in st.session_state: st.session_state.question_set = []
-if "submitted"    not in st.session_state: st.session_state.submitted    = False
+
+# ---------- Session-State ----------
+for key, val in {"current_ks": None, "question_set": [], "submitted": False}.items():
+    st.session_state.setdefault(key, val)
 
 st.set_page_config(page_title="ATA-Quiz", page_icon="🩺", layout="wide")
 st.title("🩺 ATA-Quiz – Kompetenzschwerpunkte")
 
-################################
-# 3)  KS auswählen → Fragenpool #
-################################
-chosen_label = st.selectbox(
-    "Kompetenzschwerpunkt wählen:",
-    options=[KS_LABELS[k] for k in KS_PATHS],
-    index=-1 if st.session_state.current_ks is None else list(KS_PATHS).index(st.session_state.current_ks)
-)
+# ---------- KS-Auswahl ----------
+label_placeholder = "-- bitte wählen --"
+label_list = [label_placeholder] + [KS_LABELS[k] for k in sorted(KS_PATHS)]
 
-# Label → KS-Code
-chosen_ks = next((k for k, v in KS_LABELS.items() if v == chosen_label), None)
+current_idx = 0
+if st.session_state.current_ks:
+    current_idx = label_list.index(KS_LABELS[st.session_state.current_ks])
 
-# wenn neue Auswahl  →  JSON laden & 15 Fragen ziehen
+chosen_label = st.selectbox("Kompetenzschwerpunkt wählen:", label_list, index=current_idx)
+
+chosen_ks = None
+if chosen_label != label_placeholder:
+    chosen_ks = next(k for k, v in KS_LABELS.items() if v == chosen_label)
+
+# ---------- Fragen ziehen ----------
 if chosen_ks and chosen_ks != st.session_state.current_ks:
     with KS_PATHS[chosen_ks].open(encoding="utf-8") as f:
         pool = json.load(f)
-    random.shuffle(pool)
-    st.session_state.question_set = pool[:15]
-    st.session_state.current_ks   = chosen_ks
-    st.session_state.submitted    = False
+    st.session_state.question_set = random.sample(pool, 15)
+    st.session_state.current_ks, st.session_state.submitted = chosen_ks, False
 
-###########################
-# 4)  Quiz anzeigen/lösen #
-###########################
+# ---------- Quiz ----------
 if st.session_state.current_ks:
-
     st.header(f"15 Fragen aus {KS_LABELS[st.session_state.current_ks]}")
 
-    with st.form("quiz_form"):
+    with st.form("quiz"):
         answers = []
         for i, q in enumerate(st.session_state.question_set, 1):
             st.markdown(f"**{i}. {q['question']}**")
-            ans = st.radio("", q["options"], key=f"q{i}")
-            answers.append(ans)
+            answers.append(st.radio("", q["options"], key=f"q{i}"))
             st.markdown("---")
-        submitted = st.form_submit_button("🎯 Auswertung")
+        if st.form_submit_button("🎯 Auswertung"):
+            st.session_state.submitted = True
 
-    if submitted:
-        st.session_state.submitted = True
+    # ---------- Auswertung ----------
+    if st.session_state.submitted:
         correct = sum(
             ua == q["options"][q["answer"]]
             for ua, q in zip(answers, st.session_state.question_set)
         )
-
-        st.success(f"🏆 Ergebnis: **{correct} / {len(st.session_state.question_set)} richtig**")
-        for idx, (ua, q) in enumerate(zip(answers, st.session_state.question_set), 1):
-            symb = "✅" if ua == q["options"][q["answer"]] else "❌"
-            st.write(f"{symb} **{idx}.** {q['question']}")
-            if symb == "❌":
+        st.success(f"🏆 Ergebnis: **{correct} / 15** richtig")
+        for i, (ua, q) in enumerate(zip(answers, st.session_state.question_set), 1):
+            ok = ua == q["options"][q["answer"]]
+            st.write(f"{'✅' if ok else '❌'} **{i}.** {q['question']}")
+            if not ok:
                 st.caption(f"Richtige Antwort: {q['options'][q['answer']]}")
 
         if st.button("🔄 Neue Runde"):
