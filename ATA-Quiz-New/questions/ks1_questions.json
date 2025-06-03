@@ -1,552 +1,552 @@
 [
   {
-    "question": "Welche der folgenden Tätigkeiten fällt primär in die präoperative Phase einer ATA?",
+    "question": "Welcher Bestandteil des täglichen Anästhesiegeräte‑Checks wird als 'PaF‑Test' bezeichnet?",
     "options": [
-      "Überwachung des Patienten im Aufwachraum",
-      "Durchführung der instrumentellen Sterilisation",
-      "Kontrolle des Anästhesiegeräte-Checks",
-      "Überwachung der postoperativen Schmerztherapie"
+      "Prüfung auf Atemwegsleckage",
+      "Positiv‑Inspiratory‑Pressure‑Test",
+      "Patienten‑Atem‑Flow‑Test",
+      "Pressure‑and‑Flow‑Dichtigkeitsprüfung"
+    ],
+    "answer": 3,
+    "ref_detail": "11.3 – PaF‑Test Schritt 5"
+  },
+  {
+    "question": "Vor der Verbringung in den OP muss jede Patientenakte einen ausgefüllten ____ enthalten.",
+    "options": [
+      "Anästhesie‑Risiko‑Score (ASA)",
+      "WHO‑Time‑Out‑Bogen",
+      "Prämedikationsbogen",
+      "Laboranforderung"
     ],
     "answer": 2,
-    "ref_detail": "11.2 – Präoperativer Gerätestatus"
+    "ref_detail": "30.1 – Prämedikationsvisite: Dokumente"
   },
   {
-    "question": "Der tägliche Anästhesiegeräte-Check sollte nach welcher anerkannten Richtlinie erfolgen?",
+    "question": "Welche maximale Umlagerungshöhe darf ein Arm in Rückenlage laut Lagerungsstandard nicht überschreiten?",
     "options": [
-      "DIN EN ISO 15223",
-      "DIVI-Checkliste",
-      "WHO Surgical Safety Checklist",
-      "DIN EN 740"
-    ],
-    "answer": 1,
-    "ref_detail": "11.3 – DIVI-Checkliste Schritt 1‑7"
-  },
-  {
-    "question": "Was ist KEIN Bestandteil der „Team-Time-Out“-Phase laut WHO Safety Checklist?",
-    "options": [
-      "Bestätigung des Patienten‑Namens",
-      "Verabreichung der Prämedikation",
-      "Abfrage geplanter Eingriff",
-      "Verfügbarkeit von Blutprodukten"
-    ],
-    "answer": 1,
-    "ref_detail": "24.1 – WHO‑Safety‑Checklist TIME‑OUT"
-  },
-  {
-    "question": "Bei der Umlagerung eines adipösen Patienten in Rückenlage ist welches Hilfsmittel vorrangig einzusetzen?",
-    "options": [
-      "Slide‑Board",
-      "Luftkissenmatte",
-      "Operationstischverlängerung",
-      "Beckengurt"
+      "60° Abduktion",
+      "90° Abduktion",
+      "45° Abduktion",
+      "30° Abduktion"
     ],
     "answer": 0,
-    "ref_detail": "28.2 – Patientenumlagerung Hilfsmittelübersicht"
+    "ref_detail": "28.3.1 – Rückenlage: Armpositionierung"
   },
   {
-    "question": "Das Einlegen einer nasalen Rachentamponade bei Epistaxis gehört zur Kompetenz …",
+    "question": "Was ist gemäß Kapitel 46 die erste Monitorleitung, die im Aufwachraum anzuschließen ist?",
     "options": [
-      "des ENT‑Arztes ausschließlich",
-      "der ATA nach ärztlicher Anordnung",
-      "des Aufwachraumpersonals ohne Anordnung",
-      "der OP‑Pflegekraft eigenverantwortlich"
+      "Blutdruck‑Manschette",
+      "EKG",
+      "SpO₂‑Sensor",
+      "Kapnometer"
+    ],
+    "answer": 2,
+    "ref_detail": "47.2 – Monitoringreihenfolge: SpO₂ zuerst"
+  },
+  {
+    "question": "Das WHO‑Team‑Time‑Out wird unmittelbar ___ durchgeführt.",
+    "options": [
+      "nach Hautschnitt",
+      "vor Schnittbeginn",
+      "nach Anästhesieausleitung",
+      "nach Wundverschluss"
     ],
     "answer": 1,
-    "ref_detail": "29.4 – Maßnahmen bei Blutstillung im HNO‑OP"
+    "ref_detail": "18.3 – WHO‑Checkliste Team‑Time‑Out"
   },
-  {
-    "question": "Welche Dokumentation MUSS vor Anästhesiebeginn vollständig vorliegen?",
-    "options": [
+  [
+    "Welches Dokument zertifiziert das Vorliegen einer Patientenaufklärung zur Anästhesie?",
+    [
+      "Einwilligungs‑Formular 4‑Augen‑Prinzip",
+      "Narkose‑Check‑Protokoll",
+      "DIVI‑Transportformular",
+      "OP‑Tisch‑Checkliste"
+    ],
+    0,
+    "30.1 – Aufklärungsbogen"
+  ],
+  [
+    "Welche Körperstelle wird routinemäßig für die Platzierung der Neutralelektrode in Rückenlage bevorzugt?",
+    [
+      "Oberschenkel",
+      "Unterarm",
+      "Thoraxseite",
+      "Glutealregion"
+    ],
+    0,
+    "28.3.1 – Rückenlage: Neutralelektrode"
+  ],
+  [
+    "Was regelt die 5‑R‑Regel in der Arzneimittelgabe NICHT?",
+    [
+      "richtiger Patient",
+      "richtige Zeit",
+      "richtige Applikationsform",
+      "richtiger Lagerplatz"
+    ],
+    3,
+    "10.2 – Medikamentensicherheit 5‑R‑Regel"
+  ],
+  [
+    "Welche Temperatur gilt perioperativ als Grenze zur Hypothermieprävention?",
+    [
+      "> 36,0 °C",
+      "> 35,0 °C",
+      "> 34,5 °C",
+      "> 37,0 °C"
+    ],
+    0,
+    "45.2 – Thermomanagement: Zieltemperatur"
+  ],
+  [
+    "Bei Transporten muss vor Abfahrt der Transportmonitor auf ____ Alarmgrenzen eingestellt werden.",
+    [
+      "patientenindividuelle",
+      "Werkseinstellungen",
+      "Standard 120/80",
+      "stille Alarme"
+    ],
+    0,
+    "46.2 – Transport: Alarmgrenzen anpassen"
+  ],
+  [
+    "Ein PaCO₂‑Anstieg über 45 mmHg während der Narkose weist vorrangig auf ____ hin.",
+    [
+      "Hypoventilation",
+      "Hyperventilation",
+      "Hypothermie",
+      "Hypotonie"
+    ],
+    0,
+    "38.3 – Atemgasmonitoring"
+  ],
+  [
+    "Welche Lagerung wird für Eingriffe an der Schulter typischerweise eingesetzt?",
+    [
+      "Beach‑Chair‑Position",
+      "Steinschnittlage",
+      "Seitenlage",
+      "Bauchlage"
+    ],
+    0,
+    "28.3 – Halbsitzende Beach‑Chair"
+  ],
+  [
+    "Bei der Präoxygenierung mit einer Atemmaske sollen mindestens ____ Sekunden eingehalten werden.",
+    [
+      "60",
+      "120",
+      "30",
+      "15"
+    ],
+    1,
+    "36.2 – Präoxygenierung"
+  ],
+  [
+    "Ein OP‑Check 'Failsafe' bei Elektrischen Geräten gehört zu welchem Prüfschritt des DIVI‑Gerätechecks?",
+    [
+      "Schritt 6 – Alarmtest",
+      "Schritt 4 – Stromversorgung",
+      "Schritt 2 – Sichtprüfung",
+      "Schritt 7 – Lecktest"
+    ],
+    1,
+    "11.3 – DIVI Schritt 4"
+  ],
+  [
+    "Welche Spültechnik verhindert effektiv Okklusionen in Perfusorschläuchen?",
+    [
+      "Bolus‑Spülung vor Anschluss",
+      "Dauerspülung mit 0,9 % NaCl",
+      "Heparin‑Spülung",
+      "Keine Spülung erforderlich"
+    ],
+    0,
+    "36.4 – Perfusoraufbau: Luftfreiheit"
+  ],
+  [
+    "Die ASA‑Einteilung dient der Bewertung des ____.",
+    [
+      "anästhesiologischen Risikos",
+      "Operationsgebietes",
+      "Sterilitätsstatus",
+      "Gerätealters"
+    ],
+    0,
+    "30.1 – ASA‑Klassifikation"
+  ],
+  [
+    "Welche Mindestzeit ist zwischen letzter Raucherzigarette und Anästhesie empfohlen?",
+    [
+      "24 h",
+      "12 h",
+      "4 h",
+      "Keine Empfehlung"
+    ],
+    1,
+    "30.1 – Prämedikation Lifestyle"
+  ],
+  [
+    "Eine Blutgruppenbestimmung vor geplanten transfusionspflichtigen Eingriffen muss innerhalb von ____ Tagen liegen.",
+    [
+      "3",
+      "7",
+      "14",
+      "30"
+    ],
+    0,
+    "41.2 – Kreuzblut Gültigkeit"
+  ],
+  [
+    "Das 'Double‑Cross‑Check'-Prinzip bedeutet:",
+    [
+      "jede Frage wird zweimal von unterschiedlichen Personen gestellt",
+      "zwei Patienten werden gleichzeitig gecheckt",
+      "Checklisten werden digital und analog geführt",
+      "der Operateur kontrolliert alle Geräte"
+    ],
+    0,
+    "46.1 – Double Cross Check"
+  ],
+  [
+    "Zu welchem Zeitpunkt wird der Kopf in Neutralstellung geprüft?",
+    [
+      "nach jeder Umlagerung",
+      "nur vor Schnitt",
+      "nach Wundverschluss",
+      "nur bei Lagerung in Bauchlage"
+    ],
+    0,
+    "28.3 – Positionierung Sicherheitscheck"
+  ],
+  [
+    "Was muss laut Hygienestandard unmittelbar nach Handschuhkontamination erfolgen?",
+    [
+      "Handschuhwechsel",
+      "Zusätzliche Handschuhe drüberziehen",
+      "Alkoholische Desinfektion über Handschuh",
+      "Keine Maßnahme"
+    ],
+    0,
+    "63.1 – Handschuhtechnik"
+  ],
+  [
+    "Welches Material ist laut Kapitel 12 für die Beschriftung von Spritzen obligat?",
+    [
+      "Farbcodierte Etiketten",
+      "Filzstift direkt auf Spritze",
+      "Klebeband",
+      "Papierschild lose"
+    ],
+    0,
+    "12.2 – Spritzenetikettierung"
+  ],
+  [
+    "Der Luer‑Lock‑Verbindungscheck wird im DIVI‑Gerätecheck unter ____ aufgeführt.",
+    [
+      "Schritt 2 – Schlauchsysteme",
+      "Schritt 5 – Drucksystem",
+      "Schritt 6 – Alarmtest",
+      "Schritt 3 – Filter"
+    ],
+    0,
+    "11.3 – Luer Connection"
+  ],
+  [
+    "Welche Maßnahme senkt die Gefahr der Venenthrombose im OP laut Kapitel 29?",
+    [
+      "Kompressionsstrümpfe",
+      "Armhochlagerung",
+      "Hyperventilation",
+      "Wärmedecke"
+    ],
+    0,
+    "29.3 – Thromboseprophylaxe"
+  ],
+  [
+    "Bei welchem BMI wird eine zusätzliche Umlagerungshilfe (HoverMatt) empfohlen?",
+    [
+      "≥ 35 kg/m²",
+      "≥ 25 kg/m²",
+      "≥ 20 kg/m²",
+      "≥ 30 kg/m²"
+    ],
+    3,
+    "28.2 – Adipositas Umlagerung"
+  ],
+  [
+    "Welche Händedesinfektionsdauer erreicht laut Kapitel 63 vollständige Wirksamkeit gegen behüllte Viren?",
+    [
+      "30 s",
+      "15 s",
+      "45 s",
+      "60 s"
+    ],
+    0,
+    "63.2 – Händedesinfektion Einwirkzeit"
+  ],
+  [
+    "Das Tidalvolumen bei maschineller Beatmung wird initial auf ____ ml/kg KG eingestellt.",
+    [
+      "6–8",
+      "10–12",
+      "4–6",
+      "8–10"
+    ],
+    0,
+    "38.2 – Beatmungsparameter"
+  ],
+  [
+    "Welcher Wert ist die Obergrenze für den zulässigen Leckagefluss beim Gerätedichtigkeitstest?",
+    [
+      "< 150 ml/min",
+      "< 300 ml/min",
+      "< 500 ml/min",
+      "< 50 ml/min"
+    ],
+    0,
+    "11.3 – Lecktest Grenzwert"
+  ],
+  [
+    "Die Tubusfixierung wird laut Checkliste nach der Methode ____ durchgeführt.",
+    [
+      "Knot‑and‑Tape",
+      "Z‑Fix",
+      "Y‑Secure",
+      "Tube‑Tie"
+    ],
+    1,
+    "24.6 – Airway Handoff"
+  ],
+  [
+    "Welche Dokumentationspflicht besteht bei intraoperativer Antibiotikagabe?",
+    [
+      "Uhrzeit und Dosis im Anästhesieprotokoll",
+      "Nur Dosis auf OP‑Tafel",
+      "Keine, ist Standard",
+      "Nur mündliche Bestätigung"
+    ],
+    0,
+    "41.3 – Antibiotika Dokumentation"
+  ],
+  [
+    "Die Standard‑Infusionswärmung erfolgt ab einer OP‑Dauer von länger als ____ Minuten.",
+    [
+      "30",
+      "60",
+      "120",
+      "180"
+    ],
+    1,
+    "45.2 – Wärmemanagement"
+  ],
+  [
+    "Was bedeutet die Abkürzung 'SOAP‑M' im Briefing?",
+    [
+      "Situation, Objective, Assessment, Plan, Mitigation",
+      "Subject, Object, Analysis, Problem, Measure",
+      "Signal, Observe, Act, Plan, Monitor",
+      "None of the above"
+    ],
+    0,
+    "18.3 – SOAP‑M Schema"
+  ],
+  [
+    "Welcher Personenkreis darf laut Kapitel 27 die Seitenmarkierung durchführen?",
+    [
+      "Operateur oder aufklärender Arzt",
+      "ATA eigenständig",
+      "OP‑Leitung",
+      "Stationspflege"
+    ],
+    0,
+    "27.5 – Markierung Patient"
+  ],
+  [
+    "Bei Verwendung eines Armlagerungsstützenpaars darf die Armabduktion maximal ____ betragen.",
+    [
+      "90°",
+      "60°",
+      "45°",
+      "30°"
+    ],
+    1,
+    "28.3.1 – Armstützen"
+  ],
+  [
+    "Die Dokumentation der OP‑Lagerung gehört in welches Protokoll?",
+    [
+      "OP‑Protokoll",
       "Anästhesieprotokoll",
-      "OP-Bericht",
-      "Pathologieanforderung",
-      "Radiologiebefund"
+      "Pflegebericht",
+      "DIVI‑Form"
     ],
-    "answer": 0,
-    "ref_detail": "12.1 – Anästhesieprotokoll: Pflichtangaben"
-  },
-  {
-    "question": "Der Kapnometer‑Nullabgleich wird üblicherweise …",
-    "options": [
-      "einmal wöchentlich durchgeführt",
-      "vor jeder Intubationsnarkose gestartet",
-      "nach jeder Patientenbeatmung erforderlich",
-      "nur bei auffälligen Messwerten veranlasst"
+    0,
+    "28.3 – Lagerungsdokumentation"
+  ],
+  [
+    "Eine Checkliste zur präoperativen Vorbereitung enthält KEINEN Punkt:",
+    [
+      "Freigabe durch Anästhesie",
+      "Implantatverfügbarkeit",
+      "Aktuelle Laborwerte",
+      "Postoperative Visite"
     ],
-    "answer": 1,
-    "ref_detail": "38.3 – Atemgasmonitoring: Kalibration"
-  },
-  {
-    "question": "Welche Maßnahme dient der Prävention perioperativer Hypothermie?",
-    "options": [
-      "Lagerung auf Gelmatte",
-      "Anwendung einer aktiven Wärmedecke",
-      "Raumtemperatur < 18 °C halten",
-      "Infusionen unaufgewärmt verabreichen"
+    3,
+    "46.1 – Checkliste PräOP"
+  ],
+  [
+    "Die Brille eines Patienten wird laut Kapitel 27 ____.",
+    [
+      "vor dem Einschleusen abgenommen",
+      "erst im OP‑Saal",
+      "im Aufwachraum",
+      "gar nicht"
     ],
-    "answer": 1,
-    "ref_detail": "45.2 – Thermomanagement"
-  },
-  {
-    "question": "Bei der Vorbereitung eines TIVA‑Sets (Total Intravenous Anaesthesia) ist ZUERST …",
-    "options": [
-      "das Propofol‑Perfusorsystem luftblasenfrei zu füllen",
-      "der passende Wegwerfschlauch auszuwählen",
-      "der Perfusor auf 0 ml/h zu programmieren",
-      "die Infusionsleitung an den Dreiwegehahn anzuschließen"
+    0,
+    "46.1 – Hilfsmittel entfernen"
+  ],
+  [
+    "Welches Konnektor‑System verhindert Verwechslungen von Epidural‑ und IV‑Leitungen?",
+    [
+      "NRFit",
+      "Luer",
+      "ENFit",
+      "SmartSite"
     ],
-    "answer": 1,
-    "ref_detail": "36.4 – TIVA: Aufbau des Perfusionssystems"
-  },
-  {
-    "question": "Was ist das Mindesthaltbarkeitsdatum eines geöffneten Etikettier‑Markers laut MPG‑Empfehlung?",
-    "options": [
-      "1 Tag",
-      "7 Tage",
-      "28 Tage",
-      "90 Tage"
+    0,
+    "12.3 – NRFit Safety"
+  ],
+  [
+    "Der Radius eines Blutdruckmanschettenbeutels sollte ____ der Oberarmlänge entsprechen.",
+    [
+      "40 %",
+      "20 %",
+      "60 %",
+      "80 %"
     ],
-    "answer": 2,
-    "ref_detail": "62.1 – Verbrauchsmaterialien & MHD"
-  },
-  {
-    "question": "(11) Platzhalterfrage zu Gerätepflege.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    2,
+    "38.2 – NIBP‑Passform"
+  ],
+  [
+    "Welche Aussage beschreibt das Ziel des 'Shared‑Mental‑Model'?",
+    [
+      "gemeinsames Verständnis des Handlungsplans",
+      "einheitliches Pausenzeitenmodell",
+      "gleiches Gehaltsmodell",
+      "gemeinsames Passwort"
     ],
-    "answer": 0,
-    "ref_detail": "11.3 – Gerätepflege (Platzhalter)"
-  },
-  {
-    "question": "(12) Platzhalterfrage zu Lagerungsfehler.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    0,
+    "18.3 – Briefing Effekte"
+  ],
+  [
+    "Was muss bei Gel‑Kissen laut Lagerungsstandard regelmäßig kontrolliert werden?",
+    [
+      "intakte Oberfläche ohne Risse",
+      "Temperatur",
+      "Farbe",
+      "Gewicht"
     ],
-    "answer": 0,
-    "ref_detail": "15.3 – Lagerungsfehler (Platzhalter)"
-  },
-  {
-    "question": "(13) Platzhalterfrage zu Notfallwagen Check.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    0,
+    "28.3 – Lagerungshilfen Material"
+  ],
+  [
+    "Der Rapid Sequence Induction (RSI) Ablauf beginnt mit ____.",
+    [
+      "Pre‑Oxygenierung",
+      "Cricoiddruck",
+      "Propofol‑Bolus",
+      "Relaxansgabe"
     ],
-    "answer": 0,
-    "ref_detail": "8.2 – Notfallwagen Check (Platzhalter)"
-  },
-  {
-    "question": "(14) Platzhalterfrage zu Drainagen Management.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    0,
+    "36.2 – RSI Schritte"
+  ],
+  [
+    "Welche Farbcode‑Etikette steht laut ISO für Opioide?",
+    [
+      "Blau",
+      "Gelb",
+      "Rosa",
+      "Rot"
     ],
-    "answer": 0,
-    "ref_detail": "39.1 – Drainagen Management (Platzhalter)"
-  },
-  {
-    "question": "(15) Platzhalterfrage zu Spiroergometrie.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    2,
+    "12.2 – Farbcodierung Medikamente"
+  ],
+  [
+    "Zur Dekubitusprophylaxe wird der Leitz‑Score laut Kapitel 29 alle ____ Stunden erhoben.",
+    [
+      "8",
+      "4",
+      "12",
+      "24"
     ],
-    "answer": 0,
-    "ref_detail": "15.2 – Spiroergometrie (Platzhalter)"
-  },
-  {
-    "question": "(16) Platzhalterfrage zu Beatmungsfilterwechsel.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    1,
+    "29.1 – Dekubitusprophylaxe"
+  ],
+  [
+    "Der Check des Notfallwagens erfolgt mindestens ____ laut Klinikstandard.",
+    [
+      "täglich",
+      "wöchentlich",
+      "monatlich",
+      "nur nach Gebrauch"
     ],
-    "answer": 0,
-    "ref_detail": "27.5 – Beatmungsfilterwechsel (Platzhalter)"
-  },
-  {
-    "question": "(17) Platzhalterfrage zu Anästhesiegase.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    0,
+    "22.2 – Notfallwagen Check"
+  ],
+  [
+    "Beim intrahospitalen Transport beatmeter Patienten gilt das 4‑Augen‑Prinzip für ____.",
+    [
+      "Sicherung sämtlicher Leitungen",
+      "Bedienung des Lifts",
+      "Türöffnen",
+      "Patientenidentifikation"
     ],
-    "answer": 0,
-    "ref_detail": "15.5 – Anästhesiegase (Platzhalter)"
-  },
-  {
-    "question": "(18) Platzhalterfrage zu Patientidentifikation.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    0,
+    "46.2 – 4‑Augen beim Transport"
+  ],
+  [
+    "Welche Mindestfüllmenge muss eine O₂‑Flasche für einen 30‑min Transport (5 l/min) laut DIVI aufweisen?",
+    [
+      "≥ 150 l",
+      "≥ 50 l",
+      "≥ 300 l",
+      "≥ 75 l"
     ],
-    "answer": 0,
-    "ref_detail": "50.3 – Patientidentifikation (Platzhalter)"
-  },
-  {
-    "question": "(19) Platzhalterfrage zu Medikation Etikettierung.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    2,
+    "46.2 – Transportgeräte Kapazität"
+  ],
+  [
+    "Das I’M‑SAFE Konzept prüft u. a. den Faktor ____ vor Dienstbeginn.",
+    [
+      "Fatigue",
+      "Finanzen",
+      "Familienstand",
+      "Fieber"
     ],
-    "answer": 0,
-    "ref_detail": "26.1 – Medikation Etikettierung (Platzhalter)"
-  },
-  {
-    "question": "(20) Platzhalterfrage zu Materialcheck.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    0,
+    "18.2 – I’M‑SAFE Tabelle"
+  ],
+  [
+    "Welche Schutzmaßnahme ist bei Laser‑Operationen zusätzlich zu treffen?",
+    [
+      "Augenschutz aller Anwesenden",
+      "Bleischürze",
+      "Kältepackung",
+      "Ohrenschutz"
     ],
-    "answer": 0,
-    "ref_detail": "12.1 – Materialcheck (Platzhalter)"
-  },
-  {
-    "question": "(21) Platzhalterfrage zu Teambriefing.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    0,
+    "14.1 – Laser‑Safety"
+  ],
+  [
+    "Beim Check der Seitenmarkierung müssen laut Kapitel 27 welche Daten aktiv abgefragt werden?",
+    [
+      "Name und Eingriffsort",
+      "Alter und Zimmernummer",
+      "Blutgruppe",
+      "Versicherungsstatus"
     ],
-    "answer": 0,
-    "ref_detail": "16.3 – Teambriefing (Platzhalter)"
-  },
-  {
-    "question": "(22) Platzhalterfrage zu OP-Liste.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "12.5 – OP-Liste (Platzhalter)"
-  },
-  {
-    "question": "(23) Platzhalterfrage zu Geräteverkabelung.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "28.2 – Geräteverkabelung (Platzhalter)"
-  },
-  {
-    "question": "(24) Platzhalterfrage zu Sicherung des Tubus.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "48.5 – Sicherung des Tubus (Platzhalter)"
-  },
-  {
-    "question": "(25) Platzhalterfrage zu Druckpunkte.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "36.2 – Druckpunkte (Platzhalter)"
-  },
-  {
-    "question": "(26) Platzhalterfrage zu Isolationsmanagement.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "49.1 – Isolationsmanagement (Platzhalter)"
-  },
-  {
-    "question": "(27) Platzhalterfrage zu OP-Saal Vorbereitung.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "57.5 – OP-Saal Vorbereitung (Platzhalter)"
-  },
-  {
-    "question": "(28) Platzhalterfrage zu Monitoring anschließen.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "27.2 – Monitoring anschließen (Platzhalter)"
-  },
-  {
-    "question": "(29) Platzhalterfrage zu Transport Beatmung.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "31.2 – Transport Beatmung (Platzhalter)"
-  },
-  {
-    "question": "(30) Platzhalterfrage zu Handschuhtechnik.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "48.4 – Handschuhtechnik (Platzhalter)"
-  },
-  {
-    "question": "(31) Platzhalterfrage zu Uhrzeitdoku.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "36.3 – Uhrzeitdoku (Platzhalter)"
-  },
-  {
-    "question": "(32) Platzhalterfrage zu Visite Übergabe.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "24.1 – Visite Übergabe (Platzhalter)"
-  },
-  {
-    "question": "(33) Platzhalterfrage zu Perfusorwechsel.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "46.3 – Perfusorwechsel (Platzhalter)"
-  },
-  {
-    "question": "(34) Platzhalterfrage zu Messwert Alarme.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "45.4 – Messwert Alarme (Platzhalter)"
-  },
-  {
-    "question": "(35) Platzhalterfrage zu RR-Manschettengröße.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "43.3 – RR-Manschettengröße (Platzhalter)"
-  },
-  {
-    "question": "(36) Platzhalterfrage zu Blutzuckermessung.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "55.5 – Blutzuckermessung (Platzhalter)"
-  },
-  {
-    "question": "(37) Platzhalterfrage zu Infusionsvorwärmer.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "40.2 – Infusionsvorwärmer (Platzhalter)"
-  },
-  {
-    "question": "(38) Platzhalterfrage zu Blutentnahme.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "17.2 – Blutentnahme (Platzhalter)"
-  },
-  {
-    "question": "(39) Platzhalterfrage zu Arterienkanüle.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "49.2 – Arterienkanüle (Platzhalter)"
-  },
-  {
-    "question": "(40) Platzhalterfrage zu Geräteprüfung.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "8.3 – Geräteprüfung (Platzhalter)"
-  },
-  {
-    "question": "(41) Platzhalterthema 1.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "60.2 – Platzhalterthema 1"
-  },
-  {
-    "question": "(42) Platzhalterthema 2.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "16.1 – Platzhalterthema 2"
-  },
-  {
-    "question": "(43) Platzhalterthema 3.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "56.2 – Platzhalterthema 3"
-  },
-  {
-    "question": "(44) Platzhalterthema 4.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "52.5 – Platzhalterthema 4"
-  },
-  {
-    "question": "(45) Platzhalterthema 5.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "50.1 – Platzhalterthema 5"
-  },
-  {
-    "question": "(46) Platzhalterthema 6.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "11.1 – Platzhalterthema 6"
-  },
-  {
-    "question": "(47) Platzhalterthema 7.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "14.2 – Platzhalterthema 7"
-  },
-  {
-    "question": "(48) Platzhalterthema 8.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "33.5 – Platzhalterthema 8"
-  },
-  {
-    "question": "(49) Platzhalterthema 9.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "57.3 – Platzhalterthema 9"
-  },
-  {
-    "question": "(50) Platzhalterthema 10.",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "ref_detail": "61.4 – Platzhalterthema 10"
-  }
+    0,
+    "27.5 – Markierung Aktivbefragung"
+  ]
 ]
