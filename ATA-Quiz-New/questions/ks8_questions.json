@@ -1,502 +1,260 @@
 [
   {
-    "question": "Die Händedesinfektion nach WHO umfasst wie viele Schritte in der Standardmethode?",
-    "options": [
-      "3",
-      "5",
-      "6",
-      "8"
-    ],
-    "answer": 2
+    "question": "Die chirurgische Händedesinfektion erfordert laut WHO eine Einreibezeit von …",
+    "options": ["90 s", "60 s", "30 s", "15 s"],
+    "answer": 0,
+    "ref_detail": "63.1 – OP-Händedesinfektion"
   },
   {
-    "question": "Prionen werden zuverlässig inaktiviert bei …",
-    "options": [
-      "134 °C / 18 min",
-      "95 °C / 5 min",
-      "121 °C / 15 min",
-      "56 °C / 30 min"
-    ],
-    "answer": 0
+    "question": "Spaulding klassifiziert flexible Endoskope als …",
+    "options": ["semi-kritisch B", "unkritisch", "kritisch C", "kritisch A"],
+    "answer": 0,
+    "ref_detail": "63.3 – Spaulding-Klassifikation"
   },
   {
-    "question": "Vor Öffnen eines sterilen Sets prüft man NICHT …",
-    "options": [
-      "Los‑/Chargennummer",
-      "Verfallsdatum",
-      "Unversehrtheit",
-      "Patientenname"
-    ],
-    "answer": 3
+    "question": "Der Bowie-Dick-Test prüft bei Dampfsterilisatoren …",
+    "options": ["Vakuum & Dampfdurchdringung", "Temperaturkalibrierung", "pH-Wert", "Kondensat-Leitfähigkeit"],
+    "answer": 0,
+    "ref_detail": "63.3 – Bowie-Dick-Test"
   },
   {
-    "question": "Spaulding-Klassifikation ordnet ein flexibles Endoskop als …",
-    "options": [
-      "semi-kritisch B",
-      "unkritisch",
-      "kritisch A",
-      "kritisch C"
-    ],
-    "answer": 0
+    "question": "Mittel mit Wirkbereich „begrenzt viruzid PLUS“ sind wirksam gegen …",
+    "options": ["Noroviren", "behüllte Viren", "Bakteriensporen", "Prionen"],
+    "answer": 0,
+    "ref_detail": "63.2 – Viruzidiegrade"
   },
   {
-    "question": "Ein chemischer Indikator Klasse 6 misst …",
-    "options": [
-      "alle kritischen Parameter einer Sterilisation",
-      "nur Temperatur",
-      "nur Zeit",
-      "nur Druck"
-    ],
-    "answer": 0
+    "question": "Prioneninaktivierung gelingt erst sicher bei …",
+    "options": ["134 °C / 18 min Dampf", "121 °C / 15 min Dampf", "95 °C / 10 min thermisch", "70 % Ethanol / 5 min"],
+    "answer": 0,
+    "ref_detail": "63.3 – Prionenprotokoll"
   },
   {
-    "question": "Flüssigkeitsaerosole bei Dentalbohrern werden verringert durch …",
-    "options": [
-      "speichelsaugenden High‑Vac",
-      "höheren Druck",
-      "trockene Bohrung",
-      "kein Unterschied"
-    ],
-    "answer": 0
+    "question": "Ein Chemischer Indikator Klasse 6 reagiert auf …",
+    "options": ["alle kritischen Prozessparameter", "nur Zeit", "nur Temperatur", "nur Druck"],
+    "answer": 0,
+    "ref_detail": "63.3 – Indikator-Klassen"
   },
   {
-    "question": "Die Mindestwirkzeit alkoholischer Händedesinfektion beträgt …",
-    "options": [
-      "30 s",
-      "10 s",
-      "2 min",
-      "60 s"
-    ],
-    "answer": 0
+    "question": "Flächendesinfektion nach sichtbarer Blutkontamination: Reihenfolge …",
+    "options": ["Reinigen → Wischen desinfizieren", "Sprühen ohne Reinigung", "nur UV-Licht", "abwarten"],
+    "answer": 0,
+    "ref_detail": "63.2 – Flächenprotokoll"
   },
   {
-    "question": "Chirurgische Händedesinfektion verlangt eine Einreibezeit von …",
-    "options": [
-      "90 s",
-      "30 s",
-      "10 s",
-      "3 min"
-    ],
-    "answer": 0
+    "question": "Log-Reduktion 5 entspricht einer Keimreduktion von …",
+    "options": ["99,999 %", "99,9 %", "99 %", "90 %"],
+    "answer": 0,
+    "ref_detail": "63.2 – Desinfektionslog"
   },
   {
-    "question": "Ein Bowie‑Dick‑Test dient der Prüfung …",
-    "options": [
-      "Vakuum‑Dichtigkeit und Dampfdurchdringung",
-      "Wassertemperatur",
-      "Filterporengröße",
-      "Salzgehalt"
-    ],
-    "answer": 0
+    "question": "High-Level-Disinfection (HLD) muss unter anderem mykobakterizid sein und …",
+    "options": ["viruzid (behüllte + unbehüllte)", "bakterizid", "fungizid", "algizid"],
+    "answer": 0,
+    "ref_detail": "63.3 – HLD-Definition"
   },
   {
-    "question": "Ein Sterilisationsgut darf als 'steril' gelten bis …",
-    "options": [
-      "Verpackung beschädigt",
-      "Verfallsdatum überschritten",
-      "beides",
-      "egal, solange Indikator wechselt"
-    ],
-    "answer": 2
+    "question": "Die Mindesthaltedauer bei Dampfsterilisation 121 °C beträgt …",
+    "options": ["15 min", "3 min", "30 min", "8 min"],
+    "answer": 0,
+    "ref_detail": "63.3 – Dampfsterilisation"
   },
   {
-    "question": "OP‑Bereich Raumluftklasse 1a erfordert …",
-    "options": [
-      "Laminar Airflow (LAF)",
-      "Offenes Fenster",
-      "Basalventilation",
-      "Keine Klimaanlage"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Flächendesinfektionsart ist bei sichtbarer Kontamination zuerst nötig?",
-    "options": [
-      "Reinigung vor Desinfektion",
-      "Direkte Wischdesinfektion",
-      "Sprühdesinfektion",
-      "Nur UV-Licht"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Schutzkategorie umfasst FFP2-Masken nach EN 149?",
-    "options": [
-      "Schutzstufe II",
-      "I",
-      "III",
-      "IV"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "MRSA-Sanierung umfasst NICHT routinemäßig …",
-    "options": [
-      "Nasensalbe Mupirocin",
-      "Ganzkörperwaschung",
-      "Mundspülung Chlorhexidin",
-      "Systemische Vancomycintherapie"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Trockene Hitze-Sterilisation (Heißluft) erfolgt bei …",
-    "options": [
-      "180 °C / 30 min",
-      "121 °C / 15 min",
-      "100 °C / 60 min",
-      "160 °C / 10 min"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Der Validierungszyklus eines Sterilisators umfasst IQ, OQ und …",
-    "options": [
-      "PQ (Performance Qualification)",
-      "MQ",
-      "SQ",
-      "TQ"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Desinfektionsmittelgruppe 'Wirkbereich B' wirkt gegen …",
-    "options": [
-      "Bakterien inkl. Mykobakterien",
-      "Viruzid gegen behüllte Viren",
-      "Pilze",
-      "Sporen"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Vorbereitung einer OP‑Site erfolgt in welcher Reihenfolge?",
-    "options": [
-      "Reinigung → Rasur (falls nötig) → Hautantiseptik",
-      "Antiseptik → Rasur",
-      "Rasur → Antiseptik → Reinigung",
-      "Keine Rasur"
-    ],
-    "answer": 0
+    "question": "MRSA-Sanierung erfolgt standardmäßig NICHT mit …",
+    "options": ["systemischem Vancomycin", "Nasenmupirocin", "Chlorhexidin-Ganzkörperwaschung", "Octenidin-Mundspülung"],
+    "answer": 0,
+    "ref_detail": "63.2 – MRSA-Leitlinie"
   },
   {
     "question": "Ein Sterilbarrieresystem besteht aus Verpackung und …",
-    "options": [
-      "kontinuierlicher Aufrechterhaltung der Integrität",
-      "Gasdruck",
-      "Aluminiumfolie",
-      "Datenlogger"
-    ],
-    "answer": 0
+    "options": ["Erhalt der Integrität bis zur Anwendung", "Metallbox", "RFID-Tag", "Silicagel-Beutel"],
+    "answer": 0,
+    "ref_detail": "63.3 – Sterilbarriere"
   },
   {
-    "question": "Beim High‑Level‑Disinfectant (HLD) wird eine Einwirkzeit von … gefordert.",
-    "options": [
-      "mind. 10 min",
-      "unter 1 min",
-      "60 min",
-      "24 h"
-    ],
-    "answer": 0
+    "question": "Hygienepläne nach IfSG §23 müssen …",
+    "options": ["schriftlich vorliegen", "nur mündlich bekannt sein", "jährlich ans BfArM gemeldet werden", "freiwillig sein"],
+    "answer": 0,
+    "ref_detail": "62.1 – IfSG §23"
   },
   {
-    "question": "(21) Biofilm entfernung endoskop: Welche Aussage ist korrekt?",
-    "options": [
-      "mechanische Vorreinigung + Enzymreiniger",
-      "nur spülen Wasser",
-      "UV-Licht",
-      "Dampf"
-    ],
-    "answer": 0
+    "question": "Wirkbereich A deckt …",
+    "options": ["vegetative Bakterien (inkl. Mykobakterien)", "Bakteriensporen", "unbehüllte Viren", "Pilze"],
+    "answer": 0,
+    "ref_detail": "63.2 – Wirkbereiche"
   },
   {
-    "question": "(22) Flockungstest sterilwasser: Welche Aussage ist korrekt?",
-    "options": [
-      "prüft Partikelfreiheit",
-      "prüft pH",
-      "prüft Zucker",
-      "irrelevant"
-    ],
-    "answer": 0
+    "question": "Alkoholische Händedesinfektion erfordert mindestens …",
+    "options": ["30 s Einwirkzeit", "10 s", "60 s", "90 s"],
+    "answer": 0,
+    "ref_detail": "63.1 – Händedesinfektion"
   },
   {
-    "question": "(23) Hygieneplan gesetzlich: Welche Aussage ist korrekt?",
-    "options": [
-      "muss schriftlich vorliegen (§23 IfSG)",
-      "freiwillig",
-      "nur mündlich",
-      "alle 10 Jahre"
-    ],
-    "answer": 0
+    "question": "Validierung eines Sterilisators endet mit der Phase …",
+    "options": ["PQ (Performance Qualification)", "IQ", "OQ", "DQ"],
+    "answer": 0,
+    "ref_detail": "63.3 – Validierungsphasen"
   },
   {
-    "question": "(24) Log-reduktion 5: Welche Aussage ist korrekt?",
-    "options": [
-      "99.999% Keimreduktion",
-      "90%",
-      "50%",
-      "100%"
-    ],
-    "answer": 0
+    "question": "Semi-kritische Medizinprodukte B müssen mindestens … aufbereitet werden.",
+    "options": ["maschinell gereinigt & desinfiziert", "einmal abgewischt", "nur steril verpackt", "gar nicht"],
+    "answer": 0,
+    "ref_detail": "63.3 – Aufbereitungsarten"
   },
   {
-    "question": "(25) Kontaktzeit sprühdesinfektion blut: Welche Aussage ist korrekt?",
-    "options": [
-      "energiearme Methode nicht empfohlen",
-      "30s reichen",
-      "immer ausreichend",
-      "keine Wirkung"
-    ],
-    "answer": 0
+    "question": "OPA (Ortho-phthalaldehyd) wird als … eingesetzt.",
+    "options": ["chemisches High-Level-Desinfektionsmittel", "Flächendesinfektion Alkohol", "Plasmagas", "Temperatur-Indikator"],
+    "answer": 0,
+    "ref_detail": "63.3 – OPA (HLD)"
   },
   {
-    "question": "(26) Sterilgut-lagerung: Welche Aussage ist korrekt?",
-    "options": [
-      "Staubgeschützt, 18-25°C, 30-60% rF",
-      "Kellerräume",
-      "Direkte Sonne",
-      "unbegrenzt feucht"
-    ],
-    "answer": 0
+    "question": "FFP2-Masken entsprechen der Norm …",
+    "options": ["EN 149", "EN 14683", "EN 455", "EN 13795"],
+    "answer": 0,
+    "ref_detail": "63.2 – PSA-Normen"
   },
   {
-    "question": "(27) Krinko kategorie ia empfehlung: Welche Aussage ist korrekt?",
-    "options": [
-      "evidenzbasiert zwingend",
-      "empfehlung offen",
-      "optional",
-      "nur privat"
-    ],
-    "answer": 0
+    "question": "Offene Propan-Propanol-Handantiseptika sind längstens … haltbar.",
+    "options": ["7 Tage", "24 h", "30 Tage", "unbegrenzt"],
+    "answer": 0,
+    "ref_detail": "63.2 – Aufbrauchfristen"
   },
   {
-    "question": "(28) Laryngoskopklinge aufbereitung: Welche Aussage ist korrekt?",
-    "options": [
-      "Maschinelle Reinigung + Dampfsterilisation",
-      "abwischen",
-      "Einmalgebrauch",
-      "UV-Licht"
-    ],
-    "answer": 0
+    "question": "Proteinrest an Endoskopen nach maschineller Aufbereitung: Grenzwert < … µg/Instrument.",
+    "options": ["6", "10", "1", "20"],
+    "answer": 0,
+    "ref_detail": "63.3 – Endoskophygiene"
   },
   {
-    "question": "(29) Noro-virus flächendesinfektion: Welche Aussage ist korrekt?",
-    "options": [
-      "Wirkbereich C (begrenzt viruzid PLUS)",
-      "nur Alkohol 70%",
-      "keine Desinfektion",
-      "H2O2-Dampf"
-    ],
-    "answer": 0
+    "question": "Kritisch C-Instrumente (z. B. Herzkatheter) benötigen …",
+    "options": ["Sterilisation nach Reinigung & Desinfektion", "nur Desinfektion", "Heißluft 160 °C", "Einmalverwendung verboten"],
+    "answer": 0,
+    "ref_detail": "63.3 – Spaulding"
   },
   {
-    "question": "(30) Ringversuch hygienekontrolle: Welche Aussage ist korrekt?",
-    "options": [
-      "Externe Qualitätsprüfung",
-      "interner Test",
-      "Patientenumfrage",
-      "OP-Statistik"
-    ],
-    "answer": 0
+    "question": "Plasma-Sterilisation arbeitet typischerweise mit …",
+    "options": ["Wasserstoffperoxid-Gasplasma", "Ethylengas", "Heißdampf", "Peressigsäure-Nebel"],
+    "answer": 0,
+    "ref_detail": "63.3 – Niedertemperatur-Verfahren"
   },
   {
-    "question": "(31) Biofilm entfernung endoskop: Welche Aussage ist korrekt?",
-    "options": [
-      "mechanische Vorreinigung + Enzymreiniger",
-      "nur spülen Wasser",
-      "UV-Licht",
-      "Dampf"
-    ],
-    "answer": 0
+    "question": "OP-Raumluftklasse 1a verlangt …",
+    "options": ["vertikalen Laminar-Airflow (LAF)", "nur Hepa-Filtration", "Fensterlüftung", "keine Druckdifferenz"],
+    "answer": 0,
+    "ref_detail": "63.2 – Raumlufttechnik"
   },
   {
-    "question": "(32) Flockungstest sterilwasser: Welche Aussage ist korrekt?",
-    "options": [
-      "prüft Partikelfreiheit",
-      "prüft pH",
-      "prüft Zucker",
-      "irrelevant"
-    ],
-    "answer": 0
+    "question": "Die '5 Moments of Hand Hygiene' – Moment 1 ist …",
+    "options": ["vor Patientenkontakt", "nach Patientenkontakt", "vor aseptischer Tätigkeit", "nach Handschuhabnahme"],
+    "answer": 0,
+    "ref_detail": "63.1 – 5 Moments"
   },
   {
-    "question": "(33) Hygieneplan gesetzlich: Welche Aussage ist korrekt?",
-    "options": [
-      "muss schriftlich vorliegen (§23 IfSG)",
-      "freiwillig",
-      "nur mündlich",
-      "alle 10 Jahre"
-    ],
-    "answer": 0
+    "question": "Wischdesinfektion nach KRINKO: Bewegung …",
+    "options": ["S-förmig, überlappungsfrei", "kreisend", "Z-förmig", "beliebig"],
+    "answer": 0,
+    "ref_detail": "63.2 – Wisch-Technik"
   },
   {
-    "question": "(34) Log-reduktion 5: Welche Aussage ist korrekt?",
-    "options": [
-      "99.999% Keimreduktion",
-      "90%",
-      "50%",
-      "100%"
-    ],
-    "answer": 0
+    "question": "Ein RDG muss jede Charge mittels … dokumentieren.",
+    "options": ["integriertem Drucker oder EDV-System", "handgeschriebenem Buch", "mündlicher Freigabe", "Gar nichts"],
+    "answer": 0,
+    "ref_detail": "63.3 – RDG-Dokumentation"
   },
   {
-    "question": "(35) Kontaktzeit sprühdesinfektion blut: Welche Aussage ist korrekt?",
-    "options": [
-      "energiearme Methode nicht empfohlen",
-      "30s reichen",
-      "immer ausreichend",
-      "keine Wirkung"
-    ],
-    "answer": 0
+    "question": "EN 455 bezieht sich auf …",
+    "options": ["medizinische Einmalhandschuhe", "OP-Tücher", "FFP-Masken", "Beatmungsschläuche"],
+    "answer": 0,
+    "ref_detail": "63.2 – PSA-Normen"
   },
   {
-    "question": "(36) Sterilgut-lagerung: Welche Aussage ist korrekt?",
-    "options": [
-      "Staubgeschützt, 18-25°C, 30-60% rF",
-      "Kellerräume",
-      "Direkte Sonne",
-      "unbegrenzt feucht"
-    ],
-    "answer": 0
+    "question": "Biologische Indikatoren für Dampfsterilisation enthalten …",
+    "options": ["Geobacillus stearothermophilus-Sporen", "Candida-Sporen", "E. coli", "Prionen"],
+    "answer": 0,
+    "ref_detail": "63.3 – Biologische Indikatoren"
   },
   {
-    "question": "(37) Krinko kategorie ia empfehlung: Welche Aussage ist korrekt?",
-    "options": [
-      "evidenzbasiert zwingend",
-      "empfehlung offen",
-      "optional",
-      "nur privat"
-    ],
-    "answer": 0
+    "question": "OP-Schuhüberzüge werden gewechselt …",
+    "options": ["bei Kontamination oder Tagesende", "wöchentlich", "nie", "monatlich"],
+    "answer": 0,
+    "ref_detail": "63.2 – Bekleidung"
   },
   {
-    "question": "(38) Laryngoskopklinge aufbereitung: Welche Aussage ist korrekt?",
-    "options": [
-      "Maschinelle Reinigung + Dampfsterilisation",
-      "abwischen",
-      "Einmalgebrauch",
-      "UV-Licht"
-    ],
-    "answer": 0
+    "question": "KRINKO-Empfehlungsniveau IA bedeutet …",
+    "options": ["stark evidenzbasierte Pflichtmaßnahme", "Expertenmeinung", "Option", "obsolet"],
+    "answer": 0,
+    "ref_detail": "63.2 – KRINKO-Grade"
   },
   {
-    "question": "(39) Noro-virus flächendesinfektion: Welche Aussage ist korrekt?",
-    "options": [
-      "Wirkbereich C (begrenzt viruzid PLUS)",
-      "nur Alkohol 70%",
-      "keine Desinfektion",
-      "H2O2-Dampf"
-    ],
-    "answer": 0
+    "question": "Thermische Desinfektion 95 °C / 5 min erreicht Wirkbereich …",
+    "options": ["A/B (bakterizid inkl. Mykobakterien)", "nur fungizid", "sporizid", "viruzid PLUS"],
+    "answer": 0,
+    "ref_detail": "63.3 – Thermische Desinfektion"
   },
   {
-    "question": "(40) Ringversuch hygienekontrolle: Welche Aussage ist korrekt?",
-    "options": [
-      "Externe Qualitätsprüfung",
-      "interner Test",
-      "Patientenumfrage",
-      "OP-Statistik"
-    ],
-    "answer": 0
+    "question": "Dental-Turbinen werden abschließend sterilisiert durch …",
+    "options": ["fraktioniertes Vakuum-Dampfverfahren", "Heißluft 180 °C", "nur Desinfektion", "UV-Kammer"],
+    "answer": 0,
+    "ref_detail": "63.3 – Dentalinstrumente"
   },
   {
-    "question": "(41) Biofilm entfernung endoskop: Welche Aussage ist korrekt?",
-    "options": [
-      "mechanische Vorreinigung + Enzymreiniger",
-      "nur spülen Wasser",
-      "UV-Licht",
-      "Dampf"
-    ],
-    "answer": 0
+    "question": "Sterilgut-Verpackungsprozesse müssen mindestens ___ jährlich re-validiert werden.",
+    "options": ["einmal", "alle fünf Jahre", "nie", "zweimal"],
+    "answer": 0,
+    "ref_detail": "63.3 – Validierung Verpackung"
   },
   {
-    "question": "(42) Flockungstest sterilwasser: Welche Aussage ist korrekt?",
-    "options": [
-      "prüft Partikelfreiheit",
-      "prüft pH",
-      "prüft Zucker",
-      "irrelevant"
-    ],
-    "answer": 0
+    "question": "Aerosole bei Hochgeschwindigkeitsbohrern werden reduziert durch …",
+    "options": ["High-Vac-Absaugung", "trockenes Bohren", "höhere Drehzahl", "keine Maßnahme"],
+    "answer": 0,
+    "ref_detail": "63.2 – Aerosolkontrolle"
   },
   {
-    "question": "(43) Hygieneplan gesetzlich: Welche Aussage ist korrekt?",
-    "options": [
-      "muss schriftlich vorliegen (§23 IfSG)",
-      "freiwillig",
-      "nur mündlich",
-      "alle 10 Jahre"
-    ],
-    "answer": 0
+    "question": "Der Chlorid-Grenzwert im Trinkwasser nach TrinkwV liegt bei … mg/l",
+    "options": ["250", "500", "100", "25"],
+    "answer": 0,
+    "ref_detail": "63.3 – Wasserhygiene"
   },
   {
-    "question": "(44) Log-reduktion 5: Welche Aussage ist korrekt?",
-    "options": [
-      "99.999% Keimreduktion",
-      "90%",
-      "50%",
-      "100%"
-    ],
-    "answer": 0
+    "question": "Ein Sterilgutcontainer darf maximal mit ___ kg beladen werden.",
+    "options": ["8", "2", "15", "20"],
+    "answer": 0,
+    "ref_detail": "63.3 – Verpackungsrichtlinie"
   },
   {
-    "question": "(45) Kontaktzeit sprühdesinfektion blut: Welche Aussage ist korrekt?",
-    "options": [
-      "energiearme Methode nicht empfohlen",
-      "30s reichen",
-      "immer ausreichend",
-      "keine Wirkung"
-    ],
-    "answer": 0
+    "question": "NRFit-Konnektoren sollen insbesondere Verwechslungen mit _____ verhindern.",
+    "options": ["Luer-Systemen", "DIN-Steckern", "ISO-Schläuchen", "RJ-45-Kabeln"],
+    "answer": 0,
+    "ref_detail": "12.3 – NRFit Safety"
   },
   {
-    "question": "(46) Sterilgut-lagerung: Welche Aussage ist korrekt?",
-    "options": [
-      "Staubgeschützt, 18-25°C, 30-60% rF",
-      "Kellerräume",
-      "Direkte Sonne",
-      "unbegrenzt feucht"
-    ],
-    "answer": 0
+    "question": "Offene Mehrdosen-Durchstechflaschen für parenterale Medikamente müssen bei Raumtemperatur nach ___ verworfen werden.",
+    "options": ["24 h", "8 h", "72 h", "1 h"],
+    "answer": 0,
+    "ref_detail": "63.2 – Medikationshygiene"
   },
   {
-    "question": "(47) Krinko kategorie ia empfehlung: Welche Aussage ist korrekt?",
-    "options": [
-      "evidenzbasiert zwingend",
-      "empfehlung offen",
-      "optional",
-      "nur privat"
-    ],
-    "answer": 0
+    "question": "Wasserstoffperoxid-Plasma eignet sich BESONDERS für …",
+    "options": ["temperatursensible Instrumente", "Metallimplantate", "Textilien", "Flüssigkeiten"],
+    "answer": 0,
+    "ref_detail": "63.3 – Niedertemperatur-Sterilisation"
   },
   {
-    "question": "(48) Laryngoskopklinge aufbereitung: Welche Aussage ist korrekt?",
-    "options": [
-      "Maschinelle Reinigung + Dampfsterilisation",
-      "abwischen",
-      "Einmalgebrauch",
-      "UV-Licht"
-    ],
-    "answer": 0
+    "question": "DIN EN 13795 bezieht sich auf …",
+    "options": ["OP-Textilien", "Fallschutzmasken", "Handschuhe", "Sterilcontainer"],
+    "answer": 0,
+    "ref_detail": "63.3 – OP-Textilien"
   },
   {
-    "question": "(49) Noro-virus flächendesinfektion: Welche Aussage ist korrekt?",
-    "options": [
-      "Wirkbereich C (begrenzt viruzid PLUS)",
-      "nur Alkohol 70%",
-      "keine Desinfektion",
-      "H2O2-Dampf"
-    ],
-    "answer": 0
+    "question": "Händedesinfektionsmittel mit WHO-Formel I enthalten …",
+    "options": ["Ethanol 80 %", "Isopropanol 75 %", "Chlorhexidin 2 %", "N-Propanol 70 %"],
+    "answer": 0,
+    "ref_detail": "63.1 – WHO-Formeln"
   },
-  {
-    "question": "(50) Ringversuch hygienekontrolle: Welche Aussage ist korrekt?",
-    "options": [
-      "Externe Qualitätsprüfung",
-      "interner Test",
-      "Patientenumfrage",
-      "OP-Statistik"
-    ],
-    "answer": 0
-  }
+  { "question": "Bei Norovirus-Ausbruch werden Patientenzimmer mindestens ____ mal täglich desinfiziert.", "options": ["zweimal", "einmal", "dreimal", "bei Bedarf"], "answer": 0, "ref_detail": "63.2 – Ausbruchmanagement" },
+  { "question": "OP-Wischdesinfektion erfolgt vorzugsweise mit Tuchsystemen ___.", "options": ["Einmal-Vlies getränkt", "Mehrwegstoff trocken", "Papiertücher + Spray", "Gummischaber"], "answer": 0, "ref_detail": "63.2 – Wischtuchsysteme" },
+  { "question": "Proteinresttest am Endoskop wird mit ____ durchgeführt.", "options": ["OPA-Test", "Bowie-Dick", "TOSI", "Biologischer Indikator"], "answer": 0, "ref_detail": "63.3 – Endoskopprüfung" },
+  { "question": "CTG-Code auf Desinfektionsmitteltabelle steht für ____ Wirksamkeit.", "options": ["Clostridioides difficile (sporizid)", "Tuberkulose", "Norovirus", "Hepatitis B"], "answer": 0, "ref_detail": "63.2 – Wirksamkeitsspektren" },
+  { "question": "Bei Reinigungs- und Desinfektionsplänen gibt 'rot' im Farbcode meist ___ Flächen an.", "options": ["Patientennahe (kritisch)", "Büroflächen", "Sanitärräume", "Lager"], "answer": 0, "ref_detail": "63.2 – Farbcodeplan" },
+  { "question": "Sporizide Mittel sind laut KRINKO in der Routineanwendung meistens ____.", "options": ["nicht notwendig", "obligatorisch", "immer Sprühdesinfektion", "durch Ozon zu ersetzen"], "answer": 0, "ref_detail": "63.2 – Sporizide Einsatz" }
 ]
