@@ -1,502 +1,552 @@
 [
   {
-    "question": "Empathische Grundhaltung nach Carl Rogers umfasst NICHT …",
+    "question": "Welcher Satz ist ein Beispiel für eine empathische Spiegelung?",
     "options": [
-      "Wertschätzung",
-      "Kongruenz",
-      "Empathie",
-      "Sympathie erzwingen"
+      "„Ich verstehe, dass Sie sich Sorgen machen.“",
+      "„Das ist doch gar nicht so schlimm.“",
+      "„Nehmen Sie sich bitte zusammen.“",
+      "„Ich habe Ihnen doch alles erklärt.“"
     ],
-    "answer": 3
+    "answer": 0,
+    "ref_detail": "24.4 – Empathische Gesprächsführung"
   },
   {
-    "question": "Was beschreibt die Teach‑Back‑Methode?",
+    "question": "Teach‑Back bedeutet, dass …",
     "options": [
-      "Patient*innen wiederholen in eigenen Worten die erhaltenen Informationen",
-      "Pflegekräfte lesen ärztliche Anordnungen laut vor",
-      "Ärzt*innen wiederholen OP‑Ablauf für das Team",
-      "Angehörige erklären den Patient*innen die Medikation"
+      "Patient*innen Informationen in eigenen Worten wiederholen",
+      "die Pflegekraft den Arztbericht erneut vorliest",
+      "Angehörige Medikamente verabreichen",
+      "Ärzt*innen das Pflegepersonal schulen"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "23.1 – Teach‑Back‑Methode"
   },
   {
-    "question": "Welches Verhalten unterstützt AKTIVES Zuhören am wenigsten?",
-    "options": [
-      "Regelmäßiges Nicken",
-      "Paraphrasieren",
-      "Blickkontakt",
-      "Ständiges Unterbrechen"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Die erste Phase des SPIKES‑Protokolls zur Übermittlung schlechter Nachrichten lautet …",
+    "question": "Die erste Phase des SPIKES‑Protokolls ist …",
     "options": [
       "Setting (Rahmen schaffen)",
-      "Perception (Wahrnehmung prüfen)",
-      "Invitation",
-      "Knowledge"
+      "Knowledge (Information geben)",
+      "Perception (Wahrnehmung erfragen)",
+      "Empathy (Gefühle ansprechen)"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.5 – SPIKES‑Protokoll"
   },
   {
-    "question": "Haptischer Kanal der non‑verbalen Kommunikation ist …",
+    "question": "Welches aktive Zuhörsignal ist NON‑verbal?",
     "options": [
-      "Berührung",
-      "Blick",
-      "Tonfall",
-      "Mimik"
+      "Nicken",
+      "Paraphrasieren",
+      "Nachfragen",
+      "Zusammenfassen"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.4 – Nonverbale Signale"
   },
   {
-    "question": "Welche Frageform minimiert Suggestion und fördert offene Antworten?",
+    "question": "Shared Decision Making (SDM) wird durch ____ gefördert.",
     "options": [
-      "Was haben Sie heute gegessen?",
-      "Sie haben keine Schmerzen, oder?",
-      "Tut es sehr weh?",
-      "Das tut doch nicht weh, oder?"
+      "Option Grids",
+      "Einseitige Anordnung",
+      "Zeitdruck",
+      "Fachjargon"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "23.3 – Shared Decision Making"
   },
   {
-    "question": "Eine Metakommunikation bedeutet …",
-    "options": [
-      "Über das Gespräch selbst sprechen",
-      "Medizinische Metadaten austauschen",
-      "E‑Mail‑Kommunikation",
-      "Kommunikation mit Metronom"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Umgang mit sprachlichen Barrieren ERFORDERT NICHT zwingend …",
-    "options": [
-      "Professionelle*r Dolmetscher*in",
-      "Einsatz von Familienmitglied‑Übersetzern",
-      "Einfache Sprache",
-      "Visualisierungshilfen"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Die Kommunikation nach dem NURSE‑Modell beinhaltet NICHT …",
+    "question": "NURSE-Modell 'N' steht für …",
     "options": [
       "Name the emotion",
-      "Understand",
-      "Respect",
-      "Explain"
+      "Negotiate",
+      "Normalize",
+      "Notice"
     ],
-    "answer": 3
+    "answer": 0,
+    "ref_detail": "24.4 – NURSE"
   },
   {
-    "question": "Welche Technik fördert Shared Decision Making?",
+    "question": "CALM-Ansatz hilft bei …",
     "options": [
-      "Option Grid",
-      "Randomisierte Entscheidung",
-      "Alleinige Arztentscheidung",
-      "Zufallsprinzip per Münzwurf"
+      "Aggressionsdeeskalation",
+      "Blutdruckkontrolle",
+      "Laboranforderung",
+      "Gerätewartung"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.5 – CALM"
   },
   {
-    "question": "Der CALM‑Ansatz (Control, Acknowledge, Listen, Manage) hilft bei …",
+    "question": "Paraverbale Kommunikation umfasst NICHT …",
     "options": [
-      "Aggressiven Patient*innen",
-      "Blutdruckrégulation",
-      "Gerätefehlern",
-      "Medikamentenaufbewahrung"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Bei hörbeeinträchtigten Patient*innen sollte man …",
-    "options": [
-      "Langsamer sprechen und Mundbild zeigen",
-      "Laut schreien",
-      "Von hinten ansprechen",
-      "Fachjargon verwenden"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Was ist KEIN Beispiel für paraverbale Kommunikation?",
-    "options": [
+      "Inhalt der Worte",
+      "Tonhöhe",
       "Sprechtempo",
-      "Stimmlage",
-      "Betonung",
-      "Inhalt der Worte"
+      "Lautstärke"
     ],
-    "answer": 3
+    "answer": 0,
+    "ref_detail": "24.4 – Paraverbal"
   },
   {
-    "question": "Bei der Patientenaufklärung ist nach deutschem Recht notwendig …",
+    "question": "Eine 'Ich‑Botschaft' enthält KEIN …",
     "options": [
-      "Verständliche Sprache ohne Fachchinesisch",
-      "Juristisches Latein",
-      "Nur schriftliche Broschüre",
-      "Komplettes Schweigen"
+      "Vorwurf",
+      "Gefühl",
+      "Verhalten",
+      "Wunsch"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.4 – Ich‑Botschaft"
   },
   {
-    "question": "Eine 'Ich‑Botschaft' bei Kritik enthält NICHT …",
+    "question": "MUM‑Effekt beschreibt …",
     "options": [
-      "Beschreibung des eigenen Gefühls",
-      "Bewertung der Person",
-      "Auslösendes Verhalten",
-      "Wunsch/Bitte"
+      "Vermeidung schlechter Nachrichten",
+      "Übermittlung guter Nachrichten",
+      "Neutralität",
+      "Verstärkung"
     ],
-    "answer": 1
+    "answer": 0,
+    "ref_detail": "24.5 – MUM‑Effekt"
   },
   {
-    "question": "Der MUM‑Effekt beschreibt die Tendenz, …",
+    "question": "CARE‑Measure erfasst …",
     "options": [
-      "Schlechte Nachrichten zu vermeiden",
-      "Gute Nachrichten zu übertreiben",
-      "Neutral zu bleiben",
-      "Gesprächspartner zu unterbrechen"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Aussage unterstützt die Compliance am besten?",
-    "options": [
-      "Könnten Sie zeigen, wie Sie den Inhalator benutzen?",
-      "Vergessen Sie nicht, das Medikament zu nehmen.",
-      "Ich hoffe, Sie machen alles richtig.",
-      "Sie verstehen das schon."
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In der Interkulturellen Kommunikation ist 'Power Distance' ein Begriff aus …",
-    "options": [
-      "Hofstede‑Modell",
-      "Maslow‑Pyramide",
-      "Rogers‑Theorie",
-      "Bloom‑Taxonomie"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welches Instrument misst patientenzentrierte Kommunikation?",
-    "options": [
-      "CARE Measure",
+      "Patientenzentrierte Kommunikation",
       "BMI",
-      "Glasgow‑Coma‑Scale",
-      "Apfel‑Score"
+      "Bewusstseinslage",
+      "Schmerzskala"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "23.4 – CARE‑Measure"
   },
   {
-    "question": "Der Begriff 'Health Literacy' bezeichnet …",
+    "question": "Health Literacy bedeutet …",
     "options": [
       "Gesundheitskompetenz der Patient*innen",
-      "Lese‑ und Schreibfähigkeit von Ärzt*innen",
-      "Zahl der Krankenhausbetten",
-      "Pharmakologische Datenbank"
+      "Lesequote",
+      "Finanzwissen",
+      "IT‑Kenntnis"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "23.2 – Health Literacy"
   },
   {
-    "question": "Welche Technik hilft, schwierige Emotionen anzusprechen?",
+    "question": "SAFE‑Communicate fordert Rückmeldung durch …",
     "options": [
-      "Empathische Spiegelung",
-      "Konfrontative Beschuldigung",
-      "Ignorieren",
-      "Themenwechsel"
+      "Synthese am Ende",
+      "Einleitung",
+      "Monolog",
+      "Schweigen"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.6 – SAFE Communicate"
   },
   {
-    "question": "Die SAFE‑Communicate Regel bei Übergaben fordert u. a. …",
+    "question": "Nicken, Blickkontakt und Vorbeugen signalisieren …",
     "options": [
-      "Synthese am Ende durch den Empfänger",
-      "Verzicht auf Rückfragen",
-      "Nur schriftliche Übergabe",
-      "Spontanes Erzählen ohne Struktur"
+      "Aufmerksamkeit",
+      "Genervtheit",
+      "Ablehnung",
+      "Unwissen"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.4 – Nonverbal"
   },
   {
-    "question": "Ein wichtiger Bestandteil der De‑Esklation bei aggressiven Patient*innen ist …",
+    "question": "Primacy Effect bezieht sich auf …",
     "options": [
-      "Selbstkontrolle und ruhige Stimme",
-      "Laute Befehle",
-      "Körperlicher Zwang sofort",
-      "Ignorieren"
+      "ersten Eindruck",
+      "letzte Information",
+      "Mittlere Werte",
+      "Gruppenzwang"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.4 – Wahrnehmungseffekte"
   },
   {
-    "question": "Die Frage 'Was ist Ihnen heute besonders wichtig?' dient der …",
-    "options": [
-      "Erfassung von Patient*innen‑Prioritäten",
-      "Laborwertermittlung",
-      "Medikamentenanamnese",
-      "Diagnosekodierung"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Eine hohe Frage‑Antwort‑Ratio (>3:1) von Fachpersonal zu Patient*in …",
-    "options": [
-      "reduziert die Patient*innenbeteiligung",
-      "steigert das Verständnis",
-      "ist optimal",
-      "verkürzt das Gespräch effektiv"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Nonverbales Signal für Zustimmung kann sein …",
-    "options": [
-      "Leichtes Nicken",
-      "Arme verschränken",
-      "Augenrollen",
-      "Abgewandter Blick"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Der 'Eindruck erster 30 Sekunden' in der Patientenkommunikation wird bezeichnet als …",
-    "options": [
-      "Primacy Effect",
-      "Recency Effect",
-      "Halo Effect",
-      "Foot‑in‑Door"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Eine geschlossene Frage endet häufig mit …",
-    "options": [
-      "einer Auswahl 'Ja/Nein'",
-      "Warum …?",
-      "Was denken Sie …?",
-      "Wie …?"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welches Medium ist für sehbeeinträchtigte Patient*innen am besten geeignet?",
-    "options": [
-      "Audioaufnahme",
-      "Gedruckter Leitfaden 12‑pt",
-      "Piktogramme",
-      "PowerPoint‑Folie"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Bei Kindern fördert eine 'Tell‑Show‑Do' Strategie …",
-    "options": [
-      "Angstabbau",
-      "Informationsüberlastung",
-      "Vermeidung von Fragen",
-      "Ignorieren der Eltern"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Der 'Dritte Raum' in der Kommunikationstheorie (Habermas) bezeichnet …",
-    "options": [
-      "Neutralen Austauschbereich",
-      "Privatsphäre",
-      "Öffentlichen Raum",
-      "Technikraum"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welcher Satz entspricht einer validierenden Kommunikation?",
-    "options": [
-      "Ich kann verstehen, dass Sie besorgt sind.",
-      "Das ist doch kein Grund zur Sorge!",
-      "Sie übertreiben ein wenig.",
-      "Ich habe keine Zeit für Ihre Angst."
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Häufiger Fehler bei Telemedizin‑Gesprächen ist …",
-    "options": [
-      "fehlender Blick in Kamera (Augenkontakt)",
-      "gute Beleuchtung",
-      "ruhige Umgebung",
-      "klarer Ton"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Bei aphasischen Patient*innen eignet sich am besten …",
-    "options": [
-      "Einfache Ja‑/Nein‑Fragen",
-      "Komplexe Satzstrukturen",
-      "Ironie",
-      "Fachbegriffe"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Eine 'Positive Suggestion' in der präoperativen Kommunikation kann …",
-    "options": [
-      "Schmerzwahrnehmung reduzieren",
-      "Blutdruck erhöhen",
-      "Angst steigern",
-      "Nichts bewirken"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Das 'L' in dem 'SOLER'‑Modell für nonverbales Zuhören bedeutet …",
-    "options": [
-      "Lean toward the speaker",
-      "Listen silently",
-      "Laugh",
-      "Leave"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Der Gegenpart zur 'Ich‑Botschaft' ist in Konflikten …",
-    "options": [
-      "Du‑Botschaft",
-      "Wir‑Botschaft",
-      "Er‑Botschaft",
-      "Man‑Botschaft"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Welche Farbe wirkt laut Farbpsychologie beruhigend im Patient*innen‑Gespräch?",
-    "options": [
-      "Blau‑Grün‑Töne",
-      "Signalrot",
-      "Schwarz",
-      "Neon‑Gelb"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Der 'Leitmotto‑Wechsel' (Motivational Interviewing) bedeutet …",
-    "options": [
-      "Patient*in benennt selbst Grund für Veränderung",
-      "Therapeut überredet zur Änderung",
-      "Ultimatum stellen",
-      "Keine Ziele setzen"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In der non‑verbalen Kommunikation gilt: Große persönliche Distanz (>120 cm) steht typischerweise für …",
-    "options": [
-      "Öffentliche Distanz",
-      "Intime Distanz",
-      "Persönliche Distanz",
-      "Soziale Distanz"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Eine Spiegeltechnik („Mirroring“) sollte …",
-    "options": [
-      "dezent und authentisch erfolgen",
-      "betont demonstrativ sein",
-      "übertrieben werden",
-      "unterlassen werden"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Laut Four‑E‑Leitfaden bei Digital Health Literacy steht 'Engage' für …",
-    "options": [
-      "Einbeziehen der Nutzer*innen",
-      "Bewerten",
-      "Erzählen",
-      "Entfernen"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Eine 'Transtheoretische Modell'‑Beratung adressiert Phasenwechsel von …",
-    "options": [
-      "Präkontemplation zu Kontemplation",
-      "Aktion zu Rückfall",
-      "Wartung zu Termination",
-      "Alle genannten"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Bei emotionaler Ansteckung ('emotional contagion') …",
-    "options": [
-      "übertragen sich Gefühle unbewusst",
-      "bleiben Gefühle isoliert",
-      "werden Gefühle ignoriert",
-      "entsteht keine Reaktion"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "PACE‑Format für Patient Education steht für Present, Ask, Check und …",
-    "options": [
-      "Express",
-      "Explain",
-      "Evaluate",
-      "Elaborate"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Ein 'Open‑Ended Prompt' beginnt typischerweise mit …",
+    "question": "Offene Fragen beginnen häufig mit …",
     "options": [
       "Wie",
       "Ist",
-      "Sind",
-      "Hat"
+      "Hat",
+      "Sind"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.3 – Fragearten"
   },
   {
-    "question": "Die 'Zwei‑Minuten‑Training' Technik für Angehörige zielt auf …",
+    "question": "Bei aphasischen Patient*innen hilfreich …",
     "options": [
-      "schnelle Instruktion zu Pflegetätigkeiten",
-      "Pause des Personals",
-      "Diagnoseübermittlung",
-      "Zahlungsabwicklung"
+      "Ja/Nein‑Fragen",
+      "Ironie",
+      "Fachbegriffe",
+      "Schnelles Sprechen"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "23.2 – Kommunikation Störungen"
   },
   {
-    "question": "Bei 'Chunk and Check' wird Information …",
+    "question": "Positive Suggestion kann …",
     "options": [
-      "in kleinen Portionen gegeben und Verständnis geprüft",
-      "als Ganzes vorgelesen",
-      "komplett ignoriert",
-      "nur schriftlich übergeben"
+      "Schmerzempfinden senken",
+      "Angst steigern",
+      "Nichts ändern",
+      "Blutdruck erhöhen"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.5 – Suggestion"
   },
   {
-    "question": "Eine 'positive framing' Formulierung lautet …",
+    "question": "SOLER‑Modell 'L' bedeutet …",
     "options": [
-      "Sie haben eine 95 % Chance auf vollständige Genesung.",
-      "Sie haben 5 % Risiko zu sterben.",
-      "Es kann auch schiefgehen.",
-      "Keine Ahnung, ob es klappt."
+      "Lean toward the speaker",
+      "Listen",
+      "Look away",
+      "Leave"
     ],
-    "answer": 0
+    "answer": 0,
+    "ref_detail": "24.4 – SOLER"
   },
   {
-    "question": "Die 'VIEF'‑Regel zur Kommunikation mit dementen Menschen beinhaltet NICHT …",
+    "question": "Farben Blau‑Grün wirken …",
     "options": [
-      "Vermeiden von Korrekturen",
-      "Ich‑Botschaften verwenden",
+      "beruhigend",
+      "anregend",
+      "alarmierend",
+      "neutral"
+    ],
+    "answer": 0,
+    "ref_detail": "24.4 – Farbpsychologie"
+  },
+  {
+    "question": "Motivational Interviewing: 'Change Talk' wird durch ____ gefördert.",
+    "options": [
+      "offene Fragen",
+      "Drohen",
+      "Ignorieren",
+      "Befehle"
+    ],
+    "answer": 0,
+    "ref_detail": "23.3 – MI"
+  },
+  {
+    "question": "Persönliche Distanzzone nach Hall beträgt …",
+    "options": [
+      "45–120 cm",
+      "0–45 cm",
+      "> 3 m",
+      "15–30 cm"
+    ],
+    "answer": 0,
+    "ref_detail": "24.4 – Distanzzonen"
+  },
+  {
+    "question": "Mirroring sollte …",
+    "options": [
+      "dezent",
+      "übertrieben",
+      "verhindert",
+      "ignoiert"
+    ],
+    "answer": 0,
+    "ref_detail": "24.4 – Mirroring"
+  },
+  {
+    "question": "Chunk and Check bedeutet …",
+    "options": [
+      "Information in Portionen plus Verständnischeck",
+      "alles auf einmal erklären",
+      "nur schriftlich",
+      "keine Wiederholung"
+    ],
+    "answer": 0,
+    "ref_detail": "23.1 – Chunk & Check"
+  },
+  {
+    "question": "Positive Framing Beispiel ist …",
+    "options": [
+      "95 % Überlebenschance",
+      "5 % Sterberisiko",
+      "könnte schiefgehen",
+      "unbekannt"
+    ],
+    "answer": 0,
+    "ref_detail": "24.5 – Framing"
+  },
+  {
+    "question": "VIEF‑Regel bei Demenz NICHT …",
+    "options": [
+      "Fachsprache",
       "Einfachheit",
-      "Fachsprache"
+      "Ich‑Botschaft",
+      "Vermeiden von Korrekturen"
     ],
-    "answer": 3
+    "answer": 0,
+    "ref_detail": "24.4 – Demenzkommunikation"
+  },
+  {
+    "question": "Kulturelle Kompetenz umfasst NICHT …",
+    "options": [
+      "Budgetplanung",
+      "Bewusstsein",
+      "Wissen",
+      "Fertigkeiten"
+    ],
+    "answer": 0,
+    "ref_detail": "23.2 – Interkulturell"
+  },
+  {
+    "question": "Emojis können in Chat‑Tools …",
+    "options": [
+      "Verständnis fördern",
+      "immer unprofessionell",
+      "Dokument ersetzen",
+      "Vertrauen senken"
+    ],
+    "answer": 0,
+    "ref_detail": "23.2 – Digitale Comm"
+  },
+  {
+    "question": "Teach‑Back Schritt 3 …",
+    "options": [
+      "Patient wiederholt Information",
+      "Infusion anhängen",
+      "OP planen",
+      "Blut abnehmen"
+    ],
+    "answer": 0,
+    "ref_detail": "23.1 – Teach‑Back"
+  },
+  {
+    "question": "NURSE 'S' bedeutet …",
+    "options": [
+      "Support",
+      "Silence",
+      "Solve",
+      "Select"
+    ],
+    "answer": 0,
+    "ref_detail": "24.4 – NURSE"
+  },
+  {
+    "question": "SPIKES 'E' steht für …",
+    "options": [
+      "Empathie zeigen",
+      "Ergebnis erklären",
+      "Erfahrung abfragen",
+      "Entscheidung treffen"
+    ],
+    "answer": 0,
+    "ref_detail": "24.5 – SPIKES"
+  },
+  {
+    "question": "CALM 'C' bedeutet …",
+    "options": [
+      "Control yourself",
+      "Confront",
+      "Cut",
+      "Create"
+    ],
+    "answer": 0,
+    "ref_detail": "24.5 – CALM"
+  },
+  {
+    "question": "ISBAR Unterschied zu SBAR: 'I' für …",
+    "options": [
+      "Identify (Vorstellen)",
+      "Interview",
+      "Inform",
+      "Interrupt"
+    ],
+    "answer": 0,
+    "ref_detail": "24.3 – ISBAR"
+  },
+  {
+    "question": "SBAR nutzen bei …",
+    "options": [
+      "kritischen Patientenübergaben",
+      "Urlaubsanträgen",
+      "Budgetmeeting",
+      "Entlassbrief"
+    ],
+    "answer": 0,
+    "ref_detail": "24.3 – SBAR"
+  },
+  {
+    "question": "Feedback 'BOOST' steht für Balanced, ____ , Objective, Specific, Timely.",
+    "options": [
+      "Observed",
+      "Open",
+      "Official",
+      "Optimistic"
+    ],
+    "answer": 0,
+    "ref_detail": "26.3 – BOOST"
+  },
+  {
+    "question": "Active Listening enthält …",
+    "options": [
+      "Paraphrasieren",
+      "Korrigieren",
+      "Dozieren",
+      "Ignorieren"
+    ],
+    "answer": 0,
+    "ref_detail": "24.4 – Aktives Zuhören"
+  },
+  {
+    "question": "Acronym CUS eskaliert nach 'Concern', 'Uncomfortable', ____.",
+    "options": [
+      "Safety issue",
+      "Support",
+      "Should",
+      "Silence"
+    ],
+    "answer": 0,
+    "ref_detail": "24.5 – CUS"
+  },
+  {
+    "question": "DESC‑Skript letzter Schritt 'C' …",
+    "options": [
+      "Consequence",
+      "Call",
+      "Choose",
+      "Clarify"
+    ],
+    "answer": 0,
+    "ref_detail": "24.5 – DESC"
+  },
+  {
+    "question": "SAFE-Debrief 'E' bedeutet …",
+    "options": [
+      "Encourage participation",
+      "Evaluate blame",
+      "End discussion",
+      "Erase errors"
+    ],
+    "answer": 0,
+    "ref_detail": "52.2 – SAFE"
+  },
+  {
+    "question": "SBAR 'B' enthält …",
+    "options": [
+      "relevante Vorgeschichte",
+      "Budget",
+      "Blutbild",
+      "Buchhaltung"
+    ],
+    "answer": 0,
+    "ref_detail": "24.3 – SBAR"
+  },
+  {
+    "question": "Kommunikation mit Kindern: 'Tell‑Show‑Do' dient …",
+    "options": [
+      "Angstabbau",
+      "Zeitersparnis",
+      "Strafe",
+      "Dokumentation"
+    ],
+    "answer": 0,
+    "ref_detail": "23.2 – Pädiatrisch"
+  },
+  {
+    "question": "Teach‑Back Vorteil …",
+    "options": [
+      "Erhöht Patientenverständnis",
+      "Verkürzt Gespräche",
+      "Ersetzt Doku",
+      "Reduziert Schulungsbedarf"
+    ],
+    "answer": 0,
+    "ref_detail": "23.1 – Teach‑Back"
+  },
+  {
+    "question": "Patientenzentrierung bedeutet NICHT …",
+    "options": [
+      "Paternalistische Entscheidungen",
+      "Empathie",
+      "Partizipation",
+      "Wertschätzung"
+    ],
+    "answer": 0,
+    "ref_detail": "23.2 – Patientenzentriert"
+  },
+  {
+    "question": "NURSE 'E' …",
+    "options": [
+      "Explore",
+      "Explain",
+      "Empty",
+      "Exclude"
+    ],
+    "answer": 0,
+    "ref_detail": "24.4 – NURSE"
+  },
+  {
+    "question": "Kollegiale Fallberatung Schritt 1 …",
+    "options": [
+      "Fallvorstellung",
+      "Lösung",
+      "Diskussion",
+      "Abschluss"
+    ],
+    "answer": 0,
+    "ref_detail": "26.4 – Kollegiale Beratung"
+  },
+  {
+    "question": "Teach‑Back Schritt 4 …",
+    "options": [
+      "Korrigieren und klären",
+      "Abschließen",
+      "Ignorieren",
+      "Loben"
+    ],
+    "answer": 0,
+    "ref_detail": "23.1 – Teach‑Back"
+  },
+  {
+    "question": "Eye Contact kulturell unterschiedlich; in manchen Kulturen gilt Blickkontakt als …",
+    "options": [
+      "respektlos",
+      "zwingend",
+      "egal",
+      "humorvoll"
+    ],
+    "answer": 0,
+    "ref_detail": "23.2 – Kultur"
+  },
+  {
+    "question": "SOLER 'E' …",
+    "options": [
+      "Eye contact",
+      "Evaluate",
+      "Eject",
+      "Elevate"
+    ],
+    "answer": 0,
+    "ref_detail": "24.4 – SOLER"
+  },
+  {
+    "question": "Health Literacy niedrig korreliert mit …",
+    "options": [
+      "höheren Rehospitalisierungen",
+      "besserer Compliance",
+      "mehr Wissen",
+      "geringem Stress"
+    ],
+    "answer": 0,
+    "ref_detail": "23.2 – Health Literacy"
+  },
+  {
+    "question": "Motivational Interviewing 'OARS' 'O' …",
+    "options": [
+      "Open questions",
+      "Order",
+      "Observe",
+      "Oblige"
+    ],
+    "answer": 0,
+    "ref_detail": "23.3 – MI"
   }
 ]
