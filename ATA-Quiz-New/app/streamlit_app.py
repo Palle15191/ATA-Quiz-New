@@ -1,7 +1,10 @@
+# app/streamlit_app.py
 import json, random, streamlit as st
 from pathlib import Path
 
-# ---------- Konstanten ----------
+#############################################
+# 1)  Daten-Verzeichnisse & Labels
+#############################################
 QUEST_DIR = Path(__file__).parent.parent / "questions"
 KS_PATHS  = {p.stem.split("_")[0].upper(): p for p in QUEST_DIR.glob("ks*_questions.json")}
 
@@ -16,67 +19,86 @@ KS_LABELS = {
     "KS8": "KS8 – Hygiene & Sterilgut"
 }
 
-# ---------- Session-State Defaults ----------
-defaults = dict(
-    current_ks   = None,   # z. B. "KS3"
-    question_set = [],     # Liste aus 15 Fragen
-    q_idx        = 0,      # aktuelle Frage-Nr. (0-basiert)
-    score        = 0,      # richtige Antworten
-    answered     = False,  # ob aktuelle Frage bereits beantwortet
-    correct_last = None    # True / False
-)
-for k, v in defaults.items():
-    st.session_state.setdefault(k, v)
+#############################################
+# 2)  Session-State sicher initialisieren
+#############################################
+def init_state():
+    """legt ALLE benötigten Keys einmalig an"""
+    defaults = dict(
+        current_ks   = None,   # z. B. "KS3"
+        question_set = [],     # Liste der 15 Fragen
+        q_idx        = 0,      # Nummer der aktuellen Frage
+        score        = 0,      # richtige Antworten
+        answered     = False,  # ob aktuelle Frage beantwortet
+        correct_last = None    # Ergebnis der zuletzt beantworteten
+    )
+    for k, v in defaults.items():
+        if k not in st.session_state:
+            st.session_state[k] = v
 
+init_state()  # ← GANZ am Anfang aufrufen
+
+#############################################
+# 3)  Grund-Layout
+#############################################
 st.set_page_config(page_title="ATA-Quiz", page_icon="🩺", layout="wide")
 st.title("🩺 ATA-Quiz – Kompetenzschwerpunkte")
 
-# ---------- KS-Dropdown ----------
+#############################################
+# 4)  KS-Dropdown mit Platzhalter
+#############################################
 placeholder = "-- bitte wählen --"
 label_list  = [placeholder] + [KS_LABELS[k] for k in sorted(KS_PATHS)]
-sel_idx     = 0 if not st.session_state.current_ks else label_list.index(KS_LABELS[st.session_state.current_ks])
+
+sel_idx = 0
+if st.session_state.current_ks:
+    sel_idx = label_list.index(KS_LABELS[st.session_state.current_ks])
 
 chosen_label = st.selectbox("Kompetenzschwerpunkt wählen:", label_list, index=sel_idx)
 chosen_ks    = None if chosen_label == placeholder else next(k for k,v in KS_LABELS.items() if v == chosen_label)
 
-# ---------- Neu starten, falls anderer KS gewählt ----------
-if chosen_ks and chosen_ks != st.session_state.current_ks:
-    with KS_PATHS[chosen_ks].open(encoding="utf-8") as f:
+#############################################
+# 5)  Quiz neu starten, falls KS gewechselt
+#############################################
+def reset_quiz(ks_code: str):
+    with KS_PATHS[ks_code].open(encoding="utf-8") as f:
         pool = json.load(f)
-    st.session_state.update(
-        current_ks   = chosen_ks,
-        question_set = random.sample(pool, 15),
-        q_idx        = 0,
-        score        = 0,
-        answered     = False,
-        correct_last = None
-    )
+    k = 15 if len(pool) >= 15 else len(pool)         # Fallback falls <15 Fragen
+    st.session_state.current_ks   = ks_code
+    st.session_state.question_set = random.sample(pool, k)
+    st.session_state.q_idx        = 0
+    st.session_state.score        = 0
+    st.session_state.answered     = False
+    st.session_state.correct_last = None
 
-# ---------- Quiz-Logik ----------
+if chosen_ks and chosen_ks != st.session_state.current_ks:
+    reset_quiz(chosen_ks)
+
+#############################################
+# 6)  Anzeige einer Frage
+#############################################
 def show_question(q):
-    st.subheader(f"Frage {st.session_state.q_idx + 1} / 15")
+    st.subheader(f"Frage {st.session_state.q_idx + 1} / {len(st.session_state.question_set)}")
     st.markdown(f"**{q['question']}**")
 
-    # Vier Antwort-Buttons als Columns
+    # Antwort-Buttons in zwei Spalten
     cols = st.columns(2)
     for i, option in enumerate(q["options"]):
-        col = cols[i % 2]
-        if col.button(option, key=f"opt{st.session_state.q_idx}_{i}") and not st.session_state.answered:
+        if cols[i % 2].button(option, key=f"btn_{st.session_state.q_idx}_{i}") and not st.session_state.answered:
             st.session_state.answered     = True
             st.session_state.correct_last = (i == q["answer"])
             if st.session_state.correct_last:
                 st.session_state.score += 1
 
-    # Bei Antwort sofort Feedback
+    # Sofort-Feedback
     if st.session_state.answered:
         if st.session_state.correct_last:
             st.success("✔️ Richtig!")
         else:
-            corr = q["options"][q["answer"]]
-            st.error(f"❌ Falsch – korrekt wäre: **{corr}**")
+            st.error(f"❌ Falsch – korrekt wäre: **{q['options'][q['answer']]}**")
 
-        # Weiter- bzw. Ergebnis-Button
-        if st.session_state.q_idx < 14:
+        # Weiter- oder Ergebnis-Button
+        if st.session_state.q_idx < len(st.session_state.question_set) - 1:
             if st.button("➡️ Nächste Frage"):
                 st.session_state.q_idx    += 1
                 st.session_state.answered  = False
@@ -87,21 +109,23 @@ def show_question(q):
                 st.session_state.answered = False
                 st.experimental_rerun()
 
+#############################################
+# 7)  End-Ergebnis
+#############################################
 def show_result():
     st.balloons()
     st.header("🎉 Quiz beendet")
-    st.success(f"Du hast **{st.session_state.score} von 15** Fragen richtig beantwortet!")
+    st.success(f"Du hast **{st.session_state.score} / {len(st.session_state.question_set)}** richtig!")
 
     if st.button("🔄 Neue Runde"):
-        st.session_state.q_idx   = 0
-        st.session_state.score   = 0
-        st.session_state.answered = False
-        random.shuffle(st.session_state.question_set)   # Fragen neu mischen
+        reset_quiz(st.session_state.current_ks)
         st.experimental_rerun()
 
-# ---------- Anzeige ----------
+#############################################
+# 8)  Render-Logik
+#############################################
 if st.session_state.current_ks:
-    if st.session_state.q_idx < 15:
+    if st.session_state.q_idx < len(st.session_state.question_set):
         show_question(st.session_state.question_set[st.session_state.q_idx])
     else:
         show_result()
