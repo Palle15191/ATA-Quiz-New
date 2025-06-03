@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Das SBAR‑Modell dient in erster Linie …",
+    "options": [
+      "der strukturierten Übergabe von Patient*innen‑Informationen",
+      "dem Notfallalgorithmus bei Reanimation",
+      "dem finanziellen Berichtswesen",
+      "der Sterilgutaufbereitung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Closed‑Loop‑Communication zeichnet sich aus durch …",
+    "options": [
+      "Rückbestätigung der Anweisung durch den Empfänger",
+      "non‑verbale Kommunikation ausschließlich",
+      "Dokumentation ohne Nachfragen",
+      "Einbahnstraßen‑Kommunikation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei einer Team‑TIME‑OUT‑Situation identifiziert sich der Operateur NICHT mit …",
+    "options": [
+      "seinem vollständigen Namen",
+      "seiner Berufsbezeichnung",
+      "seiner Lieblingsfarbe",
+      "dem geplanten Eingriff"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Welche Methode ist geeignet, Hierarchiebarrieren in Teams abzubauen?",
+    "options": [
+      "Anrede mit Vornamen und dienstneutraler Kleidung",
+      "Ausschließliche Kommunikation über den Chef",
+      "Strikte Trennung von Berufsbildern beim Mittagessen",
+      "Unidirektionale Informationsweitergabe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein Patient wird mit dem Early‑Warning‑Score NEWS2 auf 6 eingestuft. Welche Aktion ist prioritär?",
+    "options": [
+      "Aktivierung des Rapid‑Response‑Teams",
+      "Arztvisite am nächsten Morgen",
+      "Vollständige Pflegeplanung abwarten",
+      "Keine Maßnahme erforderlich"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Delegation bedeutet …",
+    "options": [
+      "Übertragung von Aufgaben unter Beibehaltung der Verantwortung",
+      "Abgabe von Verantwortung ohne Aufsicht",
+      "Informationsweitergabe innerhalb desselben Kompetenzniveaus",
+      "Nicht wahrnehmbarer Kompetenztransfer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein interprofessionelles Morbidity‑&‑Mortality‑Meeting zielt vor allem auf …",
+    "options": [
+      "gemeinsame Fehleranalyse und Lernen",
+      "Budgetkürzungen erörtern",
+      "Mitarbeiterbewertungen durchführen",
+      "Dienstpläne genehmigen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Was versteht man unter 'Speaking‑Up'?",
+    "options": [
+      "Proaktives Ansprechen von Risiken ungeachtet der Hierarchie",
+      "Monolog des ranghöchsten Teammitglieds",
+      "Flüstern im OP, um Störungen zu vermeiden",
+      "Dienstliche Beschwerde per E‑Mail"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das Konzept der Crew‑Resource‑Management (CRM) stammt ursprünglich aus …",
+    "options": [
+      "Luftfahrt",
+      "Maritime Navigation",
+      "Pharmazie",
+      "Landwirtschaft"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein Konflikt im OP‑Team eskaliert. Welches Vorgehen entspricht den Prinzipien konstruktiver Konfliktlösung?",
+    "options": [
+      "Zeitnahe Moderation durch neutrale Person",
+      "Ignorieren in der Hoffnung auf Selbstauflösung",
+      "Disziplinarmaßnahme ohne Anhörung",
+      "Öffentliche Bloßstellung des Verursachers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Nach dem Kolb‑Lernzyklus folgt auf die konkrete Erfahrung als nächster Schritt …",
+    "options": [
+      "Reflektierende Beobachtung",
+      "Aktives Experimentieren",
+      "Abstrakte Begriffsbildung",
+      "Unmittelbare Wiederholung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Teach‑Back ist eine Methode …",
+    "options": [
+      "bei der Patient*innen die erhaltenen Informationen in eigenen Worten wiedergeben",
+      "um Medikamente rückwirkend zu dokumentieren",
+      "zum Delegieren von Aufgaben",
+      "für Bluttransfusionsprotokolle"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein *Shadowing*‑Tag erlaubt …",
+    "options": [
+      "Einen Berufsgruppen‑übergreifenden Perspektivwechsel",
+      "Ausschließlich Beobachtung ohne Patientenkontakt",
+      "Urlaub auf Kosten des Arbeitgebers",
+      "Fortbildung ohne Lernziele"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welches Instrument misst Team‑Performance während eines Simulationstrainings?",
+    "options": [
+      "TEAM‑Score",
+      "Glasgow‑Coma‑Scale",
+      "SOFA‑Score",
+      "CHA2DS2‑VASc"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei der telefonischen Arzt‑Anforderung nach ISBAR steht das 'I' für …",
+    "options": [
+      "Identification (Vorstellung eigener Person)",
+      "Information",
+      "Intervention",
+      "Intention"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Aussage trifft auf 'Handoff'‑Prozesse in der Patientensicherheit zu?",
+    "options": [
+      "Sie sind kritische Schnittstellen und erfordern strukturierte Tools",
+      "Sie können improvisiert werden",
+      "Sie sind nur im ambulanten Setting relevant",
+      "Sie ersetzen Dokumentation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kernkompetenz eines interprofessionellen Teams ist …",
+    "options": [
+      "gemeinsame Zieldefinition mit klaren Rollen",
+      "homogene Berufsgruppen",
+      "eindeutige Machtverteilung zugunsten ärztlicher Leitung",
+      "reduzierter Informationsfluss"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei der WHO‑Safety‑Checklist 'SIGN‑OUT'‑Phase fragt die verantwortliche Person NICHT nach …",
+    "options": [
+      "Instrumenten‑Vollständigkeit",
+      "OP‑Dauer",
+      "Probenbeschriftung",
+      "besonderen Problemen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Was ist ein Indikator für gute Teamkultur?",
+    "options": [
+      "Hohe psychologische Sicherheit",
+      "Strafandrohung bei Fehlern",
+      "Kommandoton ohne Rückfragen",
+      "Informationshoheit einzelner"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Hand‑Off‑Kommunikation sollte idealerweise überprüfbar sein durch …",
+    "options": [
+      "schriftliche Checklisten oder digitale Tools",
+      "mündliche Zurufe im Flur",
+      "Verzicht auf Wiederholungen",
+      "zeitversetzte Voice‑Mails"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Aktion gehört NICHT zu den 5 Schritten des Crew‑Resource‑Managements?",
+    "options": [
+      "Situational Awareness",
+      "Workload Management",
+      "Rigid Authority Gradient",
+      "Decision‑Making"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Simulationstraining 'in‑situ' bedeutet …",
+    "options": [
+      "Training im echten Arbeitsumfeld",
+      "Übung im Simulationszentrum",
+      "Online‑Webinar",
+      "Reines Theorieformat"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein aktives Zuhören wird charakterisiert durch …",
+    "options": [
+      "Paraphrasieren und Rückfragen stellen",
+      "Unterbrechen und Gegenargumente liefern",
+      "Abwenden des Blickes",
+      "Stille Zustimmung ohne Feedback"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei der eindimensionalen Konfliktskala nach Glasl entspricht Stufe 6 (Drohstrategien) dem Konflikttyp …",
+    "options": [
+      "Lose‑Lose",
+      "Win‑Win",
+      "Win‑Lose",
+      "No‑Conflict"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Interprofessionelle Fallbesprechungen verbessern v. a. …",
+    "options": [
+      "gemeinsames Verständnis für Behandlungsziele",
+      "abrechnungsrelevante Kodierungen",
+      "Personalfluktuation",
+      "OP‑Kapazität"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Aussage beschreibt am besten *Shared Decision Making*?",
+    "options": [
+      "Gemeinsame Entscheidungsfindung zwischen Patient*in und Team",
+      "Entscheidung ausschließlich durch Ärzt*innen",
+      "Entscheidung durch Angehörige ohne Patient*in",
+      "Zufallsbasierte Entscheidung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das Akronym *CUS* (I am Concerned, Uncomfortable, Safety issue) dient …",
+    "options": [
+      "als Eskalationsmodell bei Sicherheitsbedenken",
+      "zur Schmerzskala",
+      "zur Ernährungstabelle",
+      "zur Dienstplanerstellung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Rolle übernimmt typischerweise der/die 'Runner' in einer Notfallsimulation?",
+    "options": [
+      "Besorgt benötigtes Material außerhalb des Szenarios",
+      "Leitet das Team",
+      "Übernimmt Atemwegsmanagement",
+      "Dokumentiert Vitalparameter"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein Debriefing nach Simulation sollte beginnen mit …",
+    "options": [
+      "Einrichtung eines psychologisch sicheren Rahmens",
+      "Vorwurf an Einzelpersonen",
+      "Detailanalyse technischer Daten",
+      "Bewertung der Zeitüberschreitung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Kommunikation nach dem *DESC*‑Skript beinhaltet NICHT …",
+    "options": [
+      "Describe",
+      "Explain",
+      "Suggest",
+      "Consequences"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ein Rookie‑Mentoring‑Programm unterstützt …",
+    "options": [
+      "Berufsanfänger*innen durch erfahrene Kolleg*innen",
+      "Die Vermeidung von gegenseitigem Feedback",
+      "Hierarchische Distanzvergrößerung",
+      "nur ärztliches Personal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das 'STOP‑Moment' vor Schnitt dient hauptsächlich …",
+    "options": [
+      "dem Abgleich von Identität, Eingriff und Lagerung",
+      "dem Wechsel des Instrumentier‑Tisches",
+      "dem Zählen der Gazetücher",
+      "dem Freizeitgespräch"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Technik der Entscheidungsfindung priorisiert schnelle Konsensbildung bei Notfällen?",
+    "options": [
+      "Befehl (Command)",
+      "Delphi‑Methode",
+      "Mehrheitsabstimmung",
+      "Brainstorming"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die RACI‑Matrix klärt …",
+    "options": [
+      "Verantwortlichkeiten (Responsible, Accountable, Consulted, Informed)",
+      "Infektionsraten",
+      "Anästhesiearten",
+      "Kostenstellen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In High‑Reliability‑Organizations (HRO) wird *mindfulness* verstanden als …",
+    "options": [
+      "Aufmerksamkeitsfokus auf potenzielle Fehlerquellen",
+      "Meditation im Dienst",
+      "Ignorieren von near‑miss‑Events",
+      "Strikte Hierarchiebetonung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein interdisziplinärer Frühbesprechungs‑Huddle sollte idealerweise …",
+    "options": [
+      "maximal 10‑15 Minuten dauern",
+      "eine Stunde oder länger dauern",
+      "ohne Agenda stattfinden",
+      "auf Schichtende verschoben werden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mitarbeitende erhalten Feedback nach dem *Pendleton‑Modell* in folgender Reihenfolge:",
+    "options": [
+      "Selbstreflexion – positives Feedback – Verbesserungs‑Vorschläge",
+      "Kritik – Lob – Zusammenfassung",
+      "Anweisung – Sanktion – Lob",
+      "Lob – Kritik – Rechtfertigung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das *SAFE*‑Principle beim Debriefing steht NICHT für …",
+    "options": [
+      "Summarize",
+      "Anchor",
+      "Facilitate",
+      "Evaluate"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Eine hohe *Task Load* führt typischerweise zu …",
+    "options": [
+      "abnehmender Situational Awareness",
+      "besserer Multitasking‑Leistung",
+      "niedrigem Stresslevel",
+      "höherer Fehlerresistenz"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In kritischen Situationen hilft das *STEP*‑Tool (Status, Team, Environment, Progress) zur …",
+    "options": [
+      "Fortlaufenden Situations‑Einschätzung",
+      "Berechnung des BMI",
+      "Zeitmessung im OP",
+      "Sterilgutkontrolle"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Aussage GERINGSTENS unterstützt effektive Delegation?",
+    "options": [
+      "Festlegen eines klaren Rahmens",
+      "Bereitstellung ausreichender Ressourcen",
+      "Monatliche Berichterstattung über Fortschritt",
+      "Vage Zielformulierung"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Ein *structured debrief* unmittelbar nach einem Ereignis wird auch … genannt:",
+    "options": [
+      "Hot Debrief",
+      "Cold Debrief",
+      "Root‑Cause‑Analysis",
+      "Walk‑Round"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das *CICARE*‑Framework für Patient*innen‑Gespräche beginnt mit …",
+    "options": [
+      "Connect",
+      "Introduce",
+      "Communicate",
+      "Ask"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Perspektivenübergreifende Visiten (Interdisciplinary Rounds) verbessern …",
+    "options": [
+      "Therapie‑Kohärenz und Outcomes",
+      "Verfügbarkeit von Parkplätzen",
+      "OP‑Kapazität",
+      "Medikamentenkosten"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein Anstieg der *Safety Attitudes Questionnaire*‑Scores korreliert mit …",
+    "options": [
+      "geringeren Komplikations‑Raten",
+      "längeren Beatmungszeiten",
+      "höheren Antibiotikaverbrauch",
+      "mehr Überstunden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die größte Barriere für interprofessionelle Kommunikation laut WHO ist …",
+    "options": [
+      "Hierarchie",
+      "Sprache",
+      "Alter",
+      "Geschlecht"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welches Konzept beschreibt die *Vermeidung von Gruppen‑Denken*?",
+    "options": [
+      "Red‑Team‑Strategie",
+      "Fishbone‑Diagramm",
+      "Six Sigma",
+      "Lean Management"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der Begriff *Just Culture* zielt auf …",
+    "options": [
+      "ausgewogene Balance zwischen Verantwortlichkeit und Lernen",
+      "Null‑Fehler‑Toleranz mit Bestrafung",
+      "totale Anonymität",
+      "Komplettes Fehlermanagement durch Rechtsteam"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein kollegiales Coaching Setting besteht typischerweise aus …",
+    "options": [
+      "freiwilligen Peers, die Fälle gemeinsam reflektieren",
+      "Chefmonolog und Mitarbeiter*innen",
+      "schriftlicher Multiple‑Choice‑Testung",
+      "Video‑Überwachung ohne Feedback"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Effektive Feedback‑Gespräche sollten laut 'BOOST'‑Framework NICHT …",
+    "options": [
+      "beobachtungsbasiert sein",
+      "spezifisch sein",
+      "zeitnah sein",
+      "nur negative Aspekte betonen"
+    ],
+    "answer": 3
+  }
+]

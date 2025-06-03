@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Die Medizinprodukte‑Betreiberverordnung (MPBetreibV) verpflichtet Einrichtungen dazu, …",
+    "options": [
+      "ein Medizinprodukte‑Buch zu führen",
+      "jährlich einen Hygienekongress zu besuchen",
+      "Geräte ausschließlich zu leasen",
+      "Medizinprodukte nur einmalig zu verwenden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Norm bildet die Grundlage für ein zertifizierbares Qualitätsmanagement‑System im Gesundheitswesen?",
+    "options": [
+      "DIN EN ISO 9001",
+      "DIN EN 285",
+      "DIN 58953",
+      "DIN EN ISO 15223"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die Dokumentationspflicht im OP erfordert, dass Anästhesieprotokolle …",
+    "options": [
+      "unverzüglich, lückenlos und zeitnah geführt werden",
+      "nach Schichtende ergänzt werden dürfen",
+      "nur bei Risikopatient*innen notwendig sind",
+      "ausschließlich digital vorliegen müssen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das IfSG (Infektionsschutzgesetz) verpflichtet Mitarbeitende, meldepflichtige Krankheiten …",
+    "options": [
+      "unverzüglich an das Gesundheitsamt zu melden",
+      "nur im Jahresbericht zu erwähnen",
+      "an den Bundesrechnungshof zu melden",
+      "in den Personalakten abzulegen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein CIRS (Critical Incident Reporting System) dient primär …",
+    "options": [
+      "der anonymen Fehler‑ und Risikoanalyse",
+      "der Urlaubsverwaltung",
+      "der gesetzlichen Unfallversicherung",
+      "der Gehaltsabrechnung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die CE‑Kennzeichnung auf einem Medizinprodukt bedeutet …",
+    "options": [
+      "Konformität mit europäischen Richtlinien",
+      "amerikanische FDA‑Zulassung",
+      "Patent‑Schutz",
+      "klinische Studie abgeschlossen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die maximale Lagerdauer eines steril verpackten Sets im Container‑System beträgt laut DIN EN 868 üblicherweise …",
+    "options": [
+      "180 Tage",
+      "30 Tage",
+      "1 Tag",
+      "unbegrenzt"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das Robert‑Koch‑Institut (RKI) gibt verpflichtende Empfehlungen heraus für …",
+    "options": [
+      "Hygienemaßnahmen (KRINKO)",
+      "Tarifverhandlungen",
+      "Gerätewartung",
+      "Dienstplangestaltung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die Rili‑BÄK bezieht sich hauptsächlich auf …",
+    "options": [
+      "Qualitätssicherung laboratoriumsmedizinischer Untersuchungen",
+      "Reanimationsleitlinien",
+      "Apothekenbetriebsordnung",
+      "Röntgenverordnung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Datenschutzgrundverordnung (DSGVO) definiert eine Datenpanne als …",
+    "options": [
+      "Verletzung der Sicherheit personenbezogener Daten",
+      "Einen Systemausfall ohne Datenverlust",
+      "Einen Stromausfall",
+      "Fehlende Impfbescheinigung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Was ist der Zweck eines Validierungsverfahrens in der Aufbereitungseinheit für Medizinprodukte (AEMP)?",
+    "options": [
+      "Nachweis reproduzierbarer Sterilisationsergebnisse",
+      "Reduktion des Personalaufwands",
+      "Verkürzung der Zykluszeit ohne Nachweis",
+      "Kennzeichnung von Medizinprodukten"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die DIN EN 285 bezieht sich auf …",
+    "options": [
+      "Groß‑Dampf‑Sterilisatoren",
+      "Endoskopaufbereitung",
+      "Anästhesiegeräte‑Check",
+      "ISO‑Zertifizierung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welches Dokument regelt ARBEITSSCHUTZMAßNAHMEN im Umgang mit Gefahrstoffen im OP?",
+    "options": [
+      "Gefahrstoffverordnung",
+      "MPG",
+      "SGB V",
+      "Transfusionsgesetz"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein Qualitätszirkel (QZ) arbeitet nach dem Prinzip …",
+    "options": [
+      "kleine interdisziplinäre Gruppe löst Qualitätsprobleme systematisch",
+      "Führungskraft verteilt Aufgaben einseitig",
+      "Einmal pro Jahr wird eine Sitzung abgehalten",
+      "primär Hierarchiesteuerung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die 4‑Augen‑Prinzip‑Kontrolle ist ein Element …",
+    "options": [
+      "des Risiko‑ und Fehlermanagements",
+      "der Personalabrechnung",
+      "der Kostenstellenrechnung",
+      "des Marketings"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das MPG (Medizinproduktegesetz) wurde 2021 abgelöst durch …",
+    "options": [
+      "Medizinprodukte‑Durchführungsgesetz (MPDG)",
+      "Krankenhausstrukturgesetz",
+      "Patientendaten‑Schutz‑Gesetz",
+      "Heilmittelwerbegesetz"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein OP‑Zeit‑Out muss dokumentiert werden, weil …",
+    "options": [
+      "es Teil der Pflichten zur Patient*innensicherheit ist",
+      "die Versicherung es verlangt",
+      "der OP‑Plan automatisiert wird",
+      "es marketingrelevant ist"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Was ist KEIN Bestandteil der 5S‑Methode im Lean‑Management?",
+    "options": [
+      "Sortieren",
+      "Säubern",
+      "Standardisieren",
+      "Subventionieren"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Bei PERSÖNLICHER Schutzausrüstung (PSA) gegen biologische Gefahren ist welche Reihenfolge des Ablegens korrekt?",
+    "options": [
+      "Handschuhe – Schutzkittel – Maske – Schutzbrille",
+      "Maske – Schutzbrille – Handschuhe – Kittel",
+      "Schutzbrille – Handschuhe – Kittel – Maske",
+      "Handschuhe – Schutzbrille – Maske – Kittel"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die DAKKS‑Akkreditierung bestätigt …",
+    "options": [
+      "Kompetenz eines Labors zur Durchführung bestimmter Prüfungen",
+      "Compliance mit Arbeitszeitgesetz",
+      "Zertifizierung nach DIN EN 285",
+      "Validität des Krankenhausplans"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welches Gesetz verpflichtet Kliniken zu einem Internen Qualitätsmanagement nach § 135a SGB V?",
+    "options": [
+      "Sozialgesetzbuch V",
+      "IfSG",
+      "MPDG",
+      "BGB"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Nach RKI‑Empfehlung erfolgt die Wischdesinfektion vor einer Punktion …",
+    "options": [
+      "dreimal, beginnend mit kreisförmiger Bewegung von innen nach außen",
+      "einmal quer",
+      "zweimal diagonal",
+      "ohne Einwirkzeit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der HACCP‑Ansatz (Hazard Analysis & Critical Control Points) ist in Klinikküchen verpflichtend nach …",
+    "options": [
+      "EU‑Verordnung 852/2004",
+      "IfSG",
+      "MPBetreibV",
+      "Arzneimittelgesetz"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein SOP (Standard Operating Procedure) sollte MINDESTENS enthalten …",
+    "options": [
+      "Zweck, Verantwortlichkeiten, Ablauf",
+      "Budget, Kostenstelle, Stundenlohn",
+      "privaten E‑Mail‑Verkehr",
+      "Werbeanzeigen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die sogenannte 'Null‑Fehler‑Toleranz' ist in Hochrisiko‑Bereichen realistisch?",
+    "options": [
+      "Nein, es geht um Fehlervermeidung und Resilienz",
+      "Ja, Fehler dürfen nie passieren",
+      "Nur bei gesetzlicher Vorgabe",
+      "Nein, Fehler werden ignoriert"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein Transfusionscheck fordert das Abgleichen von Patient*innen‑ID, Blutgruppe und …",
+    "options": [
+      "Verfallsdatum des Blutprodukts",
+      "OP‑Plan",
+      "Körpertemperatur",
+      "Narkoseart"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die QS‑Richtlinie 'Perioperative Prozessqualität' des G‑BA fordert unter anderem …",
+    "options": [
+      "Dokumentation der Antibiotika‑Prophylaxe",
+      "Erhöhung der OP‑Dauer",
+      "Reduktion der Bettentage",
+      "Pa­ckungsgrößen‑Management"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die DIN EN ISO 13485 ist speziell zugeschnitten auf …",
+    "options": [
+      "Hersteller von Medizinprodukten",
+      "Bankwesen",
+      "Kommunikationsagenturen",
+      "Landwirtschaft"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein Risikomatrix hat zumeist Achsen für Eintrittswahrscheinlichkeit und …",
+    "options": [
+      "Schadensausmaß",
+      "Zeit",
+      "Alter",
+      "Kostenstelle"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die Bluttransfusionskommission einer Klinik tagt gemäß Transfusionsgesetz mindestens …",
+    "options": [
+      "einmal jährlich",
+      "monatlich",
+      "vierteljährlich",
+      "alle zwei Jahre"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Bei Medizinprodukten der Klasse III ist zwingend erforderlich …",
+    "options": [
+      "eine Benannte Stelle für Konformitätsbewertung",
+      "keine klinische Bewertung",
+      "Selbstdeklaration des Herstellers ohne Prüfstelle",
+      "nur Verpackungsprüfung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine UDI (Unique Device Identification) dient …",
+    "options": [
+      "der eindeutigen Rückverfolgbarkeit von Medizinprodukten",
+      "der Arbeitszeitmessung",
+      "dem Rechnungswesen",
+      "der Patientenidentifikation"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Was beschreibt der Begriff 'Traceability' im Qualitätsmanagement?",
+    "options": [
+      "Rückverfolgbarkeit von Prozessen und Produkten",
+      "Datentransparenz im Social Media",
+      "Mitarbeiter*innen‑Standortermittlung",
+      "WLAN‑Signalverstärkung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der Nationale Aktionsplan Handhygiene (WHO) fordert eine Compliance‑Rate von mindestens …",
+    "options": [
+      "80 %",
+      "50 %",
+      "25 %",
+      "100 %"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ein KVP (Kontinuierlicher Verbesserungsprozess) nutzt oft das Werkzeug …",
+    "options": [
+      "PDCA‑Zyklus",
+      "ROI‑Berechnung",
+      "CRM‑Software",
+      "Werbetracking"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche der folgenden Maßnahmen ist Teil eines Basishygieneplans?",
+    "options": [
+      "Flächendesinfektion nach Herstellervorgabe",
+      "Wöchentliche Gefährtensitzung",
+      "Anordnung von Mahlzeiten",
+      "Dienstkleidung privat waschen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das Melden von arbeitsbedingten Unfällen erfolgt an …",
+    "options": [
+      "die Berufsgenossenschaft",
+      "das Finanzamt",
+      "die Landesärztekammer",
+      "die Krankenkasse"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welches Instrument ist KEIN klassisches Qualitätswerkzeug?",
+    "options": [
+      "Histogramm",
+      "FMEA",
+      "Flussdiagramm",
+      "PowerPoint‑Präsentation"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Eine FMEA (Failure Mode and Effects Analysis) bewertet NICHT …",
+    "options": [
+      "Maßnahmenkosten",
+      "Auftretenswahrscheinlichkeit",
+      "Bedeutung",
+      "Entdeckungswahrscheinlichkeit"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Für In‑Vitro‑Diagnostika gelten besondere Anforderungen nach …",
+    "options": [
+      "IVDR (EU 2017/746)",
+      "MDR (EU 2017/745)",
+      "MPBetreibV",
+      "IfSG"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Farbe kennzeichnet laut Farbcodierung typischerweise LASER‑Sicherheitsbereiche?",
+    "options": [
+      "Gelb‑Schwarz",
+      "Rot‑Weiß",
+      "Blau",
+      "Grün"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die STK (Sicherheitstechnische Kontrolle) an Medizinprodukten ist mindestens …",
+    "options": [
+      "alle zwei Jahre durchzuführen",
+      "einmal in fünf Jahren",
+      "nur bei Defekt",
+      "nicht mehr erforderlich"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Eine Gefährdungsbeurteilung nach Arbeitsschutzgesetz muss …",
+    "options": [
+      "regelmäßig aktualisiert werden",
+      "nur einmalig erstellt werden",
+      "nicht dokumentiert werden",
+      "von Externen geheim gehalten werden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die QS‑Doku muss laut G‑BA mindestens …",
+    "options": [
+      "zehn Jahre aufbewahrt werden",
+      "fünf Jahre aufbewahrt werden",
+      "ein Jahr aufbewahrt werden",
+      "gar nicht aufbewahrt werden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Unter Fehlerkultur versteht man …",
+    "options": [
+      "den Umgang einer Organisation mit Fehlern",
+      "die Anzahl der Fehlerberichte pro Jahr",
+      "die Strafe für Fehler",
+      "die Summe der Hygienemaßnahmen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Welche Kennzahl ist typisch für ein Hygienemonitoring?",
+    "options": [
+      "MRSA‑Inzidenz pro 1000 Pflege­tage",
+      "OP‑Kapazität",
+      "EBIT",
+      "Mittlere Temperatur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "CAPA im Qualitätsmanagement steht für …",
+    "options": [
+      "Corrective and Preventive Action",
+      "Computer Aided Performance Analysis",
+      "Clinical and Patient Audit",
+      "Cost Allocation & Pricing Analysis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Die Chargendokumentation eines Sterilisators muss enthalten …",
+    "options": [
+      "Datum, Chargennummer, Temperatur‑ und Druckverlauf",
+      "Reinigungskosten",
+      "Personalnummer des Chefs",
+      "Klimadaten des Vorjahres"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Verfallene Medizinprodukte sind …",
+    "options": [
+      "sofort auszusondern und gesondert zu entsorgen",
+      "noch ein Jahr verwendbar",
+      "zurück an den Hersteller zu senden",
+      "im Kitteltasche aufzubewahren"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das Arbeitsschutzgesetz verpflichtet Arbeitgeber zu einer Unterweisung …",
+    "options": [
+      "mindestens einmal jährlich",
+      "nur bei Neueinstellung",
+      "nie",
+      "bei Kündigungs­gespräch"
+    ],
+    "answer": 0
+  }
+]

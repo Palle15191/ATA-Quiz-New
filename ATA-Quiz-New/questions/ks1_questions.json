@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Welche der folgenden Tätigkeiten fällt primär in die präoperative Phase einer ATA?",
+    "options": [
+      "Überwachung des Patienten im Aufwachraum",
+      "Durchführung der instrumentellen Sterilisation",
+      "Kontrolle des Anästhesiegeräte-Checks",
+      "Überwachung der postoperativen Schmerztherapie"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Der tägliche Anästhesiegeräte-Check sollte nach welcher anerkannten Richtlinie erfolgen?",
+    "options": [
+      "DIN EN ISO 15223",
+      "DIVI-Checkliste",
+      "WHO Surgical Safety Checklist",
+      "DIN EN 740"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Was ist KEIN Bestandteil der „Team-Time-Out“-Phase laut WHO Safety Checklist?",
+    "options": [
+      "Bestätigung des Patienten‑Namens",
+      "Verabreichung der Prämedikation",
+      "Abfrage geplanter Eingriff",
+      "Verfügbarkeit von Blutprodukten"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bei der Umlagerung eines adipösen Patienten in Rückenlage ist welches Hilfsmittel vorrangig einzusetzen?",
+    "options": [
+      "Slide‑Board",
+      "Luftkissenmatte",
+      "Operationstischverlängerung",
+      "Beckengurt"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Das Einlegen einer nasalen Rachentamponade bei Epistaxis gehört zur Kompetenz …",
+    "options": [
+      "des ENT‑Arztes ausschließlich",
+      "der ATA nach ärztlicher Anordnung",
+      "des Aufwachraumpersonals ohne Anordnung",
+      "der OP‑Pflegekraft eigenverantwortlich"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Welche Dokumentation MUSS vor Anästhesiebeginn vollständig vorliegen?",
+    "options": [
+      "Anästhesieprotokoll",
+      "OP-Bericht",
+      "Pathologieanforderung",
+      "Radiologiebefund"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Der Kapnometer‑Nullabgleich wird üblicherweise …",
+    "options": [
+      "einmal wöchentlich durchgeführt",
+      "vor jeder Intubationsnarkose gestartet",
+      "nach jeder Patientenbeatmung erforderlich",
+      "nur bei auffälligen Messwerten veranlasst"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Welche Maßnahme dient der Prävention perioperativer Hypothermie?",
+    "options": [
+      "Lagerung auf Gelmatte",
+      "Anwendung einer aktiven Wärmedecke",
+      "Raumtemperatur < 18 °C halten",
+      "Infusionen unaufgewärmt verabreichen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bei der Vorbereitung eines TIVA‑Sets (Total Intravenous Anaesthesia) ist ZUERST …",
+    "options": [
+      "das Propofol‑Perfusorsystem luftblasenfrei zu füllen",
+      "der passende Wegwerfschlauch auszuwählen",
+      "der Perfusor auf 0 ml/h zu programmieren",
+      "die Infusionsleitung an den Dreiwegehahn anzuschließen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Was ist das Mindesthaltbarkeitsdatum eines geöffneten Etikettier‑Markers laut MPG‑Empfehlung?",
+    "options": [
+      "1 Tag",
+      "7 Tage",
+      "28 Tage",
+      "90 Tage"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(11) Frage zu Korrekte patient:innenidentifikation?",
+    "options": [
+      "Name, Geburtsdatum und Eingriff werden laut Armband überprüft",
+      "Nur Name wird abgefragt",
+      "Nur Fallnummer wird kontrolliert",
+      "Identifikation erfolgt erst im OP-Saal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(12) Frage zu Lippenpflege beim langen eingriff?",
+    "options": [
+      "Sterile Vaseline dünn auftragen",
+      "Keine Pflege notwendig",
+      "Alkoholhaltige Lösung nutzen",
+      "Nur bei Kindern anwenden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(13) Frage zu Dichtigkeitstest des beatmungskreises?",
+    "options": [
+      "vor jeder Narkose",
+      "einmal pro Woche",
+      "nur nach Filterwechsel",
+      "nur bei Leckwarnung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(14) Frage zu Asa-klassifikation?",
+    "options": [
+      "bewertet den körperlichen Status des Patienten",
+      "klassifiziert Anästhesiegeräte",
+      "gibt Blutverlust-Prognose an",
+      "beschreibt Lagerungsarten"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(15) Frage zu Anlage einer blutsperre (esmarch)?",
+    "options": [
+      "Cave: Maximale Dauer 90 Minuten",
+      "keine Zeitbegrenzung",
+      "nur bei Kindern",
+      "nicht erforderlich"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(16) Frage zu Ringer-laktat?",
+    "options": [
+      "ist balanciert und enthält Laktat",
+      "ist Glukose-frei",
+      "enthält kein Kalium",
+      "ist kolloid"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(17) Frage zu Neutralposition bei intubation?",
+    "options": [
+      "vermeidet schwierige Atemwege",
+      "ist für alle Patienten kontraindiziert",
+      "führt zur Hyperflexion",
+      "reduziert TV"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(18) Frage zu Ziel-sas im aufwachraum?",
+    "options": [
+      "zwischen −1 und +1",
+      "über +3",
+      "unter −3",
+      "nicht definiert"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(19) Frage zu Sauerstoffflaschengröße e?",
+    "options": [
+      "ca. 680 l O2",
+      "100 l O2",
+      "1350 l O2",
+      "2000 l O2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(20) Frage zu Endotrachealtubus cuff-druck?",
+    "options": [
+      "20–30 cmH₂O",
+      "5 cmH₂O",
+      "50 cmH₂O",
+      ">80 cmH₂O"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(21) Frage zu Korrekte patient:innenidentifikation?",
+    "options": [
+      "Name, Geburtsdatum und Eingriff werden laut Armband überprüft",
+      "Nur Name wird abgefragt",
+      "Nur Fallnummer wird kontrolliert",
+      "Identifikation erfolgt erst im OP-Saal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(22) Frage zu Lippenpflege beim langen eingriff?",
+    "options": [
+      "Sterile Vaseline dünn auftragen",
+      "Keine Pflege notwendig",
+      "Alkoholhaltige Lösung nutzen",
+      "Nur bei Kindern anwenden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(23) Frage zu Dichtigkeitstest des beatmungskreises?",
+    "options": [
+      "vor jeder Narkose",
+      "einmal pro Woche",
+      "nur nach Filterwechsel",
+      "nur bei Leckwarnung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(24) Frage zu Asa-klassifikation?",
+    "options": [
+      "bewertet den körperlichen Status des Patienten",
+      "klassifiziert Anästhesiegeräte",
+      "gibt Blutverlust-Prognose an",
+      "beschreibt Lagerungsarten"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(25) Frage zu Anlage einer blutsperre (esmarch)?",
+    "options": [
+      "Cave: Maximale Dauer 90 Minuten",
+      "keine Zeitbegrenzung",
+      "nur bei Kindern",
+      "nicht erforderlich"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(26) Frage zu Ringer-laktat?",
+    "options": [
+      "ist balanciert und enthält Laktat",
+      "ist Glukose-frei",
+      "enthält kein Kalium",
+      "ist kolloid"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(27) Frage zu Neutralposition bei intubation?",
+    "options": [
+      "vermeidet schwierige Atemwege",
+      "ist für alle Patienten kontraindiziert",
+      "führt zur Hyperflexion",
+      "reduziert TV"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(28) Frage zu Ziel-sas im aufwachraum?",
+    "options": [
+      "zwischen −1 und +1",
+      "über +3",
+      "unter −3",
+      "nicht definiert"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(29) Frage zu Sauerstoffflaschengröße e?",
+    "options": [
+      "ca. 680 l O2",
+      "100 l O2",
+      "1350 l O2",
+      "2000 l O2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(30) Frage zu Endotrachealtubus cuff-druck?",
+    "options": [
+      "20–30 cmH₂O",
+      "5 cmH₂O",
+      "50 cmH₂O",
+      ">80 cmH₂O"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(31) Frage zu Korrekte patient:innenidentifikation?",
+    "options": [
+      "Name, Geburtsdatum und Eingriff werden laut Armband überprüft",
+      "Nur Name wird abgefragt",
+      "Nur Fallnummer wird kontrolliert",
+      "Identifikation erfolgt erst im OP-Saal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(32) Frage zu Lippenpflege beim langen eingriff?",
+    "options": [
+      "Sterile Vaseline dünn auftragen",
+      "Keine Pflege notwendig",
+      "Alkoholhaltige Lösung nutzen",
+      "Nur bei Kindern anwenden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(33) Frage zu Dichtigkeitstest des beatmungskreises?",
+    "options": [
+      "vor jeder Narkose",
+      "einmal pro Woche",
+      "nur nach Filterwechsel",
+      "nur bei Leckwarnung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(34) Frage zu Asa-klassifikation?",
+    "options": [
+      "bewertet den körperlichen Status des Patienten",
+      "klassifiziert Anästhesiegeräte",
+      "gibt Blutverlust-Prognose an",
+      "beschreibt Lagerungsarten"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(35) Frage zu Anlage einer blutsperre (esmarch)?",
+    "options": [
+      "Cave: Maximale Dauer 90 Minuten",
+      "keine Zeitbegrenzung",
+      "nur bei Kindern",
+      "nicht erforderlich"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(36) Frage zu Ringer-laktat?",
+    "options": [
+      "ist balanciert und enthält Laktat",
+      "ist Glukose-frei",
+      "enthält kein Kalium",
+      "ist kolloid"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(37) Frage zu Neutralposition bei intubation?",
+    "options": [
+      "vermeidet schwierige Atemwege",
+      "ist für alle Patienten kontraindiziert",
+      "führt zur Hyperflexion",
+      "reduziert TV"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(38) Frage zu Ziel-sas im aufwachraum?",
+    "options": [
+      "zwischen −1 und +1",
+      "über +3",
+      "unter −3",
+      "nicht definiert"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(39) Frage zu Sauerstoffflaschengröße e?",
+    "options": [
+      "ca. 680 l O2",
+      "100 l O2",
+      "1350 l O2",
+      "2000 l O2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(40) Frage zu Endotrachealtubus cuff-druck?",
+    "options": [
+      "20–30 cmH₂O",
+      "5 cmH₂O",
+      "50 cmH₂O",
+      ">80 cmH₂O"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(41) Frage zu Korrekte patient:innenidentifikation?",
+    "options": [
+      "Name, Geburtsdatum und Eingriff werden laut Armband überprüft",
+      "Nur Name wird abgefragt",
+      "Nur Fallnummer wird kontrolliert",
+      "Identifikation erfolgt erst im OP-Saal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(42) Frage zu Lippenpflege beim langen eingriff?",
+    "options": [
+      "Sterile Vaseline dünn auftragen",
+      "Keine Pflege notwendig",
+      "Alkoholhaltige Lösung nutzen",
+      "Nur bei Kindern anwenden"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(43) Frage zu Dichtigkeitstest des beatmungskreises?",
+    "options": [
+      "vor jeder Narkose",
+      "einmal pro Woche",
+      "nur nach Filterwechsel",
+      "nur bei Leckwarnung"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(44) Frage zu Asa-klassifikation?",
+    "options": [
+      "bewertet den körperlichen Status des Patienten",
+      "klassifiziert Anästhesiegeräte",
+      "gibt Blutverlust-Prognose an",
+      "beschreibt Lagerungsarten"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(45) Frage zu Anlage einer blutsperre (esmarch)?",
+    "options": [
+      "Cave: Maximale Dauer 90 Minuten",
+      "keine Zeitbegrenzung",
+      "nur bei Kindern",
+      "nicht erforderlich"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(46) Frage zu Ringer-laktat?",
+    "options": [
+      "ist balanciert und enthält Laktat",
+      "ist Glukose-frei",
+      "enthält kein Kalium",
+      "ist kolloid"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(47) Frage zu Neutralposition bei intubation?",
+    "options": [
+      "vermeidet schwierige Atemwege",
+      "ist für alle Patienten kontraindiziert",
+      "führt zur Hyperflexion",
+      "reduziert TV"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(48) Frage zu Ziel-sas im aufwachraum?",
+    "options": [
+      "zwischen −1 und +1",
+      "über +3",
+      "unter −3",
+      "nicht definiert"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(49) Frage zu Sauerstoffflaschengröße e?",
+    "options": [
+      "ca. 680 l O2",
+      "100 l O2",
+      "1350 l O2",
+      "2000 l O2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(50) Frage zu Endotrachealtubus cuff-druck?",
+    "options": [
+      "20–30 cmH₂O",
+      "5 cmH₂O",
+      "50 cmH₂O",
+      ">80 cmH₂O"
+    ],
+    "answer": 0
+  }
+]
