@@ -1,82 +1,102 @@
-
-import json, random
-from pathlib import Path
+# streamlit_app.py
+import json
+import random
+import pathlib
 import streamlit as st
 
-QUEST_DIR = Path(__file__).parent.parent / "questions"
-KS_PATHS  = {p.stem.split("_")[0].upper(): p for p in QUEST_DIR.glob("ks*_questions.json")}
+# --------------------------------------------------
+# Grundeinstellungen
+# --------------------------------------------------
+st.set_page_config(page_title="ATA-Quiz", page_icon="🩺", layout="wide")
+DATA_PATH = pathlib.Path("questions")        # Ordner mit ks1_questions_detailed.json usw.
+KS_ORDER   = [1, 2, 3, 4, 5, 6, 7, 8]       # Reihenfolge der Kompetenzschwerpunkte
+NUM_QUEST  = 15                             # Fragen pro Durchgang
 
-KS_LABELS = {
-    "KS1": "KS1 – Berufsbezogene Aufgaben",
-    "KS2": "KS2 – Diagnostik & Therapie",
-    "KS3": "KS3 – Interprofessionelles Handeln",
-    "KS4": "KS4 – Persönliche Entwicklung",
-    "KS5": "KS5 – Recht & Qualität",
-    "KS6": "KS6 – Kommunikation",
-    "KS7": "KS7 – Krisen- & Katastrophenmanagement",
-    "KS8": "KS8 – Hygiene & Sterilgut"
-}
+# --------------------------------------------------
+# Hilfsfunktionen
+# --------------------------------------------------
+@st.cache_data
+def load_questions(ks_no: int):
+    file = DATA_PATH / f"ks{ks_no}_questions_detailed.json"
+    with open(file, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-def init_state():
-    for k, v in dict(current_ks=None, question_set=[], q_idx=0, score=0,
-                     answered=False, correct_last=None).items():
-        st.session_state.setdefault(k, v)
+def init_session():
+    if "state_ready" not in st.session_state:
+        st.session_state.update({
+            "state_ready": False,
+            "ks": None,
+            "q_set": [],
+            "q_idx": 0,
+            "score": 0,
+            "show_result": False,
+        })
 
-init_state()
-
-def reset_quiz(ks_code):
-    with KS_PATHS[ks_code].open(encoding='utf-8') as f:
-        pool = json.load(f)
+def start_quiz(ks_no: int):
+    qs = load_questions(ks_no)
+    random.shuffle(qs)
     st.session_state.update(
-        current_ks=ks_code,
-        question_set=random.sample(pool, min(15, len(pool))),
-        q_idx=0, score=0, answered=False, correct_last=None
+        ks=ks_no,
+        q_set=qs[:NUM_QUEST],
+        q_idx=0,
+        score=0,
+        state_ready=True,
+        show_result=False,
     )
 
-def next_q():
+def next_question(correct: bool):
+    if correct:
+        st.session_state.score += 1
+    st.session_state.show_result = True
+
+def proceed():
     st.session_state.q_idx += 1
-    st.session_state.answered = False
-    st.session_state.correct_last = None
+    st.session_state.show_result = False
+    if st.session_state.q_idx >= NUM_QUEST:
+        st.session_state.state_ready = False  # Quiz beendet
 
-def new_round():
-    reset_quiz(st.session_state.current_ks)
+# --------------------------------------------------
+# UI: KS-Auswahl oder Quiz
+# --------------------------------------------------
+init_session()
 
-st.set_page_config(page_title='ATA-Quiz', page_icon='🩺', layout='wide')
-st.title('🩺 ATA-Quiz – Kompetenzschwerpunkte')
+st.title("🩺 ATA-Quiz")
 
-placeholder='-- bitte wählen --'
-labels=[placeholder]+[KS_LABELS[k] for k in sorted(KS_PATHS)]
-sel_idx=labels.index(KS_LABELS[st.session_state.current_ks]) if st.session_state.current_ks else 0
-label=st.selectbox('KS auswählen:', labels, index=sel_idx)
-chosen=None if label==placeholder else next(k for k,v in KS_LABELS.items() if v==label)
+if not st.session_state.state_ready:
+    st.subheader("Kompetenzschwerpunkt wählen")
+    cols = st.columns(len(KS_ORDER))
+    for ix, ks in enumerate(KS_ORDER):
+        if cols[ix].button(f"KS {ks}"):
+            start_quiz(ks)
+    st.write("⬆️ Bitte Schwerpunkt auswählen.")
+else:
+    q_obj = st.session_state.q_set[st.session_state.q_idx]
+    st.write(f"**Frage {st.session_state.q_idx + 1} / {NUM_QUEST}**")
+    st.markdown(f"### {q_obj['question']}")
 
-if chosen and chosen!=st.session_state.current_ks:
-    reset_quiz(chosen)
+    # Antwort-Buttons
+    for idx, option in enumerate(q_obj["options"]):
+        if st.button(option, disabled=st.session_state.show_result):
+            correct = idx == q_obj["answer"]
+            next_question(correct)
 
-if st.session_state.current_ks:
-    if st.session_state.q_idx < len(st.session_state.question_set):
-        q=st.session_state.question_set[st.session_state.q_idx]
-        st.subheader(f'Frage {st.session_state.q_idx+1} / {len(st.session_state.question_set)}')
-        st.markdown(f"**{q['question']}**")
-        cols=st.columns(2)
-        for i,opt in enumerate(q['options']):
-            if cols[i%2].button(opt, key=f"opt_{st.session_state.q_idx}_{i}") and not st.session_state.answered:
-                st.session_state.answered=True
-                st.session_state.correct_last=(i==q['answer'])
-                if st.session_state.correct_last:
-                    st.session_state.score+=1
-        if st.session_state.answered:
-            if st.session_state.correct_last:
-                st.success('✔️ Richtig!')
-            else:
-                st.error(f"❌ Falsch – korrekt: **{q['options'][q['answer']]}**")
-            ref = q.get('ref_detail') or q.get('ref')
-            if ref:
-                st.info(f'📖 Nachschlagen: *ATA-Lehrbuch* {ref}')
-            btn_label='➡️ Nächste Frage' if st.session_state.q_idx < len(st.session_state.question_set)-1 else '🏁 Ergebnis anzeigen'
-            st.button(btn_label, on_click=next_q)
-    else:
-        st.balloons()
-        st.header('🎉 Quiz beendet')
-        st.success(f"Du hast **{st.session_state.score} / {len(st.session_state.question_set)}** richtig!")
-        st.button('🔄 Neue Runde', on_click=new_round)
+    # Ergebnis-Anzeige
+    if st.session_state.show_result:
+        correct = q_obj["answer"]
+        result_text = "✅ Richtig!" if idx == correct else f"❌ Falsch – korrekt: {q_obj['options'][correct]}"
+        st.markdown(result_text)
+
+        # **Neue ausführliche Begründung**
+        st.info(q_obj.get("answer_explanation", "Keine Erklärung hinterlegt."))
+
+        # Weiter-Button
+        if st.button("Nächste Frage"):
+            proceed()
+
+# --------------------------------------------------
+# End-Scoring
+# --------------------------------------------------
+if st.session_state.state_ready is False and st.session_state.ks is not None:
+    st.success(f"Fertig! Du hast {st.session_state.score} von {NUM_QUEST} Punkten erreicht.")
+    if st.button("🔄 Neuer Durchgang"):
+        st.session_state.ks = None
